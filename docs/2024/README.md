@@ -1,8 +1,8 @@
-# Introduction to Ancient Metagenomics Summer School - 2024
+# HAAM Summer School - 2024
 
 ## Latest
 
-Applications for the 2024 Introduction to Ancient Metagenomics Summer school are now **closed**!
+Applications for the 2024 HAAM Summer school are now **closed**!
 
 We were over subscribed with almost 100 applications. Thank you for your interest :D
 
@@ -25,13 +25,13 @@ The summer school will be held between 17th-19th June 2024, 09:00-17:00 CEST (Be
 
 ## Where
 
-We will be running this virtual edition of the HAAM Summer School on [Gather.Town](https://gather.town), on the SPAAM workspace [here](https://tinyurl.com/haamsummerschool). <!-- Check the layout here! -->
+We will be running this virtual edition of the HAAM Summer School on [Gather.Town](https://gather.town), on the HAAM workspace [here](https://tinyurl.com/haamsummerschool). <!-- Check the layout here! -->
 
 If you're not familiar with this platform please see the documentation on the gather.town website, or [this 'Quick Start' video from nf-core](https://nf-co.re/events/2022/bytesize-37-gathertown).
 
 > ⚠️ If you're using Mac/OSX we highly recommend using the desktop app of gather.town rather than your web browser, for optimisation purposes.
 
--- ## What
+## What
 
 You will need access to the internet, and a modern web browser - either Google Chrome, Chromium or Microsoft Edge.
 Firefox, is also possible, but makes copy-pasting difficult (you will need to press <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>alt</kbd> a lot...). Safari isn't recommended.
@@ -48,23 +48,76 @@ If you get a message about permissions for 'colour management', please use the p
 
 The schedule for the summer school is as follows:
 
-<img src="assets/images/schedules/schedule_v4.png" width=90%>
-
-<!-- | **Time**    | **Session Type** | **Day 1**                                                               | **Day 2**                                                               | **Day 3**                                         | **Day 4**                          | **Day 5**                                      |
-| ----------- | ---------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------- | ---------------------------------- | ---------------------------------------------- |
-| 09:00-10:15 | Theoretical      | Welcome & Introduction to NGS data                                      | Introduction to ancient DNA                                             | Introduction to metagenomics                      | Introduction to microbial genomics | Introduction to eDNA                           |
-| 10:15-10:30 |                  | Break                                                                   | Break                                                                   | Break                                             | Break                              | Break                                          |
-| 10:30-12:30 | Practical        | BareBonesBash                                                           | Introduction to R and the tidyverse & Introduction to Python and Pandas | Taxonomic Profiling, OTU Tables and Visualisation | Genome assembly                    | Decontamination / Authentication               |
-| 12:30-13:30 |                  | Lunch                                                                   | Lunch                                                                   | Lunch                                             | Lunch                              | Lunch                                          |
-| 13:30-15:30 | Practical        | Introduction to R and the tidyverse & Introduction to Python and Pandas | Introduction to Git(Hub) & Introduction to AncientMetagenomeDir (1hr)   | Genome mapping                                    | Phylogenomics                      | Authentication / Ancient Metagenomic Pipelines |
-| 13:30-15:45 |                  | Break                                                                   | Break                                                                   | Break                                             | Break                              |                                                |
-| 15:45-17:00 | Roundtable       | TBC                                                                     | TBC                                                                     | TBC                                               | TBC                                | Dinner (Leipzig Only)                          |
--->
-
+<table>
+  <tr>
+    <th>Time</th>
+    <th>Day 1</th>
+    <th>Day 2</th>
+    <th>Day 3</th>
+  </tr>
+  <tr>
+    <td rowspan="2">09:00-10:15</td>
+    <td>Welcome Session</td>
+    <td style="background-color:#DBC9D2;">Introduction to Genetic Relatedness<br><br>(Şevval Aktürk)</td>
+    <td rowspan="2" style="background-color:#DBC9D2;">Introduction to Population Genetics<br><br>(Stephan Schiffels)</td>
+  </tr>
+  <tr>
+    <td style="background-color:#DBC9D2;">Introduction to NGS data<br><br>(Kyriaki Anastasiadou)</td>
+    <td style="background-color:#FFE3E3;">Pairwise Mismatch Methods<br><br>(Şevval Aktürk)</td>
+  </tr>
+  <tr>
+    <td>10:15-10:30</td>
+    <td>Break</td>
+    <td>Break</td>
+    <td>Break</td>
+  </tr>
+  <tr>
+    <td rowspan="2">10:30-12:30</td>
+    <td rowspan="2" style="background-color:#FFE3E3;">Introduction to NF-core/EAGER<br><br>(James Fellows Yates)</td>
+    <td style="background-color:#FFE3E3;">IBD-based Methods<br><br>(Şevval Aktürk)</td>
+    <td style="background-color:#FFE3E3;">Data Curation: Poseidon<br><br>(Clemens Schmid<br><br><br><br>Ayshin Galichi)</td>
+  </tr>
+  <tr>
+    <td style="background-color:#DBC9D2;">Imputation of Ancient DNA<br><br>(Bárbara Sousa da Mota)</td>
+    <td style="background-color:#FFE3E3;">Unsupervised Analyses: PCA/MDS, Admixture<br><br>(Jazmín Ramos-Madrigal)</td>
+  </tr>
+  <tr>
+    <td>12:30-14:00</td>
+    <td>Lunch</td>
+    <td>Lunch</td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
+    <td rowspan="2">14:00-15:30</td>
+    <td rowspan="2" style="background-color:#FFE3E3;">Data PreProcessing: Nf-Core/EAGER<br><br>(James Fellows Yates<br><br><br><br>Selina Carlhoff)</td>
+    <td style="background-color:#FFE3E3;">IBD-based Methods II: Inbreeding and Effective Population Size<br><br>(Harald Ringbauer)</td>
+    <td rowspan="2" style="background-color:#B9C1D8;">Round Table</td>
+  </tr>
+  <tr>
+    <td style="background-color:#DBC9D2;">AncIBD; HapRoH(Ne)<br><br>(Harald Ringbauer)</td>
+  </tr>
+  <tr>
+    <td>15:30-15:45</td>
+    <td>Break</td>
+    <td>Break</td>
+    <td>Break</td>
+  </tr>
+  <tr>
+    <td rowspan="2">15:45-17:00</td>
+    <td style="background-color:#FFE3E3;">Ethics in Ancient DNA Research<br><br>(Krystal Tsosie)</td>
+    <td rowspan="2" style="background-color:#B9C1D8;">Round Table</td>
+    <td style="background-color:#DBC9D2;">Supervised Analyses: Admixtools2<br><br>(Robert Maier)</td>
+  </tr>
+  <tr>
+    <td style="background-color:#B9C1D8;">Round Table</td>
+    <td>Closing Session</td>
+  </tr>  
+</table>
 
 
 <!-- Lectures and Practical sessions are typically 2 hours, and round-table discussions 1 hour. -->
 
+For any inquiries contact [HAAM Community](mailto:haamcommunity2023@gmail.com) or [Epifania Arango](epifaniarango@gmail.com)
 \* All times are in CEST (Leipzig, Germany)!
 
 ## Contents Overview

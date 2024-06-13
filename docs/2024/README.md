@@ -9,11 +9,9 @@ We were over subscribed with almost 100 applications. Thank you for your interes
 
 ## What
 
-The **Ancient Metagenomics Summer School** is a 5 day **practical** workshop ('block praktikum'). Attendees who participated in the entire course will receive 1.5 ECTS points (40 hours of instruction and practicals) from the Jena School for Microbial Communications graduate school (Friedrich Schiller Universität Jena) and a Certificate of Participation by Harvard University.
-
-The course is taught by active researchers of the SPAAM Community (including MPI-EVA in Germany, Harvard University in the US, SciLifeLab in Sweden, and University of Vienna in Austria) and supported by the Werner Siemens Foundation, in collaboration with the Max Planck Harvard Center for the Archaeoscience of the Ancient Mediterranean (MHAAM), the Leibniz Institute for Natural Product Research and Infection Biology, and the Jena School for Microbial Communications. The course coordinators are Dr. James Fellows Yates (james_fellows_yates@eva.mpg.de) and Prof. Dr. Christina Warinner (christina_warinner@eva.mpg.de).
-
-The course will be following the content in the (draft) [Introduction to Ancient Metagenomics textbook](https://www.spaam-community.org/intro-to-ancient-metagenomics-book/).
+The **HAAM Summer School** is a 3 day workshop, with a mix of theoretical and practical sessions. Our first Summer School, with the motto *‘Connecting the past, present, and future’*, will cover different aspects of human ancient DNA (aDNA) research, including both technical and ethical challenges and considerations and when working with human skeletal remains and human genetic data.
+The Summer School will be held in a 100% virtual format to maximise accessibility and inclusivity for attendees worldwide, particularly for those working in lower-income countries and/or with limited funding, and to ensure that all participants can have equal access to content and interactions, as well as any network opportunities that could stem from the summer school, regardless where they are based. 
+The course is planned by active researchers of the HAAM-community (including The Francis Crick Institute (UK), MPI-EVA (DE), Globe Institute (DK), University College Dublin (IE) & University of Zurich (CH)). [Instructors](/2024/instructors.md) of the course are volunteers teaching during the period of the Summer School. The summer school is supported by Max Planck Institute for Evolutionary Anthropology and the International Society of Biomolecular Archaeology.
 
 ## Who
 
@@ -27,13 +25,13 @@ The summer school will be held between 17th-19th June 2024, 09:00-17:00 CEST (Be
 
 ## Where
 
-We will be running this virtual edition of the HAAM Summer School on [Gather.Town](https://gather.town), on the SPAAM workspace [here](https://app.gather.town/app/3vMfPC4aqk2kPq3c/HAAM-Summer%20School). <!-- Check the layout here! -->
+We will be running this virtual edition of the HAAM Summer School on [Gather.Town](https://gather.town), on the SPAAM workspace [here](https://tinyurl.com/haamsummerschool). <!-- Check the layout here! -->
 
 If you're not familiar with this platform please see the documentation on the gather.town website, or [this 'Quick Start' video from nf-core](https://nf-co.re/events/2022/bytesize-37-gathertown).
 
 > ⚠️ If you're using Mac/OSX we highly recommend using the desktop app of gather.town rather than your web browser, for optimisation purposes.
 
-<!-- ## What
+-- ## What
 
 You will need access to the internet, and a modern web browser - either Google Chrome, Chromium or Microsoft Edge.
 Firefox, is also possible, but makes copy-pasting difficult (you will need to press <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>alt</kbd> a lot...). Safari isn't recommended.
@@ -44,11 +42,13 @@ Registration links will be sent via email all participants, however detailed ins
 
 Once you've received your link, each participant will need to open the link in their browser. On the Guacamole page please use the username/password und 'Login credentials' [here](https://cloud.denbi.de/wiki/simple_vm/customization/#apache-guacamole). You should then see a desktop environment.
 
-If you get a message about permissions for 'colour management', please use the password described for the 'Ubuntu User' in the next code block below the 'Login Credentials' in the instructions above. -->
+If you get a message about permissions for 'colour management', please use the password described for the 'Ubuntu User' in the next code block below the 'Login Credentials' in the instructions above.
 
 ## Schedule
 
 The schedule for the summer school is as follows:
+
+<img src="assets/images/schedules/schedule_v4.png" width=90%>
 
 <!-- | **Time**    | **Session Type** | **Day 1**                                                               | **Day 2**                                                               | **Day 3**                                         | **Day 4**                          | **Day 5**                                      |
 | ----------- | ---------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------- | ---------------------------------- | ---------------------------------------------- |
@@ -63,7 +63,7 @@ The schedule for the summer school is as follows:
 
 
 
-Lectures and Practical sessions are typically 2 hours, and round-table discussions 1 hour.
+<!-- Lectures and Practical sessions are typically 2 hours, and round-table discussions 1 hour. -->
 
 \* All times are in CEST (Leipzig, Germany)!
 

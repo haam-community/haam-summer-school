@@ -27,10 +27,10 @@ Meet your instructors! This page introduces you to the people guiding you throug
 
 -->
 
+<!--
 
 <div class="avatar">
 
-<!--
   <div class ="member">
     <div class="square"><a href="<URL>" target="_blank"><img src="assets/images/headshots/ACCOUNT_Anonymous.png" alt="Avatar" /></a></div>
     <p>ACCOUNT Anonymous</p>

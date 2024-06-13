@@ -48,7 +48,7 @@ If you get a message about permissions for 'colour management', please use the p
 
 The schedule for the summer school is as follows:
 
-<table>
+<table style="text-align:center;">
   <tr>
     <th>Time</th>
     <th>Day 1</th>
@@ -58,12 +58,12 @@ The schedule for the summer school is as follows:
   <tr>
     <td rowspan="2">09:00-10:15</td>
     <td>Welcome Session</td>
-    <td style="background-color:#DBC9D2;">Introduction to Genetic Relatedness<br><br>(Şevval Aktürk)</td>
-    <td rowspan="2" style="background-color:#DBC9D2;">Introduction to Population Genetics<br><br>(Stephan Schiffels)</td>
+    <td style="background-color:#DBC9D2; text-align:center;">Introduction to Genetic Relatedness<br><br>(Şevval Aktürk)</td>
+    <td rowspan="2" style="background-color:#DBC9D2; text-align:center;">Introduction to Population Genetics<br><br>(Stephan Schiffels)</td>
   </tr>
   <tr>
-    <td style="background-color:#DBC9D2;">Introduction to NGS data<br><br>(Kyriaki Anastasiadou)</td>
-    <td style="background-color:#FFE3E3;">Pairwise Mismatch Methods<br><br>(Şevval Aktürk)</td>
+    <td style="background-color:#DBC9D2; text-align:center;">Introduction to NGS data<br><br>(Kyriaki Anastasiadou)</td>
+    <td style="background-color:#FFE3E3; text-align:center;">Pairwise Mismatch Methods<br><br>(Şevval Aktürk)</td>
   </tr>
   <tr>
     <td>10:15-10:30</td>
@@ -73,13 +73,13 @@ The schedule for the summer school is as follows:
   </tr>
   <tr>
     <td rowspan="2">10:30-12:30</td>
-    <td rowspan="2" style="background-color:#FFE3E3;">Introduction to NF-core/EAGER<br><br>(James Fellows Yates)</td>
-    <td style="background-color:#FFE3E3;">IBD-based Methods<br><br>(Şevval Aktürk)</td>
-    <td style="background-color:#FFE3E3;">Data Curation: Poseidon<br><br>(Clemens Schmid<br><br><br><br>Ayshin Galichi)</td>
+    <td rowspan="2" style="background-color:#FFE3E3; text-align:center;">Introduction to NF-core/EAGER<br><br>(James Fellows Yates)</td>
+    <td style="background-color:#FFE3E3; text-align:center;">IBD-based Methods<br><br>(Şevval Aktürk)</td>
+    <td style="background-color:#FFE3E3; text-align:center;">Data Curation: Poseidon<br><br>(Clemens Schmid<br>Ayshin Galichi)</td>
   </tr>
   <tr>
-    <td style="background-color:#DBC9D2;">Imputation of Ancient DNA<br><br>(Bárbara Sousa da Mota)</td>
-    <td style="background-color:#FFE3E3;">Unsupervised Analyses: PCA/MDS, Admixture<br><br>(Jazmín Ramos-Madrigal)</td>
+    <td style="background-color:#DBC9D2; text-align:center;">Imputation of Ancient DNA<br><br>(Bárbara Sousa da Mota)</td>
+    <td style="background-color:#FFE3E3; text-align:center;">Unsupervised Analyses: PCA/MDS, Admixture<br><br>(Jazmín Ramos-Madrigal)</td>
   </tr>
   <tr>
     <td>12:30-14:00</td>
@@ -89,12 +89,12 @@ The schedule for the summer school is as follows:
   </tr>
   <tr>
     <td rowspan="2">14:00-15:30</td>
-    <td rowspan="2" style="background-color:#FFE3E3;">Data PreProcessing: Nf-Core/EAGER<br><br>(James Fellows Yates<br><br><br><br>Selina Carlhoff)</td>
-    <td style="background-color:#FFE3E3;">IBD-based Methods II: Inbreeding and Effective Population Size<br><br>(Harald Ringbauer)</td>
-    <td rowspan="2" style="background-color:#B9C1D8;">Round Table</td>
+    <td rowspan="2" style="background-color:#FFE3E3; text-align:center;">Data PreProcessing: Nf-Core/EAGER<br><br>(James Fellows Yates<br>Selina Carlhoff)</td>
+    <td style="background-color:#FFE3E3; text-align:center;">IBD-based Methods II: Inbreeding and Effective Population Size<br><br>(Harald Ringbauer)</td>
+    <td rowspan="2" style="background-color:#B9C1D8; text-align:center;">Round Table</td>
   </tr>
   <tr>
-    <td style="background-color:#DBC9D2;">AncIBD; HapRoH(Ne)<br><br>(Harald Ringbauer)</td>
+    <td style="background-color:#DBC9D2; text-align:center;">AncIBD; HapRoH(Ne)<br><br>(Harald Ringbauer)</td>
   </tr>
   <tr>
     <td>15:30-15:45</td>
@@ -104,77 +104,62 @@ The schedule for the summer school is as follows:
   </tr>
   <tr>
     <td rowspan="2">15:45-17:00</td>
-    <td style="background-color:#FFE3E3;">Ethics in Ancient DNA Research<br><br>(Krystal Tsosie)</td>
-    <td rowspan="2" style="background-color:#B9C1D8;">Round Table</td>
-    <td style="background-color:#DBC9D2;">Supervised Analyses: Admixtools2<br><br>(Robert Maier)</td>
+    <td style="background-color:#FFE3E3; text-align:center;">Ethics in Ancient DNA Research<br><br>(Krystal Tsosie)</td>
+    <td rowspan="2" style="background-color:#B9C1D8; text-align:center;">Round Table</td>
+    <td style="background-color:#DBC9D2; text-align:center;">Supervised Analyses: Admixtools2<br><br>(Robert Maier)</td>
   </tr>
   <tr>
-    <td style="background-color:#B9C1D8;">Round Table</td>
+    <td style="background-color:#B9C1D8; text-align:center;">Round Table</td>
     <td>Closing Session</td>
   </tr>  
 </table>
 
 
+
 <!-- Lectures and Practical sessions are typically 2 hours, and round-table discussions 1 hour. -->
 
-For any inquiries contact [HAAM Community](mailto:haamcommunity2023@gmail.com) or [Epifania Arango](epifaniarango@gmail.com)
+For any inquiries contact [HAAM Community](mailto:haamcommunity2023@gmail.com) or [Epifania Arango](mailto:epifaniarango@gmail.com).
+<br>
 \* All times are in CEST (Leipzig, Germany)!
 
 ## Contents Overview
 
 ### DAY 1
 
-- **Lecture** Introduction to NGS data: _Betsy Nelson and James Fellows Yates_
-  - What is NGS sequencing and what does its data look like?
-- **Practical** BareBonesBash: _Aida Andrades Valtueña and Thiseas Lamnidis_
-  - Introduction to the UNIX command line.
-- **Practical** Introduction to R and the tidyverse / Introduction to Python and Pandas: _Clemens Schmid and Keri Burge_ / _Kevin Nota and Rémi Denise_
-  - How to read/write files and run statistical analyses? How to make figures with ggplot2/plotnine
-  - (Note: Parallel sessions participants can choose which to attend based on their prior experience)
+- **Lecture** Introduction to NGS data: _Kyriaki Anastasiadou_
+  - TBA
+- **Practical** Introduction to NF-core/EAGER: _James Fellows Yates_
+  - TBA
+- **Practical** Data PreProcessing: Nf-Core/EAGER: _James Fellows Yates_ / _Selina Carlhoff_
+  - TBA
+- **Practical** Ethics in Ancient DNA Research: _Krystal Tsosie_
+  - TBA
 - **Round table** TBC
+
 
 ### DAY 2
 
-- **Lecture** Introduction to ancient DNA: _Christina Warinner_
-  - How to identify and handle DNA from ancient contexts
-- **Practical** Introduction to R and the tidyverse / Introduction to Python and Pandas: _Clemens Schmid and Keri Burge_ / _Kevin Nota and Rémi Denise_
-  - How to read/write files and run statistical analyses? How to make figures with ggplot2/plotnine
-  - (Note: Parallel sessions participants can choose which to attend based on their prior experience)
-- **Practical** Bytesize git: _James Fellows Yates_
-  - What is git and github? How to clone a repository? What does commit/pull/push mean?
-- **Practical** AncientMetagenomeDir: _James Fellows Yates_
-  - Where to get ancient metagenomic comparative data, and why is metadata important?
-  - Git practice
+- **Lecture** Introduction to Genetic Relatedness: _Şevval Aktürk_
+  - TBA
+- **Practical** Pairwise Mismatch Methods: _Şevval Aktürk_
+  - TBA
+- **Practical** IBD-based Methods: _Şevval Aktürk_
+  - TBA
+- **Lecture** Imputation of Ancient DNA: _Bárbara Sousa da Mota_
+  - TBA
+- **Practical** IBD-based Methods II: Inbreeding and Effective Population Size: _Harald Ringbauer_
+  - TBA
+- **Lecture** AncIBD; HapRoH(Ne): _Harald Ringbauer_
+  - TBA
 - **Round table** TBC
 
 ### DAY 3
 
-- **Lecture** Introduction to Metagenomics: _Christina Warinner_
-  - What are the questions tackled in metagenomics? What are the challenges?
-- **Practical** Taxonomic Profiling, OTU Tables and Visualisation: _Maxime Borry and Keri Burge_
-  - Python practice. How to normalise OTU tables and perform microbial ecology analyses.
-- **Practical** Genome mapping: _Tessa Zeibig and Alexander Herbig_
-  - Why and how do we map against a reference? What parameters are important for aDNA?
+- **Lecture** Introduction to Population Genetics: _Stephan Schiffels_
+  - TBA
+- **Practical** Data Curation: Poseidon: _Clemens Schmid_ / _Ayshin Galichi_
+  - TBA
+- **Practical** Unsupervised Analyses: PCA/MDS, Admixture: _Jazmín Ramos-Madrigal_
+  - TBA
 - **Round table** TBC
-
-### DAY 4
-
-- **Lecture** Introduction to microbial genomics: _Meriam Guellil_
-  - How can we learn from studying the genomes of microbes? What questions can we ask?
-- **Practical** Genome assembly: _Alex Hübner and Jasmin Frangenberg_
-  - De novo methods for obtaining metagenomically assembled genomes (MAGs). What are the best pipelines and parameters for ancient DNA?
-- **Practical** Phylogenomics: _Arthur Kocher and Gunnar Neumann_
-  - How to perform phylogenetic analysis. What to consider when dealing with low coverage data
-- **Roundtable** TBC
-
-### DAY 5
-
-- **Lecture** Introduction to eDNA: _Vilma Pérez_
-  - How have microbes and microbial communities evolved and changed through time? How does this inform our current understanding of the relationships among microbes?
-- **Practical** Authentication and Decontamination (microb(iom)es): _Nikolay Oskolkov and James Fellows Yates_
-  - How can I validate my DNA is ancient? What sort of analyses can convince ourselves and a reviewer we have good preservation?
-- **Practical** Authentication and Decontamination (eukaryotes): _Giulia Zampirolo and Aleksandra Laura Pach_
-  - How can I validate my DNA is ancient? What sort of analyses can convince ourselves and a reviewer we have good preservation?
-- **Practical** Ancient Metagenomic Pipelines: _James Fellows Yates and Jasmin Frangenberg_
-  - What pipelines exist for specifically ancient DNA and ancient metagenomic data?
-- **Round table** TBC
+- **Lecture** Supervised Analyses: Admixtools2: _Robert Maier_

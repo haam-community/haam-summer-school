@@ -1,5 +1,7 @@
 # Organisers
 
+Meet the organisers/TAs of the 2024 HAAM Summer-School! They will be present throughout the sessions and will be happy to address all of your questions.
+
 <div class="avatar">
 
   <div class="member">

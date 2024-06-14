@@ -117,7 +117,7 @@ Her current work focuses on Indigenous population genetics and bioethics, throug
 
 **Harald Ringbauer** is a PI at the Max-Planck Institute for Evolutionary Anthropology in Leipzig. As computational Archeogeneticist he develops and applies models to infer biological relatedness, past cultural practices, and population structure from DNA sequence data. Known software he developed are, for example hapROH and ancIBD, which detects shared haplotypes between pairs of ancient individuals. His tools are becoming widely adopted and really are door opening in terms of relationship analysis in ancient DNA.
 
-<!-- STEPHAN -->
+**Stephan Schiffels** is a PI at the Max-Planck Institute for Evolutionary Anthropology in Leipzig, Germany. His research group at the MPI investigates human history by means of Genetics, and develops computational methods to model and analyse ancient and modern genomic data.
 
 **Clemens Schmid** is PhD student in the Department of Archaeogenetics at the Max Planck Institute for Evolutionary Anthropology and the Max Planck Institute for Geoanthropology. He is working with computational methods for the spatiotemporal interpolation and analysis of archaeological, linguistic and ancient genomic data. In the past he went through professional training in prehistoric, historic and scientific archaeology as well as computer science, worked in various research projects mostly in the European Neolithic and Metal Ages and developed multiple open‑source software tools in and around archaeology, like POSEIDON or MOBEST.
 

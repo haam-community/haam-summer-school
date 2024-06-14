@@ -67,7 +67,7 @@ If you get a message about permissions for 'colour management', please use the p
 
 The schedule for the summer school is as follows:
 
-<table style="text-align:center;">
+<table class="schedule">
   <tr>
     <th>Time (CET)</th>
     <th>Day 1</th>
@@ -77,12 +77,12 @@ The schedule for the summer school is as follows:
   <tr>
     <td rowspan="2">09:00-10:15</td>
     <td>Welcome Session</td>
-    <td style="background-color:#80BAE0; text-align:center;">Introduction to Genetic Relatedness<br><br>(Şevval Aktürk)</td>
-    <td rowspan="2" style="background-color:#80BAE0; text-align:center;">Introduction to Population Genetics<br><br>(Stephan Schiffels)</td>
+    <td class="theory">Introduction to Genetic Relatedness<br><br>(Şevval Aktürk)</td>
+    <td rowspan="2" class="theory">Introduction to Population Genetics<br><br>(Stephan Schiffels)</td>
   </tr>
   <tr>
-    <td style="background-color:#80BAE0; text-align:center;">Introduction to NGS data<br><br>(Kyriaki 'Kakia' Anastasiadou)</td>
-    <td style="background-color:#FD9C87; text-align:center;">Pairwise Mismatch Methods<br><br>(Şevval Aktürk)</td>
+    <td class="theory">Introduction to NGS data<br><br>(Kyriaki 'Kakia' Anastasiadou)</td>
+    <td class="practical">Pairwise Mismatch Methods<br><br>(Şevval Aktürk)</td>
   </tr>
   <tr>
     <td>10:15-10:30</td>
@@ -92,13 +92,13 @@ The schedule for the summer school is as follows:
   </tr>
   <tr>
     <td rowspan="2">10:30-12:30</td>
-    <td rowspan="2" style="background-color:#FD9C87; text-align:center;">Introduction to NF-core/EAGER<br><br>(James Fellows Yates)</td>
-    <td style="background-color:#FD9C87; text-align:center;">IBD-based Methods<br><br>(Şevval Aktürk)</td>
-    <td style="background-color:#FD9C87; text-align:center;">Data Curation: Poseidon<br><br>(Clemens Schmid<br>Ayshin Galichi)</td>
+    <td rowspan="2" class="practical">Introduction to NF-core/EAGER<br><br>(James Fellows Yates)</td>
+    <td class="practical">IBD-based Methods<br><br>(Şevval Aktürk)</td>
+    <td class="practical">Data Curation: Poseidon<br><br>(Clemens Schmid<br>Ayshin Galichi)</td>
   </tr>
   <tr>
-    <td style="background-color:#80BAE0; text-align:center;">Imputation of Ancient DNA<br><br>(Bárbara Sousa da Mota)</td>
-    <td style="background-color:#FD9C87; text-align:center;">Unsupervised Analyses: PCA/MDS, Admixture<br><br>(Jazmín Ramos-Madrigal)</td>
+    <td class="theory">Imputation of Ancient DNA<br><br>(Bárbara Sousa da Mota)</td>
+    <td class="practical">Unsupervised Analyses: PCA/MDS, Admixture<br><br>(Jazmín Ramos-Madrigal)</td>
   </tr>
   <tr>
     <td>12:30-14:00</td>
@@ -108,12 +108,12 @@ The schedule for the summer school is as follows:
   </tr>
   <tr>
     <td rowspan="2">14:00-15:30</td>
-    <td rowspan="2" style="background-color:#FD9C87; text-align:center;">Data PreProcessing: Nf-Core/EAGER<br><br>(James Fellows Yates<br>Selina Carlhoff)</td>
-    <td style="background-color:#80BAE0; text-align:center;">IBD-based Methods II: Inbreeding and Effective Population Size<br><br>(Harald Ringbauer)</td>
-    <td rowspan="2" style="background-color:#DAF7A6; text-align:center;">Round Table</td>
+    <td rowspan="2" class="practical">Data PreProcessing: Nf-Core/EAGER<br><br>(James Fellows Yates<br>Selina Carlhoff)</td>
+    <td class="theory">IBD-based Methods II: Inbreeding and Effective Population Size<br><br>(Harald Ringbauer)</td>
+    <td rowspan="2" class="round-table">Round Table</td>
   </tr>
   <tr>
-    <td style="background-color:#FD9C87; text-align:center;">AncIBD; HapRoH(Ne)<br><br>(Harald Ringbauer)</td>
+    <td class="practical">AncIBD; HapRoH(Ne)<br><br>(Harald Ringbauer)</td>
   </tr>
   <tr>
     <td>15:30-15:45</td>
@@ -123,28 +123,28 @@ The schedule for the summer school is as follows:
   </tr>
   <tr>
     <td rowspan="2">15:45-17:00</td>
-    <td style="background-color:#80BAE0; text-align:center;">Ethics in Ancient DNA Research<br><br>(Krystal Tsosie)</td>
-    <td rowspan="2" style="background-color:#DAF7A6; text-align:center;">Round Table</td>
-    <td style="background-color:#80BAE0; text-align:center;">Supervised Analyses: Admixtools2<br><br>(Robert Maier)</td>
+    <td class="theory">Ethics in Ancient DNA Research<br><br>(Krystal Tsosie)</td>
+    <td rowspan="2" class="round-table">Round Table</td>
+    <td class="theory">Supervised Analyses: Admixtools2<br><br>(Robert Maier)</td>
   </tr>
   <tr>
-    <td style="background-color:#DAF7A6; text-align:center;">Round Table</td>
+    <td class="round-table">Round Table</td>
     <td>Closing Session</td>
   </tr>  
 </table>
 <br>
-<table style="text-align:center;">
+<table style="text-align: center;">
   <tr>
-    <th>Lecture type</th>
+    <th style="background-color: #FFFFFFFF">Lecture type</th>
   </tr>
   <tr>
-    <td style="background-color:#80BAE0; text-align:center;">Theoretical</td>
+    <td class="theory">Theoretical</td>
   </tr>
   <tr>
-    <td style="background-color:#FD9C87; text-align:center;">Practical</td>
+    <td class="practical">Practical</td>
   </tr>
   <tr>
-    <td style="background-color:#DAF7A6; text-align:center;">Round Table</td>
+    <td class="round-table">Round Table</td>
   </tr>
 </table>
 
@@ -185,3 +185,22 @@ For any inquiries contact [HAAM Community](mailto:haamcommunity2023@gmail.com) o
 - **Lecture** Supervised Analyses: Admixtools2: _Robert Maier_
 
 \* At the Round tables you will be able to discuss any issues that arose during the days related to each day's topic. You can also ask questions and get answers regarding your own work.
+
+<style>
+  table.schedule {
+    background-color: #FFFFFF;
+    text-align: center;
+  }
+
+  td.theory {
+    background-color: #80BAE0;
+  }
+
+  td.practical {
+    background-color: #FD9C87;
+  }
+
+  td.round-table {
+    background-color: #DAF7A6;
+  }
+</style>

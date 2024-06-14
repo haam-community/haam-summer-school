@@ -19,7 +19,3 @@ over the years by instructors of the different editions of the summerschool.
   - European Nucleotide Archive, the major public European sequencing data
     archive. Mirrors the American NCBI SRA, and Japanese DDBJ databases.
   - The vast majority of academic sequencing data is archived here
-- [AncientMetagenomeDir](https://github.com/SPAAM-community/AncientMetagenomeDir/)
-  - Community-curated repository containing standardised metadata and links to
-    data for all publicly available ancient metagenomic data. Maintained by
-    SPAAM.

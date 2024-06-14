@@ -9,9 +9,9 @@ We were over subscribed with almost 100 applications. Thank you for your interes
 
 ## What
 
-The **HAAM Summer School** is a 3 day workshop, with a mix of theoretical and practical sessions. Our first Summer School, with the motto *‘Connecting the past, present, and future’*, will cover different aspects of human ancient DNA (aDNA) research, including both technical and ethical challenges and considerations and when working with human skeletal remains and human genetic data.
-The Summer School will be held in a 100% virtual format to maximise accessibility and inclusivity for attendees worldwide, particularly for those working in lower-income countries and/or with limited funding, and to ensure that all participants can have equal access to content and interactions, as well as any network opportunities that could stem from the summer school, regardless where they are based. 
-The course is planned by active researchers of the HAAM-community (including The Francis Crick Institute (UK), MPI-EVA (DE), Globe Institute (DK), University College Dublin (IE) & University of Zurich (CH)). [Instructors](/2024/instructors.md) of the course are volunteers teaching during the period of the Summer School. The summer school is supported by Max Planck Institute for Evolutionary Anthropology and the International Society of Biomolecular Archaeology.
+The **HAAM Summer School** is a 3 day workshop, with a mix of theoretical and practical sessions. Our first Summer School, with the motto *'Connecting the past, present, and future'*, covers different aspects of human ancient DNA (aDNA) research, including both technical and ethical challenges, and considerations when working with human skeletal remains and human genetic data.
+The Summer School is held in a 100% virtual format to maximise accessibility and inclusivity for attendees worldwide, particularly for those working in lower-income countries and/or with limited funding, and to ensure that all participants can have equal access to content and interactions, as well as any network opportunities that could stem from the summer school, regardless of where they are based. 
+The course was planned by active researchers of the HAAM-community (including The Francis Crick Institute (UK), MPI-EVA (DE), Globe Institute (DK), University College Dublin (IE) & University of Zurich (CH)). [Instructors](/2024/instructors.md) of the course are volunteers teaching during the period of the Summer School. The summer school is supported by Max Planck Institute for Evolutionary Anthropology and the International Society of Biomolecular Archaeology.
 
 ## Who
 
@@ -21,11 +21,11 @@ You can meet the instructors [here](/2024/instructors.md).
 
 ## When
 
-The summer school will be held between 17th-19th June 2024, 09:00-17:00 CEST (Berlin Time).
+The summer school is held between 17th-19th June 2024, 09:00-17:00 CEST (Berlin Time).
 
 ## Where
 
-We will be running this virtual edition of the HAAM Summer School on [Gather.Town](https://gather.town), on the HAAM workspace [here](https://tinyurl.com/haamsummerschool). <!-- Check the layout here! -->
+We are running this virtual edition of the HAAM Summer School on [Gather.Town](https://gather.town), on the HAAM workspace [here](https://tinyurl.com/haamsummerschool). <!-- Check the layout here! -->
 
 If you're not familiar with this platform please see the documentation on the gather.town website, or [this 'Quick Start' video from nf-core](https://nf-co.re/events/2022/bytesize-37-gathertown).
 
@@ -40,9 +40,9 @@ Each participant will being given a cloud computing node kindly provided by the 
 
 Registration links will be sent via email all participants, however detailed instructions on registration procedure can be seen [here](2024/denbi-registration).
 
-Once you've received your link, each participant will need to open the link in their browser. On the Guacamole page please use the username/password und 'Login credentials' [here](https://cloud.denbi.de/wiki/simple_vm/customization/#apache-guacamole). You should then see a desktop environment.
+Once you've received your link, each participant will need to open the link in their browser. On the Guacamole page please use the username/password und 'Login credentials' [here](https://simplevm.denbi.de/wiki/simple_vm/customization/#apache-guacamole). You should then see a desktop environment.
 
-If you get a message about permissions for 'colour management', please use the password described for the 'Ubuntu User' in the next code block below the 'Login Credentials' in the instructions above.
+If you get a message about permissions for 'colour management', please use the password described for the 'Username' in the next code block below the 'Login Credentials' in the instructions above.
 
 ## Schedule
 
@@ -127,8 +127,8 @@ For any inquiries contact [HAAM Community](mailto:haamcommunity2023@gmail.com) o
 ### DAY 1
 
 - **Lecture** Introduction to NGS data: _Kyriaki Anastasiadou_
-- **Practical** Introduction to NF-core/EAGER: _James Fellows Yates_
-- **Practical** Data PreProcessing: Nf-Core/EAGER: _James Fellows Yates_ / _Selina Carlhoff_
+- **Practical** Introduction to nf-core/eager: _James Fellows Yates_
+- **Practical** Data PreProcessing: nf-core/eager: _James Fellows Yates_ / _Selina Carlhoff_
 - **Practical** Ethics in Ancient DNA Research: _Krystal Tsosie_
 - **Round table**
 

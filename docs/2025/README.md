@@ -1,4 +1,4 @@
-# Introduction to Ancient Metagenomics Summer School - 2025
+# HAAM Summer School - 2025
 
 The 2025 edition of the HAAM Summer School is currently in preparation.
 

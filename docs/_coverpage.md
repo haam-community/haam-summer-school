@@ -6,6 +6,6 @@
 <!-- - Learn how to run a project analysis from A-Z -->
 
 [About](#about)
+[Apply](apply.md)
 [Next Event](/2024/README)
-<!-- [Apply](apply.md)-->
 

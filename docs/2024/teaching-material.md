@@ -6,7 +6,7 @@ The material will be posted at the end of the 2024 summer school.
 
 ## Lectures
 
-In preparation.
+The slideshows and/or recordings from the different theoretical sessions will be made available here sometime after the summer school.
 
 <!--
 
@@ -34,7 +34,7 @@ In preparation.
 
 ## Practical Sessions
 
-In preparation.
+The slideshows and/or recordings from the different practical sessions will be made available here sometime after the summer school.
 
 <!--
 

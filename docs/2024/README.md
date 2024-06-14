@@ -50,7 +50,7 @@ The schedule for the summer school is as follows:
 
 <table style="text-align:center;">
   <tr>
-    <th>Time</th>
+    <th>Time (CET)</th>
     <th>Day 1</th>
     <th>Day 2</th>
     <th>Day 3</th>
@@ -120,46 +120,35 @@ The schedule for the summer school is as follows:
 
 For any inquiries contact [HAAM Community](mailto:haamcommunity2023@gmail.com) or [Epifania Arango](mailto:epifaniarango@gmail.com).
 <br>
-\* All times are in CEST (Leipzig, Germany)!
+
 
 ## Contents Overview
 
 ### DAY 1
 
 - **Lecture** Introduction to NGS data: _Kyriaki Anastasiadou_
-  - TBA
 - **Practical** Introduction to NF-core/EAGER: _James Fellows Yates_
-  - TBA
 - **Practical** Data PreProcessing: Nf-Core/EAGER: _James Fellows Yates_ / _Selina Carlhoff_
-  - TBA
 - **Practical** Ethics in Ancient DNA Research: _Krystal Tsosie_
-  - TBA
-- **Round table** TBC
+- **Round table**
 
 
 ### DAY 2
 
 - **Lecture** Introduction to Genetic Relatedness: _Şevval Aktürk_
-  - TBA
 - **Practical** Pairwise Mismatch Methods: _Şevval Aktürk_
-  - TBA
 - **Practical** IBD-based Methods: _Şevval Aktürk_
-  - TBA
 - **Lecture** Imputation of Ancient DNA: _Bárbara Sousa da Mota_
-  - TBA
 - **Practical** IBD-based Methods II: Inbreeding and Effective Population Size: _Harald Ringbauer_
-  - TBA
 - **Lecture** AncIBD; HapRoH(Ne): _Harald Ringbauer_
-  - TBA
-- **Round table** TBC
+- **Round table**
 
 ### DAY 3
 
 - **Lecture** Introduction to Population Genetics: _Stephan Schiffels_
-  - TBA
 - **Practical** Data Curation: Poseidon: _Clemens Schmid_ / _Ayshin Galichi_
-  - TBA
 - **Practical** Unsupervised Analyses: PCA/MDS, Admixture: _Jazmín Ramos-Madrigal_
-  - TBA
-- **Round table** TBC
+- **Round table**
 - **Lecture** Supervised Analyses: Admixtools2: _Robert Maier_
+
+\* At the Round tables you will be able to discuss any issues that arose during the days related to each day's topic. You can also ask questions and get answers regarding your own work.

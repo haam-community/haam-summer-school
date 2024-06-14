@@ -37,7 +37,7 @@ Meet your instructors! This page introduces you to the people guiding you throug
 
   <div class ="member">
     <div class="square"><a href="https://www.crick.ac.uk/research/find-a-researcher/kyriaki-anastasiadou" target="_blank"><img src="assets/images/instructors/kakia.jpg" alt="Avatar" /></a></div>
-    <p>Kakia Anastasiadou</p>
+    <p>Kyriaki 'Kakia' Anastasiadou</p>
   </div>
 
   <div class ="member">
@@ -104,7 +104,7 @@ Meet your instructors! This page introduces you to the people guiding you throug
 <br>
 <br>
 
-**Kakia Anastasiadou** completed a MSc in Human molecular genetics from Imperial College London and worked for two years as a Laboratory Research Scientist, applying molecular protocols and automation to extract and sequence ancient DNA from skeletal samples. Currently she is a PhD student in ancient genomics at the Francis Crick institute, where she is generating and analysing ancient human genomic data from Britain.
+**Kyriaki 'Kakia' Anastasiadou** completed a MSc in Human molecular genetics from Imperial College London and worked for two years as a Laboratory Research Scientist, applying molecular protocols and automation to extract and sequence ancient DNA from skeletal samples. Currently she is a PhD student in ancient genomics at the Francis Crick institute, where she is generating and analysing ancient human genomic data from Britain.
 
 **James Fellows Yates** is an archaeology-trained biomolecular archaeologist and convert to palaeogenomics, and is recently pivoting to bioinformatics. He specialises in ancient metagenomics analysis, generating tools and high-throughput approaches and high-quality pipelines for validating and analysing ancient (oral) microbiomes and palaeogenomic data.
 

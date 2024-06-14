@@ -81,7 +81,7 @@ The schedule for the summer school is as follows:
     <td rowspan="2" style="background-color:#80BAE0; text-align:center;">Introduction to Population Genetics<br><br>(Stephan Schiffels)</td>
   </tr>
   <tr>
-    <td style="background-color:#80BAE0; text-align:center;">Introduction to NGS data<br><br>(Kyriaki Anastasiadou)</td>
+    <td style="background-color:#80BAE0; text-align:center;">Introduction to NGS data<br><br>(Kyriaki 'Kakia' Anastasiadou)</td>
     <td style="background-color:#FD9C87; text-align:center;">Pairwise Mismatch Methods<br><br>(Şevval Aktürk)</td>
   </tr>
   <tr>
@@ -159,7 +159,7 @@ For any inquiries contact [HAAM Community](mailto:haamcommunity2023@gmail.com) o
 
 ### DAY 1
 
-- **Lecture** Introduction to NGS data: _Kakia Anastasiadou_
+- **Lecture** Introduction to NGS data: _Kyriaki 'Kakia' Anastasiadou_
 - **Practical** Introduction to nf-core/eager: _James Fellows Yates_
 - **Practical** Data PreProcessing: nf-core/eager: _James Fellows Yates_ / _Selina Carlhoff_
 - **Lecture** Ethics in Ancient DNA Research: _Krystal Tsosie_

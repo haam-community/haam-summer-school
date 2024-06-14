@@ -20,7 +20,7 @@ The course is aimed at Masters or early-stage PhD students and early-stage resea
 Check where our students will be coming from:
 
 <p  align="middle">
-<a  href="URL"><img src="/assets/images/maps/haam_summer_school_map_bluewhite_ABA.png"></a>
+<a  href="URL"><img src="/assets/images/haam_summer_school_map_bluewhite_ABA.png"></a>
 </p>
 
 You can meet the instructors [here](/2024/instructors.md).

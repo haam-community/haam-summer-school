@@ -22,6 +22,7 @@ You can meet the instructors [here](/2024/instructors.md).
 ## When
 
 The summer school is held between 17th-19th June 2024, at the following times: 
+=======
 
 
 | **Time-Zone**    | **Schedule** 
@@ -35,6 +36,9 @@ The summer school is held between 17th-19th June 2024, at the following times:
 | South-African Standard Time (GMT+2) | 09:00-17:00 |
 
 \* Please check [here](https://www.worldtimebuddy.com/) any time-zone we did not cover.
+
+=======
+
 
 ## Where
 

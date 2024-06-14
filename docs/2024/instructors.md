@@ -56,7 +56,7 @@ Meet your instructors! This page introduces you to the people guiding you throug
   </div>
 
   <div class ="member">
-    <div class="square"><a href="https://www.researchgate.net/profile/Sevval-Aktuerk" target="_blank"><img src="assets/images/instructors/ACCOUNT_Anonymous.png" alt="Avatar" /></a></div>
+    <div class="square"><a href="https://www.researchgate.net/profile/Sevval-Aktuerk" target="_blank"><img src="assets/images/instructors/sevval.jpg" alt="Avatar" /></a></div>
     <p>Şevval Aktürk</p>
   </div>
 

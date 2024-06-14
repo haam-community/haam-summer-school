@@ -21,7 +21,20 @@ You can meet the instructors [here](/2024/instructors.md).
 
 ## When
 
-The summer school is held between 17th-19th June 2024, 09:00-17:00 CEST (Berlin Time).
+The summer school is held between 17th-19th June 2024, at the following times: 
+
+
+| **Time-Zone**    | **Schedule** 
+| ----------- | ---------------- |
+| Brasilia Standard Time (GMT-3) | 04:00-12:00 |
+| Central Daylight Time (GMT-6) | 02:00-10:00 |
+| Central European Time (CET) | 09:00-17:00 |
+| Eastern Daylight Time (GMT-4) | 03:00-11:00 |
+| Istanbul Standard Time (GMT+3) | 10:00-18:00 |
+| Japan Standard Time (GMT+9) | 16:00-00:00 |
+| South-African Standard Time (GMT+2) | 09:00-17:00 |
+
+\* Please check [here](https://www.worldtimebuddy.com/) any time-zone we did not cover.
 
 ## Where
 
@@ -121,6 +134,7 @@ The schedule for the summer school is as follows:
 For any inquiries contact [HAAM Community](mailto:haamcommunity2023@gmail.com) or [Epifania Arango](mailto:epifaniarango@gmail.com).
 <br>
 
+\* Check the schedule for your time-zone [here](https://www.worldtimebuddy.com/).
 
 ## Contents Overview
 

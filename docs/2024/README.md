@@ -44,7 +44,7 @@ The summer school is held between 17th-19th June 2024, at the following times:
 
 ## Where
 
-We are running this virtual edition of the HAAM Summer School on [Gather.Town](https://gather.town), on the HAAM workspace [here](https://tinyurl.com/haamsummerschool). <!-- Check the layout here! -->
+We are running this virtual edition of the HAAM Summer School on [Gather.Town](https://gather.town), on the HAAM workspace [here](URL). <!-- [here](https://tinyurl.com/haamsummerschool).-->
 
 If you're not familiar with this platform please see the documentation on the gather.town website, or [this 'Quick Start' video from nf-core](https://nf-co.re/events/2022/bytesize-37-gathertown).
 

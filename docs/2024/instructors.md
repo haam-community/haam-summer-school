@@ -1,6 +1,6 @@
 # Instructors
 
-Meet your instructors! This page introduces you to the people guiding you through the 2024 edition of the HAAM summer school.
+Meet your instructors! This page introduces you to the people guiding you through the 2024 edition of the HAAM summer school. _The summer school would not be possible without them, thank you!_
 
 <!--
 ## Organisers

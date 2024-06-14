@@ -4,4 +4,4 @@ Attendees of any editions of the *HAAM Summer School: Connecting the past, prese
 
 This can be seen on the [main HAAM website](https://haam-community.github.io/code-of-conduct/).
 
-In case of any issues, please contact the Safety Officer listed at the bottom of the main HAAM Code of Conduct page.
+In case of any issues, please contact our Diversity Officer, [Epifanía Arango](mailto:epifaniarango@gmail.com).

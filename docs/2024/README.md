@@ -92,7 +92,7 @@ The schedule for the summer school is as follows:
   </tr>
   <tr>
     <td rowspan="2">10:30-12:30</td>
-    <td rowspan="2" class="practical">Introduction to NF-core/EAGER<br><br>(James Fellows Yates)</td>
+    <td rowspan="2" class="practical">Introduction to nf-core/eager<br><br>(James Fellows Yates)</td>
     <td class="practical">IBD-based Methods<br><br>(Şevval Aktürk)</td>
     <td class="practical">Data Curation: Poseidon<br><br>(Clemens Schmid<br>Ayshin Galichi)</td>
   </tr>
@@ -108,7 +108,7 @@ The schedule for the summer school is as follows:
   </tr>
   <tr>
     <td rowspan="2">14:00-15:30</td>
-    <td rowspan="2" class="practical">Data PreProcessing: Nf-Core/EAGER<br><br>(James Fellows Yates<br>Selina Carlhoff)</td>
+    <td rowspan="2" class="practical">Data PreProcessing: nf-core/eager<br><br>(James Fellows Yates<br>Selina Carlhoff)</td>
     <td class="theory">IBD-based Methods II: Inbreeding and Effective Population Size<br><br>(Harald Ringbauer)</td>
     <td rowspan="2" class="round-table">Round Table</td>
   </tr>

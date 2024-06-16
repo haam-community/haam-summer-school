@@ -125,7 +125,7 @@ The schedule for the summer school is as follows:
     <td rowspan="2">15:45-17:00</td>
     <td class="theory">Ethics in Ancient DNA Research<br><br>(Krystal Tsosie)</td>
     <td rowspan="2" class="round-table">Round Table</td>
-    <td class="theory">Supervised Analyses: Admixtools2<br><br>(Robert Maier)</td>
+    <td class="practical">Supervised Analyses: Admixtools2<br><br>(Robert Maier)</td>
   </tr>
   <tr>
     <td class="round-table">Round Table</td>

@@ -29,6 +29,12 @@ Meet the organisers/TAs of the 2024 HAAM Summer-School! They will be present thr
   <p>Thiseas Christos Lamnidis</p>
   <!-- <p>IT support</p> -->
   </div>
+
+  <div class ="member">
+  <div class="square"><a href="https://www.eva.mpg.de/tropical-archaeogenomics/group-staff/" target="_blank"><img src="assets/images/organisers/Beatriz_Amorim.jpg" alt="Avatar" /></a></div>
+  <p>Beatriz Amorim</p>
+  </div>
+
 </div>
 
 <br>

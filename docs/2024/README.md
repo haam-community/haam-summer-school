@@ -94,7 +94,7 @@ The schedule for the summer school is as follows:
     <td rowspan="2">10:30-12:30</td>
     <td rowspan="2" class="practical">Introduction to nf-core/eager<br><br>(James Fellows Yates)</td>
     <td class="practical">IBD-based Methods<br><br>(Şevval Aktürk)</td>
-    <td class="practical">Data Curation: Poseidon<br><br>(Clemens Schmid<br>Ayshin Galichi)</td>
+    <td class="practical">Data Curation: Poseidon<br><br>(Clemens Schmid)</td>
   </tr>
   <tr>
     <td class="theory">Imputation of Ancient DNA<br><br>(Bárbara Sousa da Mota)</td>
@@ -179,7 +179,7 @@ For any inquiries contact [HAAM Community](mailto:haamcommunity2023@gmail.com) o
 ### DAY 3
 
 - **Lecture** Introduction to Population Genetics: _Stephan Schiffels_
-- **Practical** Data Curation: Poseidon: _Clemens Schmid_ / _Ayshin Galichi_
+- **Practical** Data Curation: Poseidon: _Clemens Schmid_
 - **Practical** Unsupervised Analyses: PCA/MDS, Admixture: _Jazmín Ramos-Madrigal_
 - **Round table** _Jazmín Ramos-Madrigal_
 - **Lecture** Supervised Analyses: Admixtools2: _Robert Maier_

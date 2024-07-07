@@ -95,10 +95,6 @@ Meet your instructors! This page introduces you to the people guiding you throug
     <p>Clemens Schmid</p>
   </div>
 
-  <div class ="member">
-    <div class="square"><a href="https://www.shh.mpg.de/person/96126/2114093" target="_blank"><img src="assets/images/instructors/ACCOUNT_Anonymous.png" alt="Avatar" /></a></div>
-    <p>Ayshin Ghalichi</p>
-  </div>
 
   <div class ="member">
     <div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/502736" target="_blank"><img src="assets/images/instructors/jazmin.jpg" alt="Avatar" /></a></div>
@@ -134,7 +130,6 @@ Her current work focuses on Indigenous population genetics and bioethics, throug
 
 **Clemens Schmid** is a PhD student in the Department of Archaeogenetics at the Max Planck Institute for Evolutionary Anthropology and the Max Planck Institute for Geoanthropology. He is working with computational methods for the spatiotemporal interpolation and analysis of archaeological, linguistic and ancient genomic data. In the past he went through professional training in prehistoric, historic and scientific archaeology as well as computer science, worked in various research projects mostly in the European Neolithic and Metal Ages and developed multiple open‑source software tools in and around archaeology, like POSEIDON or MOBEST.
 
-<!-- AYSHIN -->
 
 **Jazmin Ramos-Madrigal** is an evolutionary biologist interested in tracing the evolution of plant and animal species through domestication using palaeogenomics. She is an assistant professor at the Center for Evolutionary Hologenomics at the University of Copenhagen.
 Her work focuses on the study of the evolutionary processes that gave rise to domesticated species and the role that the root microbiome played in plant adaptation during domestication.

@@ -8,12 +8,12 @@ The material will be posted at the end of the 2024 summer school.
 
 The slideshows and/or recordings from the different theoretical sessions will be made available here sometime after the summer school.
 
-<!--
 
 ### Introduction to NGS data
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRDeUMFvLe8sacwd3mKShXKql8qHkerv5rb1Y79VHjbF8upY7FFtI_bwhXe7r__XK1WCFD_pvPY6gax/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR77Wn7h7L3GbTszhgys__8U83O6D9MLdoQLkvDMObAqIA-RVetHxdCHzZIV7RuBQ/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+<!--
 ### Introduction to ancient DNA
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSCq27XX85A9vb0V8eNWluc3mn37fznO1QvR9mzCmjW9yDgEAVKLeOJZalM8_PTa2N_EXqDnjx8I3iW/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

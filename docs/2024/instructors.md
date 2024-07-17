@@ -27,7 +27,6 @@ Meet the organisers/TAs of the 2024 HAAM Summer-School! They will be present thr
   <div class ="member">
   <div class="square"><a href="https://www.eva.mpg.de/archaeogenetics/staff/thiseas-christos-lamnidis/" target="_blank"><img src="assets/images/organisers/Thiseas_Christos_Lamnidis.jpg" alt="Avatar" /></a></div>
   <p>Thiseas Christos Lamnidis</p>
-  <!-- <p>IT support</p> -->
   </div>
 
   <div class ="member">
@@ -94,7 +93,6 @@ Meet your instructors! This page introduces you to the people guiding you throug
     <div class="square"><a href="https://nevrome.de" target="_blank"><img src="assets/images/instructors/clemens.JPG" alt="Avatar" /></a></div>
     <p>Clemens Schmid</p>
   </div>
-
 
   <div class ="member">
     <div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/502736" target="_blank"><img src="assets/images/instructors/jazmin.jpg" alt="Avatar" /></a></div>

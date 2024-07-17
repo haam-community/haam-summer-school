@@ -181,7 +181,7 @@ For any inquiries contact [HAAM Community](mailto:haamcommunity2023@gmail.com) o
 - **Lecture** Introduction to Population Genetics: _Stephan Schiffels_
 - **Practical** Data Curation: Poseidon: _Clemens Schmid_
 - **Practical** Unsupervised Analyses: PCA/MDS, Admixture: _Jazmín Ramos-Madrigal_
-- **Round table** _Jazmín Ramos-Madrigal_
+- **Round table** Unsupervised clustering analyses & Ancient DNA: _Jazmín Ramos-Madrigal_
 - **Lecture** Supervised Analyses: Admixtools2: _Robert Maier_
 
 \* At the Round tables you will be able to discuss any issues that arose during the days related to each day's topic. You can also ask questions and get answers regarding your own work.

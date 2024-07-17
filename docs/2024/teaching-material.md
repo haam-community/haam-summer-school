@@ -6,84 +6,70 @@ The material will be posted at the end of the 2024 summer school.
 
 ## Lectures
 
-### Introduction to Population Genetics (Stephan Schiffels)
-
-<iframe src="https://stschiff.quarto.pub/2024-haam-lecture/2024-haam-summerschool-presentation.html#/title-slide" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<!--
 
 ### Day 1
 
-#### Introduction to NGS data
+#### Introduction to NGS data (Kyriaki 'Kakia' Anastasiadou)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR77Wn7h7L3GbTszhgys__8U83O6D9MLdoQLkvDMObAqIA-RVetHxdCHzZIV7RuBQ/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+### Day 2
 
-### Introduction to ancient DNA
+#### Introduction to Genetic Relatedness (Şevval Aktürk)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSCq27XX85A9vb0V8eNWluc3mn37fznO1QvR9mzCmjW9yDgEAVKLeOJZalM8_PTa2N_EXqDnjx8I3iW/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://drive.google.com/file/d/1LlbyCW112G3VpUHFIK-HrFDxssUQ0NUA/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-### Introduction to metagenomics
+#### Imputation of Ancient DNA: (Bárbara Sousa da Mota)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTskNEWutzqRiHjgEigILnw9r9CFGsL6vS_XdtkrA2xsF_VT0xpfdV9qNuDkgKBkhmSHsrduzMsCjWE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://drive.google.com/file/d/1-ll10KNSmvIn7Ce89mx7DP3jdlGtMHxN/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-### Introduction to microbial genomes
+### Day 3
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR2siA5wXUMkjPuGo_7qQQd1l_wL-hxCzrBYC9rqW_-WDzTDWKYJdS-OU-JNvQbLYzlETYjqd5Y3ET0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+#### Introduction to Population Genetics (Stephan Schiffels)
 
-### Introduction to evolutionary biology
+<iframe src="https://stschiff.quarto.pub/2024-haam-lecture/2024-haam-summerschool-presentation.html#/title-slide" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRsCy7WnR9lPFqb6z4gPyvS3jpRwoZpeBA9VJ2V0ZA7G8FSHV9Y_LjeVZjcT49gdQbJuJGiSXDMz5jd/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+#### Supervised Analyses: Admixtools2 (Robert Maier)
 
--->
+<iframe src="https://drive.google.com/file/d/1jeOb-po53iL__WKypOu4uggfyCp82sUX/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Practical Sessions
 
 The slideshows and/or recordings from the different practical sessions will be made available here sometime after the summer school.
 
-<!--
+### Day 1
 
-### BareBonesBash (introduction to the UNIX command line)
+#### Introduction to nf-core/eager (James Fellows Yates & Selina Carlhoff))
 
-There were no specific slides for this session. Please see the relevant chapter of the [Introduction to Ancient Metagenomics textbook](https://www.spaam-community.org/intro-to-ancient-metagenomics-book).
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ71H4iIa5oBS5-OwuKoqjMHpxGcaj5nt8Mcx0HxjsMDuDvKMKKxGCIX7Psv3SlkALorn7XcullQJFX/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-### R and the tidyverse
+### Day 2
 
-There were no specific slides for this session. Please see the relevant chapter of the [Introduction to Ancient Metagenomics textbook](https://www.spaam-community.org/intro-to-ancient-metagenomics-book).
+#### Pairwise Mismatch Methods (Şevval Aktürk)
 
-### Python and Pandas
+<iframe src="https://drive.google.com/file/d/1fXbEVKkqZzoxJaWPFxkUx-mqkAkcew9H/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-There were no specific slides for this session. Please see the relevant chapter of the [Introduction to Ancient Metagenomics textbook](https://www.spaam-community.org/intro-to-ancient-metagenomics-book).
+#### AncIBD; HapRoH: (Harald Ringbauer)
 
-### Git(Hub)
+<iframe src="https://drive.google.com/file/d/19xhPnjGjD4RPWi0VGjMEvpxXlMoG1ltalJK_sTGY-DM/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNTmJ54Ham6A1KLP_jRruKz2CHmFOIk4NKrkP_FLGv41y5R_tu7Ncc7RYRCaZnUWYtBXfCjOTe9f7V/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+### Day 3
 
-### AncientMetagenomeDir
+#### Data Curation: Poseidon (Clemens Schmid)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRn9kVzrlnqGR-fMuzlUMlXpvF060pvtArFKhGrWCOZAeAHpcZYIAsPY9sEJ9iTguSgEVMejO2YkSIZ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://drive.google.com/file/d/13uAgzsQqjEUS15bhA0fXO3qdaBLUUBUW/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-### Taxonomic profiling, OTU tables and visualisation
+## Round-table Discussions
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ22SbfHB53NvazQCkt_BG1UzrRCUnPc4vM5tSsyE_pTvv3jnpl6jXFj6Dwe2EfTlzR8nH95nyQ6UvH/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+### Day 1
 
-### Genome mapping
+#### Ethics (Krystal Tsosie)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR_V1YjaVThl0EGzgNsdt_EbP0zCZZ1e7BRPHNYF4IhgMz464uZh-AV5c_oid1WMjW_f8cIE16tBoxq/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://drive.google.com/file/d/1a1zahylck_uISO-EZs9iOzWbOFqZiuqf/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-### Genome assembly
+### Day 3
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT-x3We0kcPM5hn8MQKKFHSqmOu-Ccw1oQ4IRnWAtqorrOzRJvHmy47pNa8yDkfWRe8XcnZKWR7ZT1M/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+#### Unsupervised clustering analyses & Ancient DNA (Jazmín Ramos-Madrigal)
 
-### Authentication and decontamination
+<iframe src="https://drive.google.com/file/d/160Rt5HPaHgFe3DNirfKwnRYHjWooVhmQ/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSaXSVS_kUyORfkkjWepRfsqapoyf_yEGWthoPYiMXtLCCPEbd_LTFUOZ-DLe2iOrPypUoEcBt4_SVU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-### Phylogenomics
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTM11jst0-1hiwvJA_8VIdLrOrPfDvhXDUPKkRPQRXhLo7AJCUw85PwaNd8bRRcH-4MBf58dH9UFSeV/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-### Ancient metagenomic pipelines
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCSkoNpD33XLVgtoAzYfsd2FBYl3dNoV1diL1HdrjgAnWOf478duWpSOAhEFEoduhhcaknQWkT9SE7/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-->

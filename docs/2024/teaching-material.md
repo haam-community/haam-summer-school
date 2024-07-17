@@ -6,7 +6,9 @@ The material will be posted at the end of the 2024 summer school.
 
 ## Lectures
 
-The slideshows and/or recordings from the different theoretical sessions will be made available here sometime after the summer school.
+### Introduction to Population Genetics (Stephan Schiffels)
+
+<iframe src="https://stschiff.quarto.pub/2024-haam-lecture/2024-haam-summerschool-presentation.html#/title-slide" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <!--
 

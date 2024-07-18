@@ -1,8 +1,6 @@
 # Teaching Material
 
-All teaching slides and videos (lectures only) from the 2024 summer school can be found here.
-
-The material will be posted at the end of the 2024 summer school.
+All teaching slides from the 2024 summer school can be found here.
 
 
 ### Day 1

@@ -55,7 +55,7 @@ The colour of each session header denotes the type of session:
 
 <iframe src="https://drive.google.com/file/d/160Rt5HPaHgFe3DNirfKwnRYHjWooVhmQ/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-<span class="practical">Supervised Analyses: Admixtools2 (Robert Maier)</span>
+<span class="theory">Supervised Analyses: Admixtools2 (Robert Maier)</span>
 
 <iframe src="https://drive.google.com/file/d/1jeOb-po53iL__WKypOu4uggfyCp82sUX/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 

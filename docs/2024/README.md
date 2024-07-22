@@ -125,7 +125,7 @@ The schedule for the summer school is as follows:
     <td rowspan="2">15:45-17:00</td>
     <td class="theory">Ethics in Ancient DNA Research<br><br>(Krystal Tsosie)</td>
     <td rowspan="2" class="round-table">Round Table</td>
-    <td class="practical">Supervised Analyses: Admixtools2<br><br>(Robert Maier)</td>
+    <td class="theory">Supervised Analyses: Admixtools2<br><br>(Robert Maier)</td>
   </tr>
   <tr>
     <td class="round-table">Round Table</td>
@@ -181,7 +181,7 @@ For any inquiries contact [HAAM Community](mailto:haamcommunity2023@gmail.com) o
 - **Lecture** Introduction to Population Genetics: _Stephan Schiffels_
 - **Practical** Data Curation: Poseidon: _Clemens Schmid_
 - **Practical** Unsupervised Analyses: PCA/MDS, Admixture: _Jazmín Ramos-Madrigal_
-- **Round table** _Jazmín Ramos-Madrigal_
+- **Round table** _Jazmín Ramos-Madrigal_ / _Robert Maier_
 - **Lecture** Supervised Analyses: Admixtools2: _Robert Maier_
 
 \* At the Round tables you will be able to discuss any issues that arose during the days related to each day's topic. You can also ask questions and get answers regarding your own work.

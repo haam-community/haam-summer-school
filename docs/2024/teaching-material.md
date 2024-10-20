@@ -13,23 +13,14 @@ The colour of each session header denotes the type of session:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR77Wn7h7L3GbTszhgys__8U83O6D9MLdoQLkvDMObAqIA-RVetHxdCHzZIV7RuBQ/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-<iframe width="960" height="569" src="https://www.youtube.com/embed/WS9GZDTAdZU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 <span class="practical">Introduction to nf-core/eager (James Fellows Yates & Selina Carlhoff))</span>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ71H4iIa5oBS5-OwuKoqjMHpxGcaj5nt8Mcx0HxjsMDuDvKMKKxGCIX7Psv3SlkALorn7XcullQJFX/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<iframe width="960" height="569" src="https://www.youtube.com/embed/ronaGoyp904" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="960" height="569" src="https://www.youtube.com/embed/ejv_JahI_Gc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 <span class="theory">Ethics (Krystal Tsosie)</span>
 
 <iframe src="https://drive.google.com/file/d/1a1zahylck_uISO-EZs9iOzWbOFqZiuqf/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-<iframe width="960" height="569" src="https://www.youtube.com/embed/ZyHSeKhFRdk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Day 2
 

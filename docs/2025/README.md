@@ -1,6 +1,10 @@
 # HAAM Summer School - 2025
 
-The 2025 edition of the HAAM Summer School is currently in preparation.
+## Latest
+
+We are excited to announce that the 2025 HAAM Summer School edition will happen on the 9-13th June.
+
+Applications will open on the 17th of March!
 
 Please monitor this page, as well as [HAAM social media and communication channels](https://haam-community.github.io/about/) for updates!
 

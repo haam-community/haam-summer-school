@@ -37,18 +37,25 @@ The colour of each session header denotes the type of session:
 
 <iframe src="https://drive.google.com/file/d/1LlbyCW112G3VpUHFIK-HrFDxssUQ0NUA/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+<iframe width="960" height="569" src="https://www.youtube.com/embed/fY6slgHUI9I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <span class="practical">Pairwise Mismatch Methods (Şevval Aktürk)</span>
 
 <iframe src="https://drive.google.com/file/d/1fXbEVKkqZzoxJaWPFxkUx-mqkAkcew9H/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<iframe width="960" height="569" src="https://www.youtube.com/embed/QSyt4j0C4XM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <span class="theory">Imputation of Ancient DNA: (Bárbara Sousa da Mota)</span>
 
 <iframe src="https://drive.google.com/file/d/1-ll10KNSmvIn7Ce89mx7DP3jdlGtMHxN/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+<iframe width="960" height="569" src="https://www.youtube.com/embed/v0485Vp5zrI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <span class="practical">AncIBD; HapRoH: (Harald Ringbauer)</span>
 
 <iframe src="https://drive.google.com/file/d/19xhPnjGjD4RPWi0VGjMEvpxXlMoG1ltalJK_sTGY-DM/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+<iframe width="960" height="569" src="https://www.youtube.com/embed/s-CCk6TcUCs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Day 3
 

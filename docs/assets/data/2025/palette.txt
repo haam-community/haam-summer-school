@@ -1,0 +1,35 @@
+/* Coolors Exported Palette - https://coolors.co/de9bb7-b7a3da-a1a6a2-8cb9b7-cfd4ce */
+
+- Tailwind
+
+{ 'amaranth_pink': { DEFAULT: '#DE9BB7', 100: '#391323', 200: '#712645', 300: '#aa3968', 400: '#cb638e', 500: '#de9bb7', 600: '#e4afc6', 700: '#ebc3d4', 800: '#f2d7e2', 900: '#f8ebf1' }, 'wisteria': { DEFAULT: '#B7A3DA', 100: '#221637', 200: '#442c6d', 300: '#6641a4', 400: '#8d6dc5', 500: '#b7a3da', 600: '#c6b6e2', 700: '#d4c8e9', 800: '#e3dbf0', 900: '#f1edf8' }, 'ash_gray': { DEFAULT: '#A1A6A2', 100: '#202220', 200: '#3f4340', 300: '#5f6560', 400: '#7f8680', 500: '#a1a6a2', 600: '#b3b8b4', 700: '#c6cac7', 800: '#d9dbda', 900: '#ecedec' }, 'cambridge_blue': { DEFAULT: '#8CB9B7', 100: '#192828', 200: '#32514f', 300: '#4a7977', 400: '#65a09d', 500: '#8cb9b7', 600: '#a4c7c5', 700: '#bbd5d4', 800: '#d1e3e2', 900: '#e8f1f1' }, 'timberwolf': { DEFAULT: '#CFD4CE', 100: '#282d27', 200: '#50594e', 300: '#788675', 400: '#a3ada1', 500: '#cfd4ce', 600: '#d9ddd8', 700: '#e2e5e2', 800: '#eceeeb', 900: '#f5f6f5' } }
+
+- CSV
+
+DE9BB7,B7A3DA,A1A6A2,8CB9B7,CFD4CE
+
+- With #
+
+#DE9BB7, #B7A3DA, #A1A6A2, #8CB9B7, #CFD4CE
+
+- Array
+
+["DE9BB7","B7A3DA","A1A6A2","8CB9B7","CFD4CE"]
+
+- Object
+
+{"Amaranth pink":"DE9BB7","Wisteria":"B7A3DA","Ash gray":"A1A6A2","Cambridge blue":"8CB9B7","Timberwolf":"CFD4CE"}
+
+- Extended Array
+
+[{"name":"Amaranth pink","hex":"DE9BB7","rgb":[222,155,183],"cmyk":[0,30,18,13],"hsb":[335,30,87],"hsl":[335,50,74],"lab":[71,29,-4]},{"name":"Wisteria","hex":"B7A3DA","rgb":[183,163,218],"cmyk":[16,25,0,15],"hsb":[262,25,85],"hsl":[262,43,75],"lab":[70,18,-25]},{"name":"Ash gray","hex":"A1A6A2","rgb":[161,166,162],"cmyk":[3,0,2,35],"hsb":[132,3,65],"hsl":[132,3,64],"lab":[68,-3,1]},{"name":"Cambridge blue","hex":"8CB9B7","rgb":[140,185,183],"cmyk":[24,0,1,27],"hsb":[177,24,73],"hsl":[177,24,64],"lab":[72,-15,-4]},{"name":"Timberwolf","hex":"CFD4CE","rgb":[207,212,206],"cmyk":[2,0,3,17],"hsb":[110,3,83],"hsl":[110,7,82],"lab":[84,-3,2]}]
+
+- XML
+
+<palette>
+  <color name="Amaranth pink" hex="DE9BB7" r="222" g="155" b="183" />
+  <color name="Wisteria" hex="B7A3DA" r="183" g="163" b="218" />
+  <color name="Ash gray" hex="A1A6A2" r="161" g="166" b="162" />
+  <color name="Cambridge blue" hex="8CB9B7" r="140" g="185" b="183" />
+  <color name="Timberwolf" hex="CFD4CE" r="207" g="212" b="206" />
+</palette>

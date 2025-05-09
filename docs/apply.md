@@ -1,6 +1,8 @@
 # Apply
 
-Please fill this [form](https://docs.google.com/forms/d/1d3ln-QILxP9cqjXrHFd2gxUmSWT8JP4JyO7cVYIQxgs/viewform?edit_requested=true) to apply for the 2025 edition of the HAAM Summer School c:
+<!-- Please fill this [form](https://docs.google.com/forms/d/1d3ln-QILxP9cqjXrHFd2gxUmSWT8JP4JyO7cVYIQxgs/viewform?edit_requested=true) to apply for the 2025 edition of the HAAM Summer School c: -->
+
+Applications for the 2025 summer school are now **closed**!
 
 <!-- Applications for the 2024 *Connecting the past, present, and future* Summer school are now closed! -->
 

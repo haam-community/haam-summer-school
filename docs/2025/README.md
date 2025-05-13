@@ -4,17 +4,17 @@
 
 Applications for the 2025 HAAM Summer school are now **closed**!
 
-We were over subscribed with more than 120 applications. Thank you for your interest :D
+We had more than 120 applications. Thank you for your interest :D
 
 
 ## What
 
-The **HAAM Summer School** is a 3 day workshop, with a mix of theoretical and practical sessions. Our first Summer School, with the motto *'Connecting the past, present, and future'*, covers different aspects of human ancient DNA (aDNA) research, including both technical and ethical challenges, and considerations when working with human skeletal remains and human genetic data.
+The **HAAM Summer School** is a 3 day workshop, with a mix of theoretical and practical sessions. Our Summer School covers different aspects of human ancient DNA (aDNA) research, including both technical and ethical challenges, and considerations when working with human skeletal remains and human genetic data.
 The Summer School is held in a 100% virtual format to maximise accessibility and inclusivity for attendees worldwide, particularly for those working in lower-income countries and/or with limited funding, and to ensure that all participants can have equal access to content and interactions, as well as any network opportunities that could stem from the summer school, regardless of where they are based. 
 The course was planned by active researchers of the HAAM-community (including The Francis Crick Institute (UK), MPI-EVA (DE), Globe Institute (DK), University College Dublin (IE) & University of Zurich (CH)). Instructors of the course are volunteers teaching during the period of the Summer School. The summer school is supported by Max Planck Institute for Evolutionary Anthropology, [Adelphi Genetics Forum](https://adelphigenetics.org/) and the [International Society of Biomolecular Archaeology](https://www.isbarch.org/)
 
-<p  align="left">
-<img src="{{ "assets/images/logos/AGF_Logo.png" | relative_url }}" alt="Adelphi Genetics Forum Logo" >
+<p  align="middle">
+<img src="{{ "/workspace/haam-summer-school/docs/assets/images/logos/2AGF-LOGO_COLOUR-WEB.png" }}" alt="Adelphi Genetics Forum Logo" >
 </p>
 
 <!--## Who
@@ -96,20 +96,20 @@ If you get a message about permissions for 'colour management', please use the p
   <tr>
     <td>10:30-12:00</td>
     <td></td>
-    <td class="practical">Introduction to NF-Core/Eager</td>
+    <td class="practical">Introduction to NF-Core/Eager<br><br>(James Fellows Yates / Selina Carlhoff)</td>
     <td class="practical">Pairwise Mismatch and IBD Methods<br><br>(Şevval Aktürk)</td>
-    <td class="practical">Data Curation and Unsupervised Analysis</td>
-    <td class="practical">ADMIXTOOLS2</td>
+    <td class="practical">Data Curation and Unsupervised Analysis<br><br>(Jazmín Ramos Madrigal)</td>
+    <td class="practical">ADMIXTOOLS2<br><br>(Leo Speidel)</td>
   </tr>
 
   <!-- 12:00-12:30 -->
   <tr>
     <td>12:00-12:30</td>
     <td></td>
-    <td class="practical">(James Fellows Yates / Selina Carlhoff)</td>
+    <td class="practical"></td>
     <td></td>
-    <td class="practical">(Jazmín Ramos Madrigal)</td>
-    <td class="practical">(Leo Speidel)</td>
+    <td class="practical"></td>
+    <td class="practical"></td>
   </tr>
 
   <!-- 12:30-13:30 Lunch -->
@@ -136,20 +136,20 @@ If you get a message about permissions for 'colour management', please use the p
   <tr>
     <td>14:00-14:45</td>
     <td class="round-table">Welcome Session</td>
-    <td class="practical">Data pre-processing NF-Core/Eager</td>
-    <td class="theory">(Harald Ringbauer)</td>
+    <td class="practical">Data pre-processing NF-Core/Eager<br><br>(James Fellows Yates / Selina Carlhoff)</td>
+    <td class="theory" style="vertical-align: top;">(Harald Ringbauer)</td>
     <td class="practical">Unsupervised Analysis<br><br>(Jazmín Ramos Madrigal)</td>
-    <td class="theory">qpAdm and IBD: Interpretation</td>
+    <td class="theory">qpAdm and IBD: Interpretation<br><br>(Éadaoin Harney)</td>
   </tr>
 
   <!-- 14:15-15:30 -->
   <tr>
     <td>14:45-15:30</td>
     <td class="round-table"></td>
-    <td class="practical">(James Fellows Yates / Selina Carlhoff)</td>
+    <td class="practical"></td>
     <td class="practical">HapROH<br><br>(Eirini Skourtanioti)</td>
     <td class="theory">Imputation<br><br>(Bárbara Sousa da Mota)</td>
-    <td class="theory">(Éadaoin Harney)</td>
+    <td class="theory"></td>
   </tr>
 
   <!-- 15:30-15:45 Break -->

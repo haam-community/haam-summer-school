@@ -17,7 +17,7 @@ We would like to thank
 	<a  href="https://www.isbarch.org/"><img src="assets/images/logos/isba.svg" height=75px padding=5px margin=10px></a>
 	<br>
 	<br>
-	The summer school is supported by the Max Planck Institute for Evolutionary Anthropology and the International Society of Biomolecular Archaeology.
+	The summer school is supported by the Max Planck Institute for Evolutionary Anthropology, Adelphi Genetics Forum, and the International Society of Biomolecular Archaeology.
 </p> 
 
 ## **Infrastructural Support**

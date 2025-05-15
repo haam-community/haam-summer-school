@@ -4,17 +4,17 @@
 
 Applications for the 2025 HAAM Summer school are now **closed**!
 
-We were over subscribed with more than 120 applications. Thank you for your interest :D
+We had more than 120 applications. Thank you for your interest :D
 
 
 ## What
 
-The **HAAM Summer School** is a 3 day workshop, with a mix of theoretical and practical sessions. Our first Summer School, with the motto *'Connecting the past, present, and future'*, covers different aspects of human ancient DNA (aDNA) research, including both technical and ethical challenges, and considerations when working with human skeletal remains and human genetic data.
+The **HAAM Summer School** is a 3 day workshop, with a mix of theoretical and practical sessions. Our Summer School covers different aspects of human ancient DNA (aDNA) research, including both technical and ethical challenges, and considerations when working with human skeletal remains and human genetic data.
 The Summer School is held in a 100% virtual format to maximise accessibility and inclusivity for attendees worldwide, particularly for those working in lower-income countries and/or with limited funding, and to ensure that all participants can have equal access to content and interactions, as well as any network opportunities that could stem from the summer school, regardless of where they are based. 
 The course was planned by active researchers of the HAAM-community (including The Francis Crick Institute (UK), MPI-EVA (DE), Globe Institute (DK), University College Dublin (IE) & University of Zurich (CH)). Instructors of the course are volunteers teaching during the period of the Summer School. The summer school is supported by Max Planck Institute for Evolutionary Anthropology, [Adelphi Genetics Forum](https://adelphigenetics.org/) and the [International Society of Biomolecular Archaeology](https://www.isbarch.org/)
 
-<p  align="left">
-<img src="{{ "assets/images/logos/AGF_Logo.png" | relative_url }}" alt="Adelphi Genetics Forum Logo" >
+<p  align="middle">
+<img src="assets/images/logos/2AGF-LOGO_COLOUR-WEB.png" alt="Adelphi Genetics Forum Logo" >
 </p>
 
 <!--## Who
@@ -62,6 +62,14 @@ Once you've received your link, each participant will need to open the link in t
 If you get a message about permissions for 'colour management', please use the password described for the 'Username' in the next code block below the 'Login Credentials' in the instructions above.
 
 ## Schedule
+
+<p  align="middle">
+<img src="assets/images/schedules/HAAM2025schedule.png" alt="HAAM Summer School 2024 Map" >
+</p>
+
+
+<!--
+
 <table class="schedule">
   <tr>
     <th>Time (CET)</th>
@@ -72,17 +80,15 @@ If you get a message about permissions for 'colour management', please use the p
     <th>Friday (June 13th)</th>
   </tr>
 
-  <!-- 09:00-10:15 -->
   <tr>
     <td>09:00-10:15</td>
     <td></td>
     <td class="theory">Introduction to NGS Data<br><br>(Emily Breslin)</td>
     <td class="theory">Introduction to Genetic Relatedness<br><br>(Şevval Aktürk)</td>
-    <td class="theory">Introduction to Population Genetics<br><br>(Jazmín Ramos Madrigal)</td>
+    <td class="practical">Data Curation and Unsupervised Analysis<br><br>(Jazmín Ramos Madrigal)</td>
     <td class="theory">Population Genetics II: f-stats<br><br>(Leo Speidel)</td>
   </tr>
 
-  <!-- 10:15-10:30 Break -->
   <tr>
     <td>10:15-10:30</td>
     <td></td>
@@ -92,27 +98,33 @@ If you get a message about permissions for 'colour management', please use the p
     <td></td>
   </tr>
 
-  <!-- 10:30-12:00 -->
   <tr>
-    <td>10:30-12:00</td>
+    <td>10:30-11:30</td>
     <td></td>
-    <td class="practical">Introduction to NF-Core/Eager</td>
+    <td class="practical">Introduction to NF-Core/Eager<br><br>(James Fellows Yates / Selina Carlhoff)</td>
     <td class="practical">Pairwise Mismatch and IBD Methods<br><br>(Şevval Aktürk)</td>
-    <td class="practical">Data Curation and Unsupervised Analysis</td>
-    <td class="practical">ADMIXTOOLS2</td>
+    <td class="theory">Introduction to Population Genetics<br><br>(Stephan Schiffels)</td>
+    <td class="practical">ADMIXTOOLS2<br><br>(Leo Speidel)</td>
   </tr>
 
-  <!-- 12:00-12:30 -->
+  <tr>
+    <td>11:30-12:00</td>
+    <td></td>
+    <td class="practical"></td>
+    <td class="practical"></td>
+    <td class="practical">Unsupervised Analysis<br><br>(Jazmin Ramos-Madrigal)</td>
+    <td class="practical"></td>
+  </tr>
+
   <tr>
     <td>12:00-12:30</td>
     <td></td>
-    <td class="practical">(James Fellows Yates / Selina Carlhoff)</td>
+    <td class="practical"></td>
     <td></td>
-    <td class="practical">(Jazmín Ramos Madrigal)</td>
-    <td class="practical">(Leo Speidel)</td>
+    <td class="practical"></td>
+    <td class="practical"></td>
   </tr>
 
-  <!-- 12:30-13:30 Lunch -->
   <tr>
     <td>12:30-13:30</td>
     <td></td>
@@ -122,7 +134,6 @@ If you get a message about permissions for 'colour management', please use the p
     <td></td>
   </tr>
 
-  <!-- 13:30-14:00 -->
   <tr>
     <td>13:30-14:00</td>
     <td></td>
@@ -132,27 +143,27 @@ If you get a message about permissions for 'colour management', please use the p
     <td></td>
   </tr>
 
-  <!-- 14:00-14:15 -->
+  <!-- 14:00-14:15 
   <tr>
     <td>14:00-14:45</td>
     <td class="round-table">Welcome Session</td>
-    <td class="practical">Data pre-processing NF-Core/Eager</td>
-    <td class="theory">(Harald Ringbauer)</td>
+    <td class="practical">Data pre-processing NF-Core/Eager<br><br>(James Fellows Yates / Selina Carlhoff)</td>
+    <td class="theory" style="vertical-align: top;">(Harald Ringbauer)</td>
     <td class="practical">Unsupervised Analysis<br><br>(Jazmín Ramos Madrigal)</td>
-    <td class="theory">qpAdm and IBD: Interpretation</td>
+    <td class="theory">qpAdm and IBD: Interpretation<br><br>(Éadaoin Harney)</td>
   </tr>
 
-  <!-- 14:15-15:30 -->
+  <!-- 14:15-15:30 
   <tr>
     <td>14:45-15:30</td>
     <td class="round-table"></td>
-    <td class="practical">(James Fellows Yates / Selina Carlhoff)</td>
+    <td class="practical"></td>
     <td class="practical">HapROH<br><br>(Eirini Skourtanioti)</td>
     <td class="theory">Imputation<br><br>(Bárbara Sousa da Mota)</td>
-    <td class="theory">(Éadaoin Harney)</td>
+    <td class="theory"></td>
   </tr>
 
-  <!-- 15:30-15:45 Break -->
+  <!-- 15:30-15:45 Break 
   <tr>
     <td>15:30-15:45</td>
     <td></td>
@@ -162,7 +173,7 @@ If you get a message about permissions for 'colour management', please use the p
     <td></td>
   </tr>
 
-  <!-- 15:45-17:00 -->
+  <!-- 15:45-17:00 
   <tr>
     <td>15:45-17:00</td>
     <td class="practical">Introduction to BASH<br><br>(Thiseas C. Lamnidis)</td>
@@ -171,7 +182,8 @@ If you get a message about permissions for 'colour management', please use the p
     <td class="round-table">Archaeological Interpretation<br><br>(John Robb)</td>
     <td class="round-table">Closing Session</td>
   </tr>
-</table>
+</table> 
+-->
 
 <!-- Lectures and Practical sessions are typically 2 hours, and round-table discussions 1 hour. -->
 
@@ -182,20 +194,20 @@ For any inquiries contact [HAAM Community](mailto:haamcommunity2023@gmail.com) o
 
 ## Contents Overview
 
-### DAY 1
+### DAY 1 (Monday, June 9th)
 
 - **Round table** Welcome Session
 - **Practical** Introduction to BASH: _Thiseas C. Lamnidis_
 
 
-### DAY 2
+### DAY 2 (Tuesday, June 10th)
 
 - **Lecture** Introduction to NGS Data: _Emily Breslin_
 - **Practical** Introduction to NF-Core/Eager: _James Fellows Yates_ / _Selina Carlhoff_
 - **Practical** Data pre-processing NF-Core/Eager: _James Fellows Yates_ / _Selina Carlhoff_
 - **Round table** Bioethics: _Sarah Abel_
 
-### DAY 3
+### DAY 3 (Wednesday, June 11th)
 
 - **Lecture** Introduction to Genetic Relatedness: _Şevval Aktürk_
 - **Practical** Pairwise Mismatch and IBD Methods: _Şevval Aktürk_
@@ -203,15 +215,15 @@ For any inquiries contact [HAAM Community](mailto:haamcommunity2023@gmail.com) o
 - **Practical** HapROH: _Eirini Skourtanioti_
 - **Round table** Kindship: _Catherine Frieman_
 
-### DAY 4
+### DAY 4 (Thursday, June 12th)
 
-- **Lecture** Introduction to Population Genetics: _Jazmín Ramos Madrigal_
 - **Practical** Data Curation and Unsupervised Analysis: _Jazmín Ramos Madrigal_
+- **Lecture** Introduction to Population Genetics: _Stephan Schiffels_
 - **Practical** Unsupervised Analysis: _Jazmín Ramos Madrigal_
 - **Lecture** Imputation: _Bárbara Sousa da Mota_
 - **Round table** Archaeological Interpretation: _John Robb_
 
-### DAY 5
+### DAY 5 (Friday, June 13th)
 
 - **Lecture** Population Genetics II: f-stats: _Leo Speidel_
 - **Practical** ADMIXTOOLS2: _Leo Speidel_
@@ -219,13 +231,14 @@ For any inquiries contact [HAAM Community](mailto:haamcommunity2023@gmail.com) o
 - **Round table** Closing Session.
 
 
-
 \* At the Round tables you will be able to discuss any issues that arose during the days related to each day's topic. You can also ask questions and get answers regarding your own work.
 
+<!--
 <style>
   table.schedule {
     background-color: #FFFFFF;
     text-align: center;
+    border-collapse: collapse;
   }
 
   td.theory {
@@ -240,6 +253,6 @@ For any inquiries contact [HAAM Community](mailto:haamcommunity2023@gmail.com) o
     background-color: #E6B3C8;
   }
 </style>
-
+--> 
 
 While you wait for the new edition, if you wish to see the videos of the lectures from last year, please see the [2024 edition](/2024/) of the summer school. 

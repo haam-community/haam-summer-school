@@ -11,13 +11,13 @@ Meet the organisers/TAs of the 2025 HAAM Summer-School! They will be present thr
   </div>
 
   <div class="member">
-    <div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/558828" target="_blank"><img src="assets/images/organisers/Miren_Iraeta_Orbegozo.jpg" alt="Avatar" /></a></div>
-  <p>Miren Iraeta Orbegozo</p>
+    <div class="square"><a href="https://www.crick.ac.uk/research/find-a-researcher/marina-soares-da-silva" target="_blank"><img src="assets/images/organisers/Marina_Silva.jpg" alt="Avatar" /></a></div>
+  <p>Marina Silva</p>
   </div>
 
   <div class="member">
-    <div class="square"><a href="https://www.crick.ac.uk/research/find-a-researcher/marina-soares-da-silva" target="_blank"><img src="assets/images/organisers/Marina_Silva.jpg" alt="Avatar" /></a></div>
-  <p>Marina Silva</p>
+    <div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/558828" target="_blank"><img src="assets/images/organisers/Miren_Iraeta_Orbegozo.jpg" alt="Avatar" /></a></div>
+  <p>Miren Iraeta Orbegozo</p>
   </div>
 
 </div>
@@ -43,6 +43,12 @@ Meet the organisers/TAs of the 2025 HAAM Summer-School! They will be present thr
   <p>Beatriz Amorim</p>
   </div>
 
+</div>
+
+<br>
+
+<div class="avatar">
+
   <div class ="member">
    <div class="square"><a href="" target="_blank"><img src="assets/images/instructors/ACCOUNT_Anonymous.png" alt="Avatar" /></a></div>
   <p>Chen Leibson</p>
@@ -58,8 +64,14 @@ Meet the organisers/TAs of the 2025 HAAM Summer-School! They will be present thr
   <p>Thiseas Christos Lamnidis</p>
   </div>
 
+</div>
+
+<br>
+
+<div class="avatar">
+
   <div class ="member">
-   <div class="square"><a href="" target="_blank"><img src="assets/images/instructors/ACCOUNT_Anonymous.png" alt="Avatar" /></a></div>
+   <div class="square"><a href="" target="_blank"><img src="assets/images/organisers/tina_saupe.jpeg" alt="Avatar" /></a></div>
   <p>Tina Saupe</p>
   </div>
 

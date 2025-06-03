@@ -39,7 +39,7 @@ Meet the organisers/TAs of the 2025 HAAM Summer-School! They will be present thr
   </div>
 
   <div class ="member">
-   <div class="square"><a href="https://www.eva.mpg.de/tropical-archaeogenomics/group-staff/" target="_blank"><img src="assets/images/organisers/Beatriz_Amorim.jpg" alt="Avatar" /></a></div>
+   <div class="square"><a href="https://bamorimbio.wordpress.com" target="_blank"><img src="assets/images/organisers/Beatriz_Amorim.jpg" alt="Avatar" /></a></div>
   <p>Beatriz Amorim</p>
   </div>
 
@@ -86,7 +86,7 @@ Meet your instructors! This page introduces you to the people guiding you throug
 <div class="avatar">
 
   <div class ="member">
-    <div class="square"><a href="https://www.sib.swiss/directory/person/barbara-damota" target="_blank"><img src="assets/images/instructors/sousadamota_barbara.jpg" alt="Avatar" /></a></div>
+    <div class="square"><a href="https://reich.hms.harvard.edu/people/barbara-teixeira-de-sousa-coelho-mota" target="_blank"><img src="assets/images/instructors/sousadamota_barbara.jpg" alt="Avatar" /></a></div>
     <p>Bárbara Sousa da Mota</p>
   </div>
 
@@ -105,7 +105,7 @@ Meet your instructors! This page introduces you to the people guiding you throug
 <div class="avatar">
 
   <div class ="member">
-    <div class="square"><a href="" target="_blank"><img src="assets/images/instructors/Eirini-Skourtanioti.png" alt="Avatar" /></a></div>
+    <div class="square"><a href="https://www.researchgate.net/profile/Eirini-Skourtanioti" target="_blank"><img src="assets/images/instructors/Eirini-Skourtanioti.png" alt="Avatar" /></a></div>
     <p>Eirini Skourtanioti</p>
   </div>
 
@@ -152,13 +152,13 @@ Meet your instructors! This page introduces you to the people guiding you throug
   </div>
 
   <div class ="member">
-    <div class="square"><a href="https://www.latin-american.cam.ac.uk/staff/academic/sarah-abel" target="_blank"><img src="assets/images/instructors/abel_sarah.jpg" alt="Avatar" /></a></div>
-    <p>Sarah Abel</p>
+    <div class="square"><a href="https://www.eva.mpg.de/de/archaeogenetics/staff/selina-carlhoff/" target="_blank"><img src="assets/images/instructors/carlhoff_selina.png" alt="Avatar" /></a></div>
+    <p>Selina Carlhoff</p>
   </div>
 
   <div class ="member">
-    <div class="square"><a href="https://www.eva.mpg.de/de/archaeogenetics/staff/selina-carlhoff/" target="_blank"><img src="assets/images/instructors/carlhoff_selina.png" alt="Avatar" /></a></div>
-    <p>Selina Carlhoff</p>
+    <div class="square"><a href="https://www.researchgate.net/profile/Sevval-Aktuerk" target="_blank"><img src="assets/images/instructors/photo_sevval_2024.jpg" alt="Avatar" /></a></div>
+    <p>Şevval Aktürk</p>
   </div>
 
 </div>
@@ -166,11 +166,6 @@ Meet your instructors! This page introduces you to the people guiding you throug
 <br>
 
 <div class="avatar">
-
-  <div class ="member">
-    <div class="square"><a href="https://www.researchgate.net/profile/Sevval-Aktuerk" target="_blank"><img src="assets/images/instructors/photo_sevval_2024.jpg" alt="Avatar" /></a></div>
-    <p>Şevval Aktürk</p>
-  </div>
 
   <div class ="member">
     <div class="square"><a href="https://www.eva.mpg.de/archaeogenetics/staff/stephan-schiffels/" target="_blank"><img src="assets/images/instructors/stephan.jpg" alt="Avatar" /></a></div>
@@ -182,13 +177,11 @@ Meet your instructors! This page introduces you to the people guiding you throug
 <br>
 <br>
 
-**Bárbara Sousa da Mota** completed her undergraduate and master's degrees in physics in Portugal, where she is from. She is currently finishing her PhD, during which she worked on imputation of ancient genomes and on the genomic history of the Rapanui, the indigenous people of Easter Island.
+**Bárbara Sousa da Mota**: Originally from Portugal, Bárbara studied physics for her bachelor’s and master’s degrees in Porto and Lisbon, respectively. After modelling wildfire propagation for her master’s thesis, she moved to the University of Lausanne to pursue a PhD in the field of quantitative biology under the supervision of Anna-Sapfo Malaspinas and Olivier Delaneau. There, she assessed how imputation tools and resources can reliably be applied in the field of ancient human DNA, and analysed ancient genomes to unravel some key aspects of the history of the Rapanui, the indigenous people of Easter Island. Bárbara has recently started working as a postdoctoral researcher in David Reich’s research group at Harvard University.  She will teach a theoretical session on imputation of aDNA.
 
 **Catherine Frieman** (@cjfrieman.bsky.social) is an Associate Professor of European Archaeology at ANU. Her work explores innovation, resistance, feminist theory, and ancient tech, especially stone tools. She writes on the politics of archaeology and the ethical challenges of ancient DNA, “using the past to imagine more just futures”. Catherine’s research team is based at ANU and serves as an editor at Current Anthropology.
 
-<!--
-**Éadaoin Harney** 
--->
+**Éadaoin Harney** (@eadaoinharney.bsky.social) is a scientist on the Population Genetics R&D team at 23andMe, Inc. and a lecturer in the Department of Human Evolutionary Biology at Harvard University. She has worked in the field of ancient DNA for over a decade, and has experience in both wet lab and computational approaches. Her current research focuses on using ancient DNA methodologies to identify genetic connections between historical individuals and research participants in 23andMe’s massive genetic database. She earned her PhD in Organismic and Evolutionary Biology from Harvard University in 2020, where she was co-advised by David Reich and John Wakeley. Her work integrates allele frequency based approaches (like qpAdm) and identity-by-descent (IBD) analysis to study migration, admixture, and relatedness across time. She will be teaching on the interpretation of qpAdm and IBD.
 
 **Eirini Skourtanioti** is an evolutionary biologist at the Crick Institute, specializing in ancient DNA. She integrates genomic data with archaeology to study admixture, selection, kinship, and marital practices in the Eastern Mediterranean through time.
 
@@ -202,11 +195,7 @@ Meet your instructors! This page introduces you to the people guiding you throug
 
 **John Robb** is a Professor of European Prehistory at the University of Cambridge. He has conducted fieldwork on the later prehistory of the Central Mediterranean and currently co-leads an interdisciplinary project on medieval Cambridge. His research interests include archaeological and anthropological theory, with a focus on agency, material culture, gender and the body. He also serves as an editor of the Cambridge Archaeological Journal.
 
-<!--
-**Leo Speidel** 
--->
-
-**Sarah Abel** is a researcher on racism, antiracism, and technology at UNAM. Explores how genomic, visual, and digital sciences reproduce or resist inequality. Author of Permanent Markers. Current work: ethics of AI image generators and epistemic oppression in Latin America.
+**Leo Speidel** (@leospeidel.bsky.social) obtained his PhD from the Department of Statistics at the University of Oxford, followed by a Sir Henry Wellcome postdoctoral fellowship at UCL and the Francis Crick Institute in London. He is now a group leader at RIKEN, Japan’s national scientific research institute, based at the Center for Interdisciplinary Theoretical and Mathematical Sciences (iTHEMS). He focuses on the development of methods for the inference of genealogies and their applications, such as Relate and Twigstats, to reveal the evolutionary forces that have shaped our DNA, from key events in a nation’s recent past to the earliest days of our species. He will be teaching fstats and how to use Admixtools.
 
 **Selina Carlhoff** is a postdoc at MPI-EVA studying regional connectivity and community structure using archaeogenetics. Her work spans Holocene Southeast Asia to post-Bronze Age Europe, combining lab work, bioinformatics, and archaeological insight.
 

@@ -10,10 +10,11 @@ We would like to thank
 	The active researchers from the HAAM community, including The Francis Crick Institute (UK), MPI-EVA (DE), Globe Institute (DK), University College Dublin (IE), and University of Zurich (CH), for volunteering to organize this course. We would also like to extend our appreciation to the invited instructors who generously dedicated their time to teach at the summer school.
 </p>
 
-## **Institutional Support**
+## **Financial Support**
 
 <p>
 	<a  href="https://www.eva.mpg.de/"><img src="assets/images/logos/MPI_Logo_DE_CMYK_green.png" height=75px padding=5px margin=10px></a>
+	<a  href="https://adelphigenetics.org"><img src="assets/images/logos/AGF_Logo.png" height=75px padding=5px margin=10px></a>
 	<a  href="https://www.isbarch.org/"><img src="assets/images/logos/isba.svg" height=75px padding=5px margin=10px></a>
 	<br>
 	<br>

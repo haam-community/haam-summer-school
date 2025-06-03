@@ -60,15 +60,21 @@ Meet the organisers/TAs of the 2025 HAAM Summer-School! They will be present thr
   </div>
 
   <div class ="member">
-   <div class="square"><a href="https://www.eva.mpg.de/archaeogenetics/staff/thiseas-christos-lamnidis/" target="_blank"><img src="assets/images/organisers/Thiseas_Christos_Lamnidis.jpg" alt="Avatar" /></a></div>
-  <p>Thiseas Christos Lamnidis</p>
+   <div class="square"><a href="" target="_blank"><img src="assets/images/instructors/ACCOUNT_Anonymous.png" alt="Avatar" /></a></div>
+  <p>Jennifer Zhu</p>
   </div>
+
 
 </div>
 
 <br>
 
 <div class="avatar">
+
+  <div class ="member">
+   <div class="square"><a href="https://www.eva.mpg.de/archaeogenetics/staff/thiseas-christos-lamnidis/" target="_blank"><img src="assets/images/organisers/Thiseas_Christos_Lamnidis.jpg" alt="Avatar" /></a></div>
+  <p>Thiseas Christos Lamnidis</p>
+  </div>
 
   <div class ="member">
    <div class="square"><a href="" target="_blank"><img src="assets/images/organisers/tina_saupe.jpeg" alt="Avatar" /></a></div>

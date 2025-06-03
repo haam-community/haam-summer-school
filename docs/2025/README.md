@@ -178,7 +178,7 @@ If you get a message about permissions for 'colour management', please use the p
     <td>15:45-17:00</td>
     <td class="practical">Introduction to BASH<br><br>(Thiseas C. Lamnidis)</td>
     <td class="round-table">Bioethics<br><br>(Sarah Abel)</td>
-    <td class="round-table">Kindship<br><br>(Catherine Frieman)</td>
+    <td class="round-table">Kinship<br><br>(Catherine Frieman)</td>
     <td class="round-table">Archaeological Interpretation<br><br>(John Robb)</td>
     <td class="round-table">Closing Session</td>
   </tr>
@@ -213,7 +213,7 @@ For any inquiries contact [HAAM Community](mailto:haamcommunity2023@gmail.com) o
 - **Practical** Pairwise Mismatch and IBD Methods: _Şevval Aktürk_
 - **Lecture** IBD-Based Methods II: _Harald Ringbauer_
 - **Practical** HapROH: _Eirini Skourtanioti_
-- **Round table** Kindship: _Catherine Frieman_
+- **Round table** Kinship: _Catherine Frieman_
 
 ### DAY 4 (Thursday, June 12th)
 

@@ -9,9 +9,9 @@ The colour of each session header denotes the type of session:
 
 ### Day 1
 
-<span class="theory">Introduction to BASH (Thiseas C. Lamnidis)</span>
+<span class="theory">Introduction to bash (Thiseas C. Lamnidis)</span>
 
-For the content of this lecture please click the [BareBonesBash link](https://www.spaam-community.org/intro-to-ancient-metagenomics-book/bare-bones-bash.html).
+For the content of this lecture please refer to the [Intro to Ancient Metagenomics Book](https://www.spaam-community.org/intro-to-ancient-metagenomics-book/bare-bones-bash.html).
 
 
 <style>

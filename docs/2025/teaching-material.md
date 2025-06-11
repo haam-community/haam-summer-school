@@ -23,6 +23,7 @@ For the content of this lecture please refer to the [Intro to Ancient Metagenomi
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRUbGX51DUwFLJpeMi-cCeDPrbcHHkELgnWnmqt86sx0YiMW-1exn2ych1g0Kahg9Ke_BQfxlphHrna/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+A list of the commands used in the session can be found [here](https://hackmd.io/@jfy133/SJ2NGWzZgl).
 ### Day 3
 
 <span class="theory">Introduction to genetic relatedness (Şevval Aktürk)</span>

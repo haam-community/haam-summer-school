@@ -51,6 +51,8 @@ For the content of this lecture please refer to the [Jupyter Notebook used in th
 
 <span class="theoretical">Introduction to Population Genetics (Stephan Schiffels)</span>
 
+<iframe src="https://drive.google.com/file/d/1UWuVHkObSO_2tTDsLuzSlu3J7RyGFonN/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 <span class="practical">Unsupervised Analysis (Jazmín Ramos-Madrigal)</span>
 
 <span class="theoretical">Imputation (Bárbara Sousa da Mota)</span>

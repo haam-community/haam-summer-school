@@ -29,12 +29,12 @@ Meet the organisers/TAs of the 2025 HAAM Summer-School! They will be present thr
 <div class="avatar">
 
   <div class ="member">
-   <div class="square"><a href="" target="_blank"><img src="assets/images/instructors/ACCOUNT_Anonymous.png" alt="Avatar" /></a></div>
+   <div class="square"><a href="" target="_blank"><img src="assets/images/TAs/Alicia_photo.jpeg" alt="Avatar" /></a></div>
   <p>Alicia Muriel</p>
   </div>
 
   <div class ="member">
-   <div class="square"><a href="" target="_blank"><img src="assets/images/instructors/ACCOUNT_Anonymous.png" alt="Avatar" /></a></div>
+   <div class="square"><a href="" target="_blank"><img src="assets/images/TAs/Anna-Lena_photo.jpg" alt="Avatar" /></a></div>
   <p>Anna-Lena Titze</p>
   </div>
 
@@ -50,17 +50,17 @@ Meet the organisers/TAs of the 2025 HAAM Summer-School! They will be present thr
 <div class="avatar">
 
   <div class ="member">
-   <div class="square"><a href="" target="_blank"><img src="assets/images/instructors/ACCOUNT_Anonymous.png" alt="Avatar" /></a></div>
+   <div class="square"><a href="" target="_blank"><img src="assets/images/TAs/photo_Chen.JPG" alt="Avatar" /></a></div>
   <p>Chen Leibson</p>
   </div>
 
   <div class ="member">
-   <div class="square"><a href="" target="_blank"><img src="assets/images/instructors/ACCOUNT_Anonymous.png" alt="Avatar" /></a></div>
+   <div class="square"><a href="" target="_blank"><img src="assets/images/TAs/Photo_ElisaBella.png" alt="Avatar" /></a></div>
   <p>Elisa Bella</p>
   </div>
 
   <div class ="member">
-   <div class="square"><a href="" target="_blank"><img src="assets/images/instructors/ACCOUNT_Anonymous.png" alt="Avatar" /></a></div>
+   <div class="square"><a href="" target="_blank"><img src="assets/images/TAs/photo_Jennifer.jpg" alt="Avatar" /></a></div>
   <p>Jennifer Zhu</p>
   </div>
 

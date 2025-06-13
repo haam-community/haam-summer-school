@@ -15,9 +15,9 @@ For the content of this lecture please refer to the [Intro to Ancient Metagenomi
 
 ### Day 2
 
-<!--  <span class="theory">Introduction to NGS data (Emily Breslin)</span>
+<span class="theory">Introduction to NGS data (Emily Breslin)</span>
 
-SLIDES GO HERE -->
+<iframe src="https://drive.google.com/file/d/1AZBJB2aFhHblhsxolxnJDrojwRSOhNrJ/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <span class="practical">Introduction to nf-core/eager & Interpretting nf-core/eager output (James Fellows Yates & Selina Carlhoff)</span>
 
@@ -55,6 +55,12 @@ For the content of this lecture please refer to the [Jupyter Notebook used in th
 
 <span class="theoretical">Imputation (Bárbara Sousa da Mota)</span>
 
+<iframe src="https://drive.google.com/file/d/1eTg9Yvf-4s3DM0kDVbnIsbF74N20aNwf/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<span class="theoretical">Archaeological Interpretation (John Robb)</span>
+
+<iframe src="https://drive.google.com/file/d/1YwlcfmIsquN6OLVfMG9wuAvmoTZgtCTR/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 ### Day 5
 
@@ -64,6 +70,7 @@ For the content of this lecture please refer to the [Jupyter Notebook used in th
 
 <iframe src="https://drive.google.com/file/d/1LN4TGWxX0T1-YP6WV9sh4vzwQhz9SZXU/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+<span class="theoretical">qpAdm and IBD: Interpretation (Éadaoin Harney)</span>
 
 <style>
   .theory {

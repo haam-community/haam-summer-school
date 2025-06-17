@@ -68,11 +68,15 @@ For the content of this lecture please refer to the [Jupyter Notebook used in th
 
 <span class="theoretical">Population Genetics II: f-stats (Leo Speidel)</span>
 
+<iframe src="https://drive.google.com/file/d/11rR5K-j7ANS2M_xuK1yp8Jm2OzWkCVF0/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 <span class="practical">Admixtools2 (Leo Speidel)</span>
 
 <iframe src="https://drive.google.com/file/d/1LN4TGWxX0T1-YP6WV9sh4vzwQhz9SZXU/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <span class="theoretical">qpAdm and IBD: Interpretation (Éadaoin Harney)</span>
+
+<iframe src="https://drive.google.com/file/d/1HzknuDP0LLGykvhCPRG10j1XocJlQYRU/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <style>
   .theory {

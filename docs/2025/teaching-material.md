@@ -15,6 +15,7 @@ The colour of each session header denotes the type of session:
 ## **Recording**
 
 <p>
+<iframe width="960" height="569" src="https://www.youtube.com/embed/lEZbY8c75xs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!-- tabs:end -->
 
@@ -24,6 +25,7 @@ The colour of each session header denotes the type of session:
 ## **Recording**
 
 <p>
+<iframe width="960" height="569" src="https://www.youtube.com/embed/uPNuEeK9k3U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 For the content of this lecture please refer to the <a href="https://www.spaam-community.org/intro-to-ancient-metagenomics-book/bare-bones-bash.html">Intro to Ancient Metagenomics Book</a>.
 </p>
 <!-- tabs:end -->
@@ -43,6 +45,7 @@ For the content of this lecture please refer to the <a href="https://www.spaam-c
 ## **Recording**
 
 <p>
+Coming soon.
 </p>
 <!-- tabs:end -->
 
@@ -60,6 +63,7 @@ For the content of this lecture please refer to the <a href="https://www.spaam-c
 ## **Recording**
 
 <p>
+Coming soon.
 </p>
 <!-- tabs:end -->
 
@@ -78,6 +82,7 @@ For the content of this lecture please refer to the <a href="https://www.spaam-c
 ## **Recording**
 
 <p>
+Coming soon.
 </p> 
 <!-- tabs:end -->
 
@@ -95,6 +100,7 @@ A list of the commands used in the session can be found <a href="https://drive.g
 ## **Recording**
 
 <p>
+Coming soon.
 </p> 
 <!-- tabs:end -->
 
@@ -111,6 +117,7 @@ A list of the commands used in the session can be found <a href="https://drive.g
 ## **Recording**
 
 <p>
+Coming soon.
 </p> 
 <!-- tabs:end -->
 
@@ -127,6 +134,7 @@ For the content of this lecture please refer to the  <a href="https://github.com
 ## **Recording**
 
 <p>
+Coming soon.
 </p> 
 <!-- tabs:end -->
 
@@ -138,11 +146,13 @@ For the content of this lecture please refer to the  <a href="https://github.com
 ## **Lecture Slides**
 
 <p>
+Coming soon.
 </p>
 
 ## **Recording**
 
 <p>
+Coming soon.
 </p> 
 <!-- tabs:end -->
 
@@ -158,6 +168,7 @@ For the content of this lecture please refer to the  <a href="https://github.com
 ## **Recording**
 
 <p>
+Coming soon.
 </p> 
 <!-- tabs:end -->
 
@@ -167,11 +178,13 @@ For the content of this lecture please refer to the  <a href="https://github.com
 ## **Lecture Slides**
 
 <p>
+Coming soon.
 </p>
 
 ## **Recording**
 
 <p>
+Coming soon.
 </p> 
 <!-- tabs:end -->
 
@@ -187,6 +200,7 @@ For the content of this lecture please refer to the  <a href="https://github.com
 ## **Recording**
 
 <p>
+Coming soon.
 </p> 
 <!-- tabs:end -->
 
@@ -203,6 +217,7 @@ For the content of this lecture please refer to the  <a href="https://github.com
 ## **Recording**
 
 <p>
+Coming soon.
 </p> 
 <!-- tabs:end -->
 
@@ -221,6 +236,7 @@ For the content of this lecture please refer to the  <a href="https://github.com
 ## **Recording**
 
 <p>
+Coming soon.
 </p> 
 <!-- tabs:end -->
 
@@ -237,6 +253,7 @@ For the content of this lecture please refer to the  <a href="https://github.com
 ## **Recording**
 
 <p>
+Coming soon.
 </p> 
 <!-- tabs:end -->
 
@@ -253,6 +270,7 @@ For the content of this lecture please refer to the  <a href="https://github.com
 ## **Recording**
 
 <p>
+Coming soon.
 </p> 
 <!-- tabs:end -->
 

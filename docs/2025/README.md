@@ -93,6 +93,7 @@ For any inquiries contact [HAAM Community](mailto:haamcommunity2023@gmail.com) o
 - **Practical** Pairwise Mismatch and IBD Methods: _Şevval Aktürk_
 - **Lecture** IBD-Based Methods II: _Harald Ringbauer_
 - **Practical** HapROH: _Eirini Skourtanioti_
+- **Round table** Kinship: _Catherine Frieman_
 
 ### DAY 4 (Thursday, June 12th)
 

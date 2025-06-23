@@ -146,7 +146,8 @@ Coming soon.
 ## **Lecture Slides**
 
 <p>
-Coming soon.
+<iframe src="https://drive.google.com/file/d/1Vs6SDhVkxJBnFwZ2d0Oqp1lgQoUFWn2u/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 </p>
 
 ## **Recording**

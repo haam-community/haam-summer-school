@@ -45,7 +45,7 @@ For the content of this lecture please refer to the <a href="https://www.spaam-c
 ## **Recording**
 
 <p>
-Coming soon.
+<iframe width="960" height="569" src="https://www.youtube.com/embed/rPpTBNFTxJ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!-- tabs:end -->
 
@@ -63,7 +63,7 @@ Coming soon.
 ## **Recording**
 
 <p>
-Coming soon.
+<iframe width="960" height="569" src="https://www.youtube.com/embed/ufa-pM8GNDU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!-- tabs:end -->
 

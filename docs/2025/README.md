@@ -42,7 +42,7 @@ The summer school is held between 9th-13th June 2025, at the following times:
 
 ## Where
 
-We are running this virtual edition of the HAAM Summer School on [Gather.Town](https://gather.town), on the HAAM workspace (available soon!). <!--[here](URL).  [here](https://tinyurl.com/haamsummerschool).-->
+We are running this virtual edition of the HAAM Summer School on **Gather.Town**, on the [HAAM workspace](https://app.gather.town/events/eozSbSqyTOeSmmVNyvBX).
 
 If you're not familiar with this platform please see the documentation on the gather.town website, or [this 'Quick Start' video from nf-core](https://nf-co.re/events/2022/bytesize-37-gathertown).
 
@@ -93,8 +93,9 @@ For any inquiries contact [HAAM Community](mailto:haamcommunity2023@gmail.com) o
 - **Practical** Pairwise Mismatch and IBD Methods: _Şevval Aktürk_
 - **Lecture** IBD-Based Methods II: _Harald Ringbauer_
 - **Practical** HapROH: _Eirini Skourtanioti_
+<!--
 - **Round table** Kinship: _Catherine Frieman_
-
+-->
 ### DAY 4 (Thursday, June 12th)
 
 - **Practical** Data Curation and Unsupervised Analysis: _Jazmín Ramos Madrigal_

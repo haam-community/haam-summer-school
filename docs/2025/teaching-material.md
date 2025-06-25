@@ -56,7 +56,7 @@ For the content of this lecture please refer to the <a href="https://www.spaam-c
 ## **Lecture Slides**
 
 <p>
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRUbGX51DUwFLJpeMi-cCeDPrbcHHkELgnWnmqt86sx0YiMW-1exn2ych1g0Kahg9Ke_BQfxlphHrna/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <iframe src="https://drive.google.com/file/d/1Xmix6EnPp_NwT7slFyYJKYb2bIXx0dVx/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
   A list of the commands used in the session can be found <a href="https://hackmd.io/@jfy133/SJ2NGWzZgl">here</a>.
 </p>
 
@@ -64,6 +64,7 @@ For the content of this lecture please refer to the <a href="https://www.spaam-c
 
 <p>
 <iframe width="960" height="569" src="https://www.youtube.com/embed/ufa-pM8GNDU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="960" height="569" src="https://www.youtube.com/embed/Nogf2P9d8MA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!-- tabs:end -->
 
@@ -113,7 +114,6 @@ Coming soon.
 <p>
 <iframe src="https://drive.google.com/file/d/1rtCmEeHE0M2rNqd0I10s3hpT99AnxBw0/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
-
 ## **Recording**
 
 <p>
@@ -179,7 +179,7 @@ Coming soon.
 ## **Lecture Slides**
 
 <p>
-Coming soon.
+<iframe src="https://drive.google.com/file/d/1Vs6SDhVkxJBnFwZ2d0Oqp1lgQoUFWn2u/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
 
 ## **Recording**
@@ -233,7 +233,6 @@ Coming soon.
 <p>
 <iframe src="https://drive.google.com/file/d/11rR5K-j7ANS2M_xuK1yp8Jm2OzWkCVF0/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
-
 ## **Recording**
 
 <p>
@@ -250,7 +249,6 @@ Coming soon.
 <p>
 <iframe src="https://drive.google.com/file/d/1LN4TGWxX0T1-YP6WV9sh4vzwQhz9SZXU/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
-
 ## **Recording**
 
 <p>
@@ -267,7 +265,6 @@ Coming soon.
 <p>
 <iframe src="https://drive.google.com/file/d/1HzknuDP0LLGykvhCPRG10j1XocJlQYRU/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
-
 ## **Recording**
 
 <p>

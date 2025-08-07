@@ -138,6 +138,23 @@ Coming soon.
 </p> 
 <!-- tabs:end -->
 
+<span class="theoretical">Kinship (Catherine Frieman)</span>
+
+<!-- tabs:start -->
+## **Lecture Slides**
+
+<p>
+For the content of this lecture please contact <a href="mailto:catherine.frieman@anu.edu.au">Catherine</a> directly.
+</p>
+
+## **Recording**
+
+<p>
+Coming soon.
+</p> 
+<!-- tabs:end -->
+
+
 ### Day 4
 
 <span class="practical">Data Curation and Unsupervised Analysis (Jazmín Ramos-Madrigal)</span>

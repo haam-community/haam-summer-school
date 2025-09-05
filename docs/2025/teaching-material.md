@@ -83,8 +83,8 @@ For the content of this lecture please refer to the <a href="https://www.spaam-c
 ## **Recording**
 
 <p>
-Coming soon.
-</p> 
+<iframe width="960" height="569" src="https://www.youtube.com/embed/UVmJ1GhewWw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 <!-- tabs:end -->
 
 <span class="practical">Pairwise mismatch and IBD methods (Şevval Aktürk)</span>
@@ -150,7 +150,7 @@ For the content of this lecture please contact <a href="mailto:catherine.frieman
 ## **Recording**
 
 <p>
-Coming soon.
+Not available for this lecture.
 </p> 
 <!-- tabs:end -->
 

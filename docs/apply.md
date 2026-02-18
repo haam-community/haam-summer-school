@@ -2,7 +2,9 @@
 
 <!-- Please fill this [form](https://docs.google.com/forms/d/1d3ln-QILxP9cqjXrHFd2gxUmSWT8JP4JyO7cVYIQxgs/viewform?edit_requested=true) to apply for the 2025 edition of the HAAM Summer School c: -->
 
-Applications for the 2025 summer school are now **closed**!
+Applications for the 2026 summer school will open soon! Please stay tuned to our communication channels.
+For any inquiries please
+[contact the organising team](<mailto:haam.community2023@gmail.com?subject=HAAM-Summer School 2026 inquiry>).
 
 <!-- Applications for the 2024 *Connecting the past, present, and future* Summer school are now closed! -->
 
@@ -10,4 +12,4 @@ Applications for the 2025 summer school are now **closed**!
 
 <!-- **Decisions by**: second to third week of June 2024 -->
 
-**Course dates**: 9th to 13th June 2025
+**Course dates**: 1st to 5th June 2026

@@ -1,9 +1,14 @@
 <!-- docs/_sidebar.md -->
 
 - [Home](/)
-- [Apply](apply.md "Apply")
+- [Apply](apply)
+- [2026 Syllabus](2026/README.md)
 - [2025 Syllabus](2025/README.md)
+  - [Teaching Material](2025/teaching-material.md)
+  - [Meet the Instructors](2025/instructors.md)
 - [2024 Syllabus](2024/README.md)
-- [Resources](resources.md "Resources")
-- [Code of Conduct](code-of-conduct.md "Code of Conduct")
-- [Acknowledgments](acknowledgments "Acknowledgements")
+  - [Teaching Material](2024/teaching-material.md)
+  - [Meet the Instructors](2024/instructors.md)
+- [Resources](resources)
+- [Code of Conduct](code-of-conduct)
+- [Acknowledgments](acknowledgments)

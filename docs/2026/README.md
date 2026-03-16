@@ -2,7 +2,7 @@
 
 ## Latest
 
-Applications for the 2026 HAAM Summer school will open soon! Please stay tuned to our [social media](https://haam-community.github.io/about/) and [website](https://haam-community.github.io/).
+Applications for the 2026 HAAM Summer school are now open! Please stay tuned to our [social media](https://haam-community.github.io/about/) and [website](https://haam-community.github.io/) for more information.
 
 
 ## What

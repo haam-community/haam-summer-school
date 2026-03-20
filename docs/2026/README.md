@@ -2,12 +2,12 @@
 
 ## Latest
 
-Applications for the 2026 HAAM Summer school are now open! Please stay tuned to our [social media](https://haam-community.github.io/about/) and [website](https://haam-community.github.io/) for more information.
+Applications for the 2026 HAAM Summer school are now [open](https://forms.gle/ckqTgQxnEENJQMwA6)! Please stay tuned to our [social media](https://haam-community.github.io/about/) and [website](https://haam-community.github.io/) for more information.
 
 
 ## What
 
-The **HAAM Summer School** is a 3 day workshop, with a mix of theoretical and practical sessions. Our Summer School covers different aspects of human ancient DNA (aDNA) research, including both technical and ethical challenges, and considerations when working with human skeletal remains and human genetic data.
+The **HAAM Summer School** is a 5 day workshop, with a mix of theoretical and practical sessions. Our Summer School covers different aspects of human ancient DNA (aDNA) research, including both technical and ethical challenges, and considerations when working with human skeletal remains and human genetic data.
 The Summer School is held in a 100% virtual format to maximise accessibility and inclusivity for attendees worldwide, particularly for those working in lower-income countries and/or with limited funding, and to ensure that all participants can have equal access to content and interactions, as well as any network opportunities that could stem from the summer school, regardless of where they are based. 
 The course was planned by active researchers of the HAAM-community (including The Francis Crick Institute (UK), MPI-EVA (DE), Globe Institute (DK), University College Dublin (IE) & University of Zurich (CH)). Instructors of the course are volunteers teaching during the period of the Summer School. <!-- The summer school is supported by Max Planck Institute for Evolutionary Anthropology, [Adelphi Genetics Forum](https://adelphigenetics.org/) and the [International Society of Biomolecular Archaeology](https://www.isbarch.org/) -->
 
@@ -60,58 +60,191 @@ Each participant will being given a cloud computing node kindly provided by the 
 
 Registration links will be sent via email all participants, however detailed instructions on registration procedure can be seen [here](2024/denbi-registration).
 
-Once you've received your link, each participant will need to open the link in their browser. On the Guacamole page please use the username/password und 'Login credentials' [here](https://simplevm.denbi.de/wiki/simple_vm/customization/#apache-guacamole). You should then see a desktop environment.
+Once you've received your link, each participant will need to open the link in their browser. On the Guacamole page please use the username/password and 'Login credentials' [here](https://simplevm.denbi.de/wiki/simple_vm/customization/#apache-guacamole). You should then see a desktop environment.
 
 If you get a message about permissions for 'colour management', please use the password described for the 'Username' in the next code block below the 'Login Credentials' in the instructions above.
-<!--
+
 ## Schedule
 
-<p  align="middle">
-<img src="assets/images/schedules/HAAM2025schedule.png" alt="HAAM Summer School 2024 Map" >
-</p>
+<table class="schedule">
+  <tr>
+    <th>Time (CET)</th>
+    <th>Day 1<br>Mon 1/6</th>
+    <th>Day 2<br>Tue 2/6</th>
+    <th>Day 3<br>Wed 3/6</th>
+    <th>Day 4<br>Thu 4/6</th>
+    <th>Day 5<br>Fri 5/6</th>
+  </tr>
 
+  <!-- 09:00–10:30 -->
+  <tr>
+    <td>09:00–10:30</td>
+    <td class="theory">Welcome Session<br><br>Tina Saupe</td>
+    <td class="practical">NF-Core/Eager<br><br>Selina Carlhoff<br>Judith Ballesteros</td>
+    <td class="theory">Intro to Genetic Relatedness incl. IBD<br><br>Şevval Aktürk</td>
+    <td class="theory">Intro to Population Genetics<br><br>Stephan Schiffels</td>
+    <td class="theory">Intro to F-stats and qpAdm<br><br>Leo Speidel</td>
+  </tr>
 
-For any inquiries contact [HAAM Community](mailto:haamcommunity2023@gmail.com) or [Epifania Arango](mailto:epifaniarango@gmail.com).
+  <!-- 10:45–12:15 -->
+  <tr>
+    <td>10:45–12:15</td>
+    <td class="theory">Intro to Lab and NGS<br><br>Vincent Geyer</td>
+    <td class="practical">NF-Core/Eager<br><br>Selina Carlhoff<br>Judith Ballesteros</td>
+    <td class="practical">Pairwise Mismatch Rates PMR<br><br>Şevval Aktürk</td>
+    <td class="practical">Intro to Unsupervised Analysis<br><br>Jazmín Madrigal</td>
+    <td class="theory">F-stats<br><br>Leonardo Valini</td>
+  </tr>
+
+  <!-- Lunch -->
+  <tr>
+    <td>12:15–13:15</td>
+    <td>Lunch</td>
+    <td>Lunch</td>
+    <td>Lunch</td>
+    <td>Lunch</td>
+    <td>Lunch</td>
+  </tr>
+
+  <!-- 13:15–14:45 -->
+  <tr>
+    <td>13:15–14:45</td>
+    <td class="practical">Intro to BASH<br><br>Thiseas Lamnidis</td>
+    <td class="theory">Imputation<br><br>Bárbara Sousa da Mota</td>
+    <td class="practical">ancIBD<br><br>Harald Ringbauer</td>
+    <td class="practical">Intro to Unsupervised Analysis<br><br>Jazmín Madrigal</td>
+    <td class="practical">qpWave / qpAdm / qpGraph<br><br>Ainash Childebayava</td>
+  </tr>
+
+  <!-- 15:00–16:30 -->
+  <tr>
+    <td>15:00–16:30</td>
+    <td class="practical">Intro to R<br><br>Youssef Tawfik</td>
+    <td class="theory">Imputation<br><br>Bárbara Sousa da Mota</td>
+    <td class="practical">ancIBD<br><br>Harald Ringbauer</td>
+    <td class="practical">Intro to Unsupervised Analysis<br><br>Jazmín Madrigal</td>
+    <td class="practical">qpWave / qpAdm / qpGraph<br><br>Ainash Childebayava</td>
+  </tr>
+
+  <!-- 16:30–18:00 -->
+  <tr>
+    <td>16:30–18:00</td>
+    <td class="round-table">Research Speed-Dating</td>
+    <td class="theory">Bioethics<br><br>Sarah Abel</td>
+    <td class="practical">RFMix + IBD<br><br>Sandra Oliveira</td>
+    <td class="round-table">Archaeological Interpretation<br><br>Maxime Brami</td>
+    <td class="round-table">Limitations in aDNA Analysis<br><br>
+      Mateja Hadjiniak<br>Stéphane Peyrégne<br>Torsten Günther
+    </td>
+  </tr>
+</table>
+
 <br>
+
+<style>
+/* General table styling */
+table.schedule {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table.schedule th,
+table.schedule td {
+    border: 1px solid #999;
+    padding: 10px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+/* Header styling */
+table.schedule th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+/* Color-blind-safe session types (Okabe–Ito palette inspired) */
+.theory {
+    background-color: #9FA6E5; 
+    color: #000000;
+}
+
+.practical {
+    background-color: #9FC9E5; 
+    color: #000000;
+}
+
+.round-table {
+    background-color: #9FE5DE; 
+    color: #000000;
+}
+
+/* Lunch and breaks */
+td:contains("Lunch"),
+td:contains("Break") {
+    background-color: #f7f7f7;
+    font-style: italic;
+}
+
+/* Improve readability */
+.theory,
+.practical,
+.round-table {
+    font-weight: 600;
+}
+
+/* Legend table styling */
+table:last-of-type td,
+table:last-of-type th {
+    border: 1px solid #999;
+    padding: 8px 14px;
+}
+
+/* Accessibility enhancements */
+@media (prefers-contrast: more) {
+    .theory,
+    .practical,
+    .round-table {
+        border: 2px solid #000;
+    }
+}
+</style>
 
 \* Check the schedule for your time-zone [here](https://www.worldtimebuddy.com/).
 
+
 ## Contents Overview
 
-### DAY 1 (Monday, June 9th)
-
-- **Round table** Welcome Session
+### DAY 1 (Monday, June 1st, 2026)
+- **Round table** Welcome Session: _Tina Saupe_
+- **Lecture** Introduction to the Lab and NGS: _Vincent Geyer_
 - **Practical** Introduction to BASH: _Thiseas C. Lamnidis_
+- **Practical** Introduction to R: _Youssef Tawfik_
+- **Interactive session: Research Speed-Dating**
 
+### DAY 2 (Tuesday, June 2nd, 2026)
+- **Practical** NF-Core/Eager: _Selina Carlhoff & Judith Ballesteros_
+- **Lecture** / **Practical** Imputation: _Bárbara Sousa da Mota_
+- **Lecture** Bioethics: Sarah Abel
 
-### DAY 2 (Tuesday, June 10th)
+### DAY 3 (Wednesday, June 3rd, 2026)
+- **Lecture** Introduction to Genetic Relatedness (including IBD): _Şevval Aktürk_
+- **Practical** Pairwise Mismatch Rates (PMR): _Şevval Aktürk_
+- **Lecture** / **Practical** ancIBD: _Harald Ringbauer_
+- **Practical** RFMix + IBD: _Sandra Oliveira_
 
-- **Lecture** Introduction to NGS Data: _Emily Breslin_
-- **Practical** Introduction to NF-Core/Eager: _James Fellows Yates_ / _Selina Carlhoff_
-- **Practical** Data pre-processing NF-Core/Eager: _James Fellows Yates_ / _Selina Carlhoff_
-
-### DAY 3 (Wednesday, June 11th)
-
-- **Lecture** Introduction to Genetic Relatedness: _Şevval Aktürk_
-- **Practical** Pairwise Mismatch and IBD Methods: _Şevval Aktürk_
-- **Lecture** IBD-Based Methods II: _Harald Ringbauer_
-- **Practical** HapROH: _Eirini Skourtanioti_
-
-### DAY 4 (Thursday, June 12th)
-
-- **Practical** Data Curation and Unsupervised Analysis: _Jazmín Ramos Madrigal_
+### DAY 4 (Thursday, June 4th, 2026)
 - **Lecture** Introduction to Population Genetics: _Stephan Schiffels_
-- **Practical** Unsupervised Analysis: _Jazmín Ramos Madrigal_
-- **Lecture** Imputation: _Bárbara Sousa da Mota_
-- **Round table** Archaeological Interpretation: _John Robb_
+- **Lecture** / **Practical** Introduction to Unsupervised Analysis: _Jazmín Ramos Madrigal_
+- **Round table** Archaeological Interpretation: _Maxime Brami_
 
-### DAY 5 (Friday, June 13th)
-
-- **Lecture** Population Genetics II: f-stats: _Leo Speidel_
-- **Practical** ADMIXTOOLS2: _Leo Speidel_
-- **Lecture** qpAdm and IBD: Interpretation: _Éadaoin Harney_
-- **Round table** Closing Session.
-
+### DAY 5 (Friday, June 5th, 2026)
+- **Lecture** Introduction to F-statistics and qpAdm: _Leo Speidel_
+- **Lecture** F-statistics: _Leonardo Valini_
+- **Practical** qpWave / qpAdm / qpGraph: _Ainash Childebayava_
+- **Round table** Limitations in aDNA Analysis:
+_Mateja Hadjiniak, Stéphane Peyrégne & Torsten Günther_
 
 \* At the Round tables you will be able to discuss any issues that arose during the days related to each day's topic. You can also ask questions and get answers regarding your own work.
 

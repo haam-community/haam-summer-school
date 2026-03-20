@@ -41,6 +41,7 @@
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
+    "forwardPorts": [4000],
 
 	// Commands to be ran afer the container is created.
 	// This forces the sass-embedded version to be the one specified in Gemfile.
@@ -50,11 +51,12 @@
 
 
 	// Run commands after the container on startup. This will keep rendering the website and serving it for preview.
-	"postStartCommand": "bundle exec jekyll serve",
+	"postStartCommand": "bundle exec jekyll serve --host 0.0.0.0 --port 4000",
 
 	// Configure tool-specific properties.
 	// "customizations": {},
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
+    "runArgs": ["--expose=4000"]
 }

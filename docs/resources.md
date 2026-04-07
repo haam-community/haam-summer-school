@@ -19,3 +19,9 @@ over the years by instructors of the different editions of the summerschool.
   - European Nucleotide Archive, the major public European sequencing data
     archive. Mirrors the American NCBI SRA, and Japanese DDBJ databases.
   - The vast majority of academic sequencing data is archived here
+
+## R
+
+- [Babraham Bioinformatics](https://www.bioinformatics.babraham.ac.uk/training.html)
+  - A practical introduction to R, covering core concepts and basic data analysis
+  - Foundational R training for beginners in data analysis

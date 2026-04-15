@@ -2,8 +2,9 @@
 
 <!-- Please fill this [form](https://docs.google.com/forms/d/1d3ln-QILxP9cqjXrHFd2gxUmSWT8JP4JyO7cVYIQxgs/viewform?edit_requested=true) to apply for the 2025 edition of the HAAM Summer School c: -->
 
-Applications for the 2026 summer school are now open!
+Applications for the 2026 summer school are now closed. Thanks to those who applied!
 
+<!-- 
 Please fill this [form](https://forms.gle/ckqTgQxnEENJQMwA6) to apply. Good luck!
 
 Deadline to apply is 13th of April 2026. Results will be given until the end of April.

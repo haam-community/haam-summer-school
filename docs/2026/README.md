@@ -1,9 +1,10 @@
 # HAAM Summer School - 2026
 
 ## Latest
-
+<!--
 Applications for the 2026 HAAM Summer school are now [open](https://forms.gle/ckqTgQxnEENJQMwA6)! Please stay tuned to our [social media](https://haam-community.github.io/about/) and [website](https://haam-community.github.io/) for more information.
-
+-->
+Applications for the 2026 HAAM Summer school are now closed! 
 
 ## What
 

@@ -12,6 +12,9 @@ over the years by instructors of the different editions of the summerschool.
     terminal, what is a `for` loop
   - Covers more advanced questions such as: what is a regex, how do I
     programtically modify lots of text files at once with `sed` or `awk`?
+- [Babraham Bioinformatics — Training Courses](https://www.bioinformatics.babraham.ac.uk/training.html)  
+  - Includes courses on R (core + tidyverse), alongside application-focused workshops for NGS and genomics.  
+
 
 ## Data
 

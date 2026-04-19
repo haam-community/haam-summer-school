@@ -1,23 +1,33 @@
 
-Meet the organisers/TAs of the 2026 HAAM Summer-School! They will be present throughout the sessions and will be happy to address all of your questions.
+Meet the organisers/TAs of the 2026 HAAM Summer-School.
+
+They will be present throughout the sessions and will be happy to address all of your questions.
 
 # Organisers
 
 <div class="avatar">
 
-  <div class="member">
-    <div class="square"><a href="" target="_blank"><img src="assets/images/organisers/Epifania_Arango_Isaza.jpg" alt="Avatar" /></a></div>
-  <p>Epifanía Arango Isaza</p>
+  <div class ="member">
+   <div class="square"><a href="" target="_blank"><img src="assets/images/organisers/Anna-Lena_photo.jpg" alt="Avatar" /></a></div>
+  <p>Anna-Lena Titze</p>
   </div>
 
-  <div class="member">
-    <div class="square"><a href="https://www.crick.ac.uk/research/find-a-researcher/marina-soares-da-silva" target="_blank"><img src="assets/images/organisers/Marina_Silva.jpg" alt="Avatar" /></a></div>
-  <p>Marina Silva</p>
-  </div>
 
   <div class="member">
-    <div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/558828" target="_blank"><img src="assets/images/organisers/Miren_Iraeta_Orbegozo.jpg" alt="Avatar" /></a></div>
-  <p>Miren Iraeta Orbegozo</p>
+    <div class="square"><a href="" target="_blank"><img src="assets/images/organisers/Aurore_Galtier.png" alt="Avatar" /></a></div>
+  <p>Aurore Galtier</p>
+  </div>
+
+
+  <div class ="member">
+   <div class="square"><a href="https://bamorimbio.wordpress.com" target="_blank"><img src="assets/images/organisers/Beatriz_Amorim.jpg" alt="Avatar" /></a></div>
+  <p>Beatriz Amorim</p>
+  </div>
+
+
+  <div class="member">
+    <div class="square"><a href="" target="_blank"><img src="assets/images/instructors/ACCOUNT_Anonymous.png" alt="Avatar" /></a></div>
+  <p>Youssef Tawfik</p>
   </div>
 
 </div>
@@ -28,53 +38,6 @@ Meet the organisers/TAs of the 2026 HAAM Summer-School! They will be present thr
 
 <div class="avatar">
 
-  <div class ="member">
-   <div class="square"><a href="" target="_blank"><img src="assets/images/TAs/Alicia_photo.jpeg" alt="Avatar" /></a></div>
-  <p>Alicia Muriel</p>
-  </div>
-
-  <div class ="member">
-   <div class="square"><a href="" target="_blank"><img src="assets/images/TAs/Anna-Lena_photo.jpg" alt="Avatar" /></a></div>
-  <p>Anna-Lena Titze</p>
-  </div>
-
-  <div class ="member">
-   <div class="square"><a href="https://bamorimbio.wordpress.com" target="_blank"><img src="assets/images/organisers/Beatriz_Amorim.jpg" alt="Avatar" /></a></div>
-  <p>Beatriz Amorim</p>
-  </div>
-
-</div>
-
-<br>
-
-<div class="avatar">
-
-  <div class ="member">
-   <div class="square"><a href="" target="_blank"><img src="assets/images/TAs/photo_Chen.JPG" alt="Avatar" /></a></div>
-  <p>Chen Leibson</p>
-  </div>
-
-  <div class ="member">
-   <div class="square"><a href="" target="_blank"><img src="assets/images/TAs/Photo_ElisaBella.png" alt="Avatar" /></a></div>
-  <p>Elisa Bella</p>
-  </div>
-
-  <div class ="member">
-   <div class="square"><a href="" target="_blank"><img src="assets/images/TAs/photo_Jennifer.jpg" alt="Avatar" /></a></div>
-  <p>Jennifer Zhu</p>
-  </div>
-
-
-</div>
-
-<br>
-
-<div class="avatar">
-
-  <div class ="member">
-   <div class="square"><a href="https://www.eva.mpg.de/archaeogenetics/staff/thiseas-christos-lamnidis/" target="_blank"><img src="assets/images/organisers/Thiseas_Christos_Lamnidis.jpg" alt="Avatar" /></a></div>
-  <p>Thiseas Christos Lamnidis</p>
-  </div>
 
   <div class ="member">
    <div class="square"><a href="" target="_blank"><img src="assets/images/organisers/tina_saupe.jpeg" alt="Avatar" /></a></div>
@@ -87,9 +50,18 @@ Meet the organisers/TAs of the 2026 HAAM Summer-School! They will be present thr
 
 # Instructors
 
-Meet your instructors! This page introduces you to the people guiding you through the 2025 edition of the HAAM summer school. _The summer school would not be possible without them, thank you!_
+Meet your instructors!
+
+This page introduces you to the people guiding you through the 2026 edition of the HAAM summer school.
+
+_The summer school would not be possible without them, thank you!_
 
 <div class="avatar">
+
+  <div class ="member">
+    <div class="square"><a href="https://labs.la.utexas.edu/childebayeva-lab/about/" target="_blank"><img src="assets/images/instructors/ainash_childebayeva.jpg" alt="Avatar" /></a></div>
+    <p>Ainash Childebayava</p>
+  </div>
 
   <div class ="member">
     <div class="square"><a href="https://reich.hms.harvard.edu/people/barbara-teixeira-de-sousa-coelho-mota" target="_blank"><img src="assets/images/instructors/sousadamota_barbara.jpg" alt="Avatar" /></a></div>
@@ -97,16 +69,107 @@ Meet your instructors! This page introduces you to the people guiding you throug
   </div>
 
   <div class ="member">
-    <div class="square"><a href="https://researchportalplus.anu.edu.au/en/persons/cate-frieman" target="_blank"><img src="assets/images/instructors/frieman_catherine.jpg" alt="Avatar" /></a></div>
-    <p>Catherine Frieman</p>
+    <div class="square"><a href="https://www.eva.mpg.de/archaeogenetics/staff/harald-ringbauer/" target="_blank"><img src="assets/images/instructors/harald_ringbauer.jpg" alt="Avatar" /></a></div>
+    <p>Harald Ringbauer</p>
   </div>
 
   <div class ="member">
-    <div class="square"><a href="https://eadaoin.scholars.harvard.edu" target="_blank"><img src="assets/images/instructors/Harney_eadaoin.jpg" alt="Avatar" /></a></div>
-    <p>Éadaoin Harney</p>
+    <div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/502736" target="_blank"><img src="assets/images/instructors/ramosmadrigal_jazmin.jpg" alt="Avatar" /></a></div>
+    <p>Jazmín Madrigal</p>
   </div>
 
 </div>
+
+<div class="avatar">
+
+  <div class ="member">
+    <div class="square"><a href="https://jbv2.github.io/" target="_blank"><img src="assets/images/instructors/Judith_BallesterosVillascan.jpg" alt="Avatar" /></a></div>
+    <p>Judith Ballesteros-Villascán</p>
+  </div>
+
+  <div class ="member">
+    <div class="square"><a href="https://leospeidel.github.io" target="_blank"><img src="assets/images/instructors/speidel_leo.jpg" alt="Avatar" /></a></div>
+    <p>Leo Speidel</p>
+  </div>
+
+  <div class ="member">
+    <div class="square"><a href="https://palaeogenetics-mainz.de/people/#:~:text=LEONARDO,-VALLINI" target="_blank"><img src="assets/images/instructors/Leo_Valini.png" alt="Avatar" /></a></div>
+    <p>Leonardo Vallini</p>
+  </div>
+
+  <div class ="member">
+    <div class="square"><a href="https://www.eva.mpg.de/genetics/staff/mateja-hajdinjak/" target="_blank"><img src="assets/images/instructors/Mateja_Hajdinjak.jpg" alt="Avatar" /></a></div>
+    <p>Mateja Hajdinjak</p>
+  </div>
+
+</div>
+
+<div class="avatar">
+
+  <div class ="member">
+    <div class="square"><a href="https://researchprofiles.uni-mainz.de/4706-maxime-brami" target="_blank"><img src="assets/images/instructors/Maxime_Brami.png" alt="Avatar" /></a></div>
+    <p>Maxime Brami</p>
+  </div>
+
+  <div class ="member">
+    <div class="square"><a href="Sandra_Oliveira.jpg" target="_blank"><img src="assets/images/instructors/speidel_leo.jpg" alt="Avatar" /></a></div>
+    <p>Sandra Oliveira</p>
+  </div>
+
+  <div class ="member">
+    <div class="square"><a href="https://www.filosoficas.unam.mx/sitio/sarah-abel" target="_blank"><img src="assets/images/instructors/sarah_abel.jpeg" alt="Avatar" /></a></div>
+    <p>Sarah Abel</p>
+  </div>
+
+  <div class ="member">
+    <div class="square"><a href="https://www.eva.mpg.de/de/archaeogenetics/staff/selina-carlhoff/" target="_blank"><img src="assets/images/instructors/carlhoff_selina.png" alt="Avatar" /></a></div>
+    <p>Selina Carlhoff</p>
+  </div>
+
+</div>
+
+<div class="avatar">
+
+  <div class ="member">
+    <div class="square"><a href="https://www.researchgate.net/profile/Sevval-Aktuerk" target="_blank"><img src="assets/images/instructors/photo_sevval_2024.jpg" alt="Avatar" /></a></div>
+    <p>Şevval Aktürk</p>
+  </div>
+
+  <div class ="member">
+    <div class="square"><a href="https://www.eva.mpg.de/archaeogenetics/staff/stephan-schiffels/" target="_blank"><img src="assets/images/instructors/stephan.jpg" alt="Avatar" /></a></div>
+    <p>Stephan Schiffels</p>
+  </div>
+
+  <div class ="member">
+    <div class="square"><a href="" target="_blank"><img src="assets/images/instructors/Stephane_Peyregne.jpg" alt="Avatar" /></a></div>
+    <p>Stéphane Peyrégne</p>
+  </div>
+
+  <div class ="member">
+   <div class="square"><a href="https://www.eva.mpg.de/archaeogenetics/staff/thiseas-christos-lamnidis/" target="_blank"><img src="assets/images/organisers/Thiseas_Christos_Lamnidis.jpg" alt="Avatar" /></a></div>
+  <p>Thiseas Christos Lamnidis</p>
+  </div>
+
+</div>
+
+<div class="avatar">
+
+  <div class ="member">
+    <div class="square"><a href="https://www.uu.se/en/contact-and-organisation/staff?query=N13-1730" target="_blank"><img src="assets/images/instructors/Thorsten_Guenther.jpg" alt="Avatar" /></a></div>
+    <p>Thorsten Günther</p>
+  </div>
+
+  <div class ="member">
+    <div class="square"><a href="" target="_blank"><img src="assets/images/instructors/Vincent_Geyer.jpg" alt="Avatar" /></a></div>
+    <p>Vincent Geyer</p>
+  </div>
+
+</div>
+
+<br>
+
+
+<!--
 
 <div class="avatar">
 
@@ -210,7 +273,7 @@ At LMU, she analyses intra- and inter-cemetery genomic data to explore fine stru
 
 **Stephan Schiffels** is a group leader for population genetics at the Department for Archaeogenetics of the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany. His research group at the MPI investigates human history by means of Genetics, and develops computational methods to model and analyse ancient and modern genomic data.
 
-
+-->
 
 <style>
 .member {

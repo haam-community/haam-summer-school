@@ -3,6 +3,7 @@
 - [Home](/)
 - [Apply](apply)
 - [2026 Syllabus](2026/README.md)
+  - [Meet the Instructors](2026/instructors.md)
 - [2025 Syllabus](2025/README.md)
   - [Teaching Material](2025/teaching-material.md)
   - [Meet the Instructors](2025/instructors.md)

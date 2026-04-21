@@ -26,7 +26,7 @@ They will be present throughout the sessions and will be happy to address all of
 
 
   <div class="member">
-    <div class="square"><a href="" target="_blank"><img src="assets/images/instructors/Youssef" alt="Avatar" /></a></div>
+    <div class="square"><a href="" target="_blank"><img src="assets/images/instructors/Youssef_Tawfik_2026.png" alt="Avatar" /></a></div>
   <p>Youssef Tawfik</p>
   </div>
 

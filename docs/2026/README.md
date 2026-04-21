@@ -10,7 +10,7 @@ Applications for the 2026 HAAM Summer school are now closed!
 
 The **HAAM Summer School** is a 5 day workshop, with a mix of theoretical and practical sessions. Our Summer School covers different aspects of human ancient DNA (aDNA) research, including both technical and ethical challenges, and considerations when working with human skeletal remains and human genetic data.
 The Summer School is held in a 100% virtual format to maximise accessibility and inclusivity for attendees worldwide, particularly for those working in lower-income countries and/or with limited funding, and to ensure that all participants can have equal access to content and interactions, as well as any network opportunities that could stem from the summer school, regardless of where they are based. 
-The course was planned by active researchers of the HAAM-community (including The Francis Crick Institute (UK), MPI-EVA (DE), Globe Institute (DK), University College Dublin (IE) & University of Zurich (CH)). Instructors of the course are volunteers teaching during the period of the Summer School. <!-- The summer school is supported by Max Planck Institute for Evolutionary Anthropology, [Adelphi Genetics Forum](https://adelphigenetics.org/) and the [International Society of Biomolecular Archaeology](https://www.isbarch.org/) -->
+The course was planned by active researchers of the HAAM-community (including MPI-EVA (DE), University of Toulouse (FR), & University of Mainz (DE)). Instructors of the course are volunteers teaching during the period of the Summer School. <!-- The summer school is supported by Max Planck Institute for Evolutionary Anthropology, [Adelphi Genetics Forum](https://adelphigenetics.org/) and the [International Society of Biomolecular Archaeology](https://www.isbarch.org/) -->
 
 <!--
 <p  align="middle">
@@ -81,7 +81,7 @@ If you get a message about permissions for 'colour management', please use the p
   <tr>
     <td>09:00–10:30</td>
     <td class="theory">Welcome Session<br><br>Tina Saupe</td>
-    <td class="practical">NF-Core/Eager<br><br>Selina Carlhoff<br>Judith Ballesteros</td>
+    <td class="theory">NF-Core/Eager<br><br>Selina Carlhoff<br>Judith Ballesteros</td>
     <td class="theory">Intro to Genetic Relatedness incl. IBD<br><br>Şevval Aktürk</td>
     <td class="theory">Intro to Population Genetics<br><br>Stephan Schiffels</td>
     <td class="theory">Intro to F-stats and qpAdm<br><br>Leo Speidel</td>
@@ -93,8 +93,8 @@ If you get a message about permissions for 'colour management', please use the p
     <td class="theory">Intro to Lab and NGS<br><br>Vincent Geyer</td>
     <td class="practical">NF-Core/Eager<br><br>Selina Carlhoff<br>Judith Ballesteros</td>
     <td class="practical">Pairwise Mismatch Rates PMR<br><br>Şevval Aktürk</td>
-    <td class="practical">Intro to Unsupervised Analysis<br><br>Jazmín Madrigal</td>
-    <td class="theory">F-stats<br><br>Leonardo Valini</td>
+    <td class="theory">Intro to Unsupervised Analysis<br><br>Jazmín Madrigal</td>
+    <td class="practical">F-stats<br><br>Leonardo Valini</td>
   </tr>
 
   <!-- Lunch -->
@@ -112,16 +112,16 @@ If you get a message about permissions for 'colour management', please use the p
     <td>13:15–14:45</td>
     <td class="practical">Intro to BASH<br><br>Thiseas Lamnidis</td>
     <td class="theory">Imputation<br><br>Bárbara Sousa da Mota</td>
-    <td class="practical">ancIBD<br><br>Harald Ringbauer</td>
+    <td class="theory">ancIBD<br><br>Harald Ringbauer</td>
     <td class="practical">Intro to Unsupervised Analysis<br><br>Jazmín Madrigal</td>
-    <td class="practical">qpWave / qpAdm / qpGraph<br><br>Ainash Childebayava</td>
+    <td class="theory">qpWave / qpAdm / qpGraph<br><br>Ainash Childebayava</td>
   </tr>
 
   <!-- 15:00–16:30 -->
   <tr>
     <td>15:00–16:30</td>
     <td class="practical">Intro to R<br><br>Youssef Tawfik</td>
-    <td class="theory">Imputation<br><br>Bárbara Sousa da Mota</td>
+    <td class="practical">Imputation<br><br>Bárbara Sousa da Mota</td>
     <td class="practical">ancIBD<br><br>Harald Ringbauer</td>
     <td class="practical">Intro to Unsupervised Analysis<br><br>Jazmín Madrigal</td>
     <td class="practical">qpWave / qpAdm / qpGraph<br><br>Ainash Childebayava</td>
@@ -225,7 +225,7 @@ table:last-of-type th {
 - **Interactive session: Research Speed-Dating**
 
 ### DAY 2 (Tuesday, June 2nd, 2026)
-- **Practical** NF-Core/Eager: _Selina Carlhoff & Judith Ballesteros_
+- **Lecture** / **Practical** NF-Core/Eager: _Selina Carlhoff & Judith Ballesteros_
 - **Lecture** / **Practical** Imputation: _Bárbara Sousa da Mota_
 - **Lecture** Bioethics: Sarah Abel
 
@@ -242,8 +242,8 @@ table:last-of-type th {
 
 ### DAY 5 (Friday, June 5th, 2026)
 - **Lecture** Introduction to F-statistics and qpAdm: _Leo Speidel_
-- **Lecture** F-statistics: _Leonardo Valini_
-- **Practical** qpWave / qpAdm / qpGraph: _Ainash Childebayava_
+- **Practical** F-statistics: _Leonardo Vallini_
+- **Lecture** / **Practical** qpWave / qpAdm / qpGraph: _Ainash Childebayava_
 - **Round table** Limitations in aDNA Analysis:
 _Mateja Hadjiniak, Stéphane Peyrégne & Torsten Günther_
 

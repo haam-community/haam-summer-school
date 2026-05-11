@@ -112,7 +112,7 @@ _The summer school would not be possible without them, thank you!_
   </div>
 
   <div class ="member">
-    <div class="square"><a href="Sandra_Oliveira.jpg" target="_blank"><img src="assets/images/instructors/speidel_leo.jpg" alt="Avatar" /></a></div>
+    <div class="square"><a href="Sandra_Oliveira.jpg" target="_blank"><img src="assets/images/instructors/Sandra_Oliveira.jpg" alt="Avatar" /></a></div>
     <p>Sandra Oliveira</p>
   </div>
 
@@ -189,8 +189,6 @@ _The summer school would not be possible without them, thank you!_
 **Sandra Oliveira** is an Assistant Professor and head of the group "Human Genetic and Cultural Evolution " at the University of Zurich, Switzerland. Her research focuses on reconstructing the demographic history of ancient and modern human populations and understanding the role of natural selection, cultural practices, and languages in shaping human genetic variation.
 
 **Sarah Abel** is Assistant Professor in Philosophy of Science at the National Autonomous University of Mexico (UNAM). Her research examines contemporary racisms and antiracisms at the interface between scientific knowledge production and social uses of genomic and digital technologies. She has been a member of two interdisciplinary European research networks about genomics, human histories, and social uses of DNA, and she is the author of Permanent Markers: Race, Ancestry, and the Body After the Genome (University of North Carolina Press, 2021).
-
-**Selina Carlhoff** is a postdoc at MPI-EVA studying regional connectivity and community structure using archaeogenetics. Her work spans Holocene Southeast Asia to post-Bronze Age Europe, combining lab work, bioinformatics, and archaeological insight.
 
 **Selina Carlhoff** (@selinacarlhoff.bsky.social) is a postdoc at the Department of Archaeogenetics of the Max Planck Institute for Evolutionary Anthropology. Her research focuses on the effects of large-scale demographic events on individual communities and the reconstruction of social organisation and practices. She has worked on interdisciplinary projects studying the early human settlement of the Indo-Pacific and more recent pre-historic cultural transitions in the region, as well as the large trade networks of Iron Age Central Europe and pre-colonial Central America.
 

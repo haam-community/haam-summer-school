@@ -68,12 +68,12 @@ They will be present throughout the sessions and will be happy to address all of
   </div>
 
   <div class ="member">
-   <div class="square"><a href="" target="_blank"><img src="assets/images/TAs/Jennifer_Zhu.JPG" alt="Avatar" /></a></div>
+   <div class="square"><a href="" target="_blank"><img src="assets/images/TAs/photo_Jennifer.jpg" alt="Avatar" /></a></div>
   <p>Jennifer Zhu</p>
   </div>
 
   <div class ="member">
-   <div class="square"><a href="" target="_blank"><img src="assets/images/TAs/Shailesh_Desai.JPG" alt="Avatar" /></a></div>
+   <div class="square"><a href="" target="_blank"><img src="assets/images/TAs/Shailesh_Desai.jpg" alt="Avatar" /></a></div>
   <p>Shailesh Desai</p>
   </div>
 

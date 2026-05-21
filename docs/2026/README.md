@@ -43,9 +43,13 @@ The summer school will be held between 1st-5th June 2026, at the following times
 
 ## Where
 
-We are running this virtual edition of the HAAM Summer School on [WorkAdventure](https://workadventu.re/).
+We are running this virtual edition of the HAAM Summer School on [WorkAdventure](https://workadventu.re/). The selected students will receive an email with an invite link. Please login with the email you received your invitation on.
 
-If you're not familiar with this platform please see the how-to we prepared, along with a map of our HAAM Summer School world [here](https://drive.google.com/file/d/1mkd1869V3-TpYCYKfdtlrc6gsfFlfh2F/view?usp=sharing).
+If you're not familiar with this platform check the document below with a map of our HAAM Summer School world and instructions of How-To navigate.
+
+<p>
+  <iframe src="https://drive.google.com/file/d/1mkd1869V3-TpYCYKfdtlrc6gsfFlfh2F/preview" frameborder="0" width="960" height="369" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</p>
 
 <!--, on the [HAAM workspace](https://app.gather.town/events/eozSbSqyTOeSmmVNyvBX).
 

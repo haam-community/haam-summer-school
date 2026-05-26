@@ -30,13 +30,13 @@ The summer school will be held between 1st-5th June 2026, at the following times
 
 | **Time-Zone**    | **Schedule** 
 | ----------- | ---------------- |
-| Central Daylight Time (GMT-6) | 02:00-10:00 |
-| Eastern Daylight Time (GMT-4) | 03:00-11:00 |
-| Brasilia Standard Time (GMT-3) | 04:00-12:00 |
-| Central European Time (GMT+2 / CET) | 09:00-17:00 |
-| South-African Standard Time (GMT+2) | 09:00-17:00 |
-| Istanbul Standard Time (GMT+3) | 10:00-18:00 |
-| Japan Standard Time (GMT+9) | 16:00-00:00 |
+| Central Daylight Time (GMT-6) | 02:00-11:00 |
+| Eastern Daylight Time (GMT-4) | 03:00-12:00 |
+| Brasilia Standard Time (GMT-3) | 04:00-13:00 |
+| Central European Time (GMT+2 / CET) | 09:00-18:00 |
+| South-African Standard Time (GMT+2) | 09:00-18:00 |
+| Istanbul Standard Time (GMT+3) | 10:00-19:00 |
+| Japan Standard Time (GMT+9) | 16:00-01:00 |
 
 \* Please check [here](https://www.worldtimebuddy.com/) any time-zone we did not cover.
 
@@ -141,7 +141,7 @@ If you get a message about permissions for 'colour management', please use the p
     <td class="practical">RFMix + IBD<br><br>Sandra Oliveira</td>
     <td class="round-table">Archaeological Interpretation<br><br>Maxime Brami</td>
     <td class="round-table">Limitations in aDNA Analysis<br><br>
-      Mateja Hadjiniak<br>Stéphane Peyrégne<br>Torsten Günther
+      Mateja Hajdinjak<br>Stéphane Peyrégne<br>Torsten Günther
     </td>
   </tr>
 </table>
@@ -251,7 +251,7 @@ table:last-of-type th {
 - **Practical** F-statistics: _Leonardo Vallini_
 - **Lecture** / **Practical** qpWave / qpAdm / qpGraph: _Ainash Childebayava_
 - **Round table** Limitations in aDNA Analysis:
-_Mateja Hadjiniak, Stéphane Peyrégne & Torsten Günther_
+_Mateja Hajdinjak, Stéphane Peyrégne & Torsten Günther_
 
 \* At the Round tables you will be able to discuss any issues that arose during the days related to each day's topic. You can also ask questions and get answers regarding your own work.
 

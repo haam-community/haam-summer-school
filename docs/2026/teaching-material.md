@@ -32,11 +32,27 @@ The colour of each session header denotes the type of session:
 
 ## **Recording**
 
-Coming soon. ⏰
+<p>
+<iframe width="960" height="569" src="https://www.youtube.com/embed/hu8l5Hv8qQU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 <!-- tabs:end -->
 
 <span class="practical">Intro to BASH (Thiseas Lamnidis)</span>
+
+<!-- tabs:start -->
+## **Lecture Slides**
+
+For the content of this lecture please refer to the <a href="https://www.spaam-community.org/intro-to-ancient-metagenomics-book/bare-bones-bash.html">Intro to Ancient Metagenomics Book</a>.
+
+## **Recording**
+
+<p>
+<iframe width="960" height="569" src="https://www.youtube.com/embed/hu8l5Hv8qQU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<!-- tabs:end -->
+
 
 <span class="practical">Intro to R (Youssef Tawfik)</span>
 

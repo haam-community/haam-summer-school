@@ -48,7 +48,7 @@ For the content of this lecture please refer to the <a href="https://www.spaam-c
 ## **Recording**
 
 <p>
-<iframe width="960" height="569" src="https://www.youtube.com/embed/hu8l5Hv8qQU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="960" height="569" src="https://www.youtube.com/embed/NlrRBgLLG_o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <!-- tabs:end -->

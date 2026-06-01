@@ -100,7 +100,7 @@ If you get a message about permissions for 'colour management', please use the p
     <td class="practical">NF-Core/Eager<br><br>Selina Carlhoff<br>Judith Ballesteros</td>
     <td class="practical">Pairwise Mismatch Rates PMR<br><br>Şevval Aktürk</td>
     <td class="theory">Intro to Unsupervised Analysis<br><br>Jazmín Madrigal</td>
-    <td class="practical">F-stats<br><br>Leonardo Valini</td>
+    <td class="practical">F-stats<br><br>Leonardo Vallini</td>
   </tr>
 
   <!-- Lunch -->

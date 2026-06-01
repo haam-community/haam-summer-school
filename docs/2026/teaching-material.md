@@ -12,6 +12,15 @@ The colour of each session header denotes the type of session:
 
 <span class="theory">Introduction to HAAM (Tina Saupe)</span>
 
+<!-- tabs:start -->
+## **Lecture Slides**
+
+<p>
+  <iframe src="https://drive.google.com/file/d/1wqFPxHzFpWNS6g1krTUGCYiXVNq93lDESnWynA4DXw4/preview" frameborder="0" width="960" height="269" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</p>
+
+<!-- tabs:end -->
+
 <span class="theory">Intro to Lab and NGS (Vincent Geyer)</span>
 
 <!-- tabs:start -->
@@ -23,11 +32,27 @@ The colour of each session header denotes the type of session:
 
 ## **Recording**
 
-Coming soon. ⏰
+<p>
+<iframe width="960" height="269" src="https://www.youtube.com/embed/hu8l5Hv8qQU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 <!-- tabs:end -->
 
 <span class="practical">Intro to BASH (Thiseas Lamnidis)</span>
+
+<!-- tabs:start -->
+## **Lecture Slides**
+
+For the content of this lecture please refer to the <a href="https://www.spaam-community.org/intro-to-ancient-metagenomics-book/bare-bones-bash.html">Intro to Ancient Metagenomics Book</a>.
+
+## **Recording**
+
+<p>
+<iframe width="960" height="269" src="https://www.youtube.com/embed/NlrRBgLLG_o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<!-- tabs:end -->
+
 
 <span class="practical">Intro to R (Youssef Tawfik)</span>
 
@@ -70,7 +95,7 @@ Coming soon. ⏰
 
 <span class="theory">Intro to F-stats and qpAdm (Leo Speidel)</span>
 
-<span class="practical">F-stats (Leonardo Valini)</span>
+<span class="practical">F-stats (Leonardo Vallini)</span>
 
 <span class="theory">qpWave/qpAdm/qpGraph (Ainash Childebayava)</span>
 

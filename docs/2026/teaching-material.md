@@ -62,57 +62,257 @@ For the content of this lecture please refer to <a href="https://tawfikyoussef.g
 
 ## **Recording**
 
+Coming soon. ⏰
 
 <!-- tabs:end -->
 
 
 ### Day 2
 
-<span class="theory">NF-Core/Eager (Selina Carlhoff/Judith Ballesteros)</span>
-
 <span class="practical">NF-Core/Eager (Selina Carlhoff/Judith Ballesteros)</span>
+
+<!-- tabs:start -->
+## **Lecture Slides**
+
+<p>
+  <iframe src="https://drive.google.com/file/d/1ZLNBTNwdC5_fbATlsD-QTbXG0na82qKX/preview" frameborder="0" width="960" height="269" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</p>
+
+## **Recording**
+
+Coming soon. ⏰
+
+<!-- tabs:end -->
+
 
 <span class="theory">Imputation (Bárbara Sousa da Mota)</span>
 
+<!-- tabs:start -->
+## **Lecture Slides**
+
+Coming soon. ⏰
+
+## **Recording**
+
+Coming soon. ⏰
+
+<!-- tabs:end -->
+
 <span class="practical">Imputation (Bárbara Sousa da Mota)</span>
 
+<!-- tabs:start -->
+## **Lecture Slides**
+
+For the content of this lecture please refer to the <a href="https://github.com/bsmota/aDNA_imputation/wiki/HAAM-Summer-School-2026">Barbara's Github page shared in the class</a>.
+
+## **Recording**
+
+Coming soon. ⏰
+
+<!-- tabs:end -->
+
 <span class="round-table">Bioethics (Sarah Abel)</span>
+
+<!-- tabs:start -->
+## **Lecture Slides**
+
+Coming soon. ⏰
+
+## **Recording**
+
+Coming soon. ⏰
+
+<!-- tabs:end -->
 
 
 ### Day 3
 
 <span class="theory">Intro to Genetic Relatedness incl. IBD (Şevval Aktürk)</span>
 
+<!-- tabs:start -->
+## **Lecture Slides**
+
+Coming soon. ⏰
+
+## **Recording**
+
+Coming soon. ⏰
+
+<!-- tabs:end -->
+
+
 <span class="practical">Pairwise Mismatch Rates PMR (Şevval Aktürk)</span>
+
+<!-- tabs:start -->
+## **Lecture Slides**
+
+Coming soon. ⏰
+
+## **Recording**
+
+Coming soon. ⏰
+
+<!-- tabs:end -->
 
 <span class="theory">ancIBD (Harald Ringbauer)</span>
 
+<!-- tabs:start -->
+## **Lecture Slides**
+
+Coming soon. ⏰
+
+## **Recording**
+
+Coming soon. ⏰
+
+<!-- tabs:end -->
+
 <span class="practical">ancIBD (Harald Ringbauer)</span>
 
+<!-- tabs:start -->
+## **Lecture Slides**
+
+Coming soon. ⏰
+
+## **Recording**
+
+Coming soon. ⏰
+
+<!-- tabs:end -->
+
 <span class="practical">RFMix + IBD (Sandra Oliveira)</span>
+
+<!-- tabs:start -->
+## **Lecture Slides**
+
+Coming soon. ⏰
+
+## **Recording**
+
+Coming soon. ⏰
+
+<!-- tabs:end -->
 
 ### Day 4
 
 <span class="theory">Intro to Population Genetics (Stephan Schiffels)</span>
 
+<!-- tabs:start -->
+## **Lecture Slides**
+
+Coming soon. ⏰
+
+## **Recording**
+
+Coming soon. ⏰
+
+<!-- tabs:end -->
+
 <span class="theory">Intro to Unsupervised Analysis (Jazmín Madrigal)</span>
+
+<!-- tabs:start -->
+## **Lecture Slides**
+
+Coming soon. ⏰
+
+## **Recording**
+
+Coming soon. ⏰
+
+<!-- tabs:end -->
 
 <span class="practical">Intro to Unsupervised Analysis (Jazmín Madrigal)</span>
 
+<!-- tabs:start -->
+## **Lecture Slides**
+
+Coming soon. ⏰
+
+## **Recording**
+
+Coming soon. ⏰
+
+<!-- tabs:end -->
+
 <span class="round-table">Archaeological Interpretation (Maxime Brami)</span>
+
+<!-- tabs:start -->
+## **Lecture Slides**
+
+Coming soon. ⏰
+
+## **Recording**
+
+Coming soon. ⏰
+
+<!-- tabs:end -->
 
 ### Day 5
 
 <span class="theory">Intro to F-stats and qpAdm (Leo Speidel)</span>
 
+<!-- tabs:start -->
+## **Lecture Slides**
+
+Coming soon. ⏰
+
+## **Recording**
+
+Coming soon. ⏰
+
+<!-- tabs:end -->
+
 <span class="practical">F-stats (Leonardo Vallini)</span>
+
+<!-- tabs:start -->
+## **Lecture Slides**
+
+Coming soon. ⏰
+
+## **Recording**
+
+Coming soon. ⏰
+
+<!-- tabs:end -->
 
 <span class="theory">qpWave/qpAdm/qpGraph (Ainash Childebayava)</span>
 
+<!-- tabs:start -->
+## **Lecture Slides**
+
+Coming soon. ⏰
+
+## **Recording**
+
+Coming soon. ⏰
+
+<!-- tabs:end -->
+
 <span class="practical">qpWave/qpAdm/qpGraph (Ainash Childebayava)</span>
+
+<!-- tabs:start -->
+## **Lecture Slides**
+
+Coming soon. ⏰
+
+## **Recording**
+
+Coming soon. ⏰
+
+<!-- tabs:end -->
 
 <span class="round-table">Limitations in aDNA analysis (Mateja Hajdinjak/ Stéphane Peyrégne/ Torsten Günther)</span>
 
+<!-- tabs:start -->
+## **Lecture Slides**
+
+Coming soon. ⏰
+
+## **Recording**
+
+Coming soon. ⏰
+
+<!-- tabs:end -->
 
 
 <style>

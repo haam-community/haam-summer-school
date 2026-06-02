@@ -6,6 +6,8 @@ Applications for the 2026 HAAM Summer school are now [open](https://forms.gle/ck
 -->
 Applications for the 2026 HAAM Summer school are now closed! 
 
+We had more than 130 applications. Thank you for your interest :D
+
 ## What
 
 The **HAAM Summer School** is a 5 day workshop, with a mix of theoretical and practical sessions. Our Summer School covers different aspects of human ancient DNA (aDNA) research, including both technical and ethical challenges, and considerations when working with human skeletal remains and human genetic data.
@@ -22,7 +24,13 @@ The course was planned by active researchers of the HAAM-community (including MP
 
 The course is aimed at Masters or early-stage PhD students and early-stage researchers.
 
-<!-- You can meet the instructors [here](/2024/instructors.md). -->
+Check where our students will be coming from:
+
+<p  align="middle">
+<img src="assets/images/haam-summer-school-2026/maps/2026_participant_map.png" alt="HAAM Summer School 2026 Map" >
+</p>
+
+You can meet the instructors [here](/2026/instructors.md).
 
 ## When
 

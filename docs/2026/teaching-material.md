@@ -53,8 +53,18 @@ For the content of this lecture please refer to the <a href="https://www.spaam-c
 
 <!-- tabs:end -->
 
-
 <span class="practical">Intro to R (Youssef Tawfik)</span>
+
+<!-- tabs:start -->
+## **Lecture Slides**
+
+For the content of this lecture please refer to <a href="https://tawfikyoussef.github.io/HAAM_intro_R/">this website</a>.
+
+## **Recording**
+
+
+<!-- tabs:end -->
+
 
 ### Day 2
 

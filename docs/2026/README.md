@@ -118,7 +118,7 @@ If you get a message about permissions for 'colour management', please use the p
     <td>13:15–14:45</td>
     <td class="practical">Intro to BASH<br><br>Thiseas Lamnidis</td>
     <td class="theory">Imputation<br><br>Bárbara Sousa da Mota</td>
-    <td class="theory">ancIBD<br><br>Harald Ringbauer</td>
+    <td class="practical">ancIBD<br><br>Harald Ringbauer</td>
     <td class="practical">Intro to Unsupervised Analysis<br><br>Jazmín Madrigal</td>
     <td class="theory">qpWave / qpAdm / qpGraph<br><br>Ainash Childebayava</td>
   </tr>
@@ -238,7 +238,7 @@ table:last-of-type th {
 ### DAY 3 (Wednesday, June 3rd, 2026)
 - **Lecture** Introduction to Genetic Relatedness (including IBD): _Şevval Aktürk_
 - **Practical** Pairwise Mismatch Rates (PMR): _Şevval Aktürk_
-- **Lecture** / **Practical** ancIBD: _Harald Ringbauer_
+- **Practical** ancIBD: _Harald Ringbauer_
 - **Practical** RFMix + IBD: _Sandra Oliveira_
 
 ### DAY 4 (Thursday, June 4th, 2026)

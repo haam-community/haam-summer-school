@@ -90,7 +90,10 @@ Coming soon. ⏰
 <!-- tabs:start -->
 ## **Lecture Slides**
 
-Coming soon. ⏰
+<p>
+  <iframe src="https://drive.google.com/file/d/1Pkkq38lj0mW-7Y0rHrQUslxIpe8Vu0E3/preview" frameborder="0" width="960" height="269" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</p>
+
 
 ## **Recording**
 
@@ -103,7 +106,7 @@ Coming soon. ⏰
 <!-- tabs:start -->
 ## **Lecture Slides**
 
-For the content of this lecture please refer to the <a href="https://github.com/bsmota/aDNA_imputation/wiki/HAAM-Summer-School-2026">Barbara's Github page shared in the class</a>.
+For the content of this lecture please refer to <a href="https://github.com/bsmota/aDNA_imputation/wiki/HAAM-Summer-School-2026">Barbara's Github script</a>.
 
 ## **Recording**
 
@@ -132,7 +135,10 @@ Coming soon. ⏰
 <!-- tabs:start -->
 ## **Lecture Slides**
 
-Coming soon. ⏰
+<p>
+  <iframe src="https://drive.google.com/file/d/1OGGFjdA18o6L4GLOM-h5BOy_i4O5_78w/preview" frameborder="0" width="960" height="269" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</p>
+
 
 ## **Recording**
 

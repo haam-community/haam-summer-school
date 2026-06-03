@@ -184,7 +184,7 @@ Coming soon. ⏰
 <!-- tabs:start -->
 ## **Lecture Slides**
 
-Coming soon. ⏰
+Click <a href="https://www.dropbox.com/scl/fo/r8er4sihjdf9yml8q2z66/ANaBmwh8VQeGczSoD108HW4?rlkey=1b9we9mnwgtrxu7aevthtqzbp&e=1&dl=0" download="HAAM_SummerSchool2026_kinship_practical.html">here</a> for the jupyter notebooks.
 
 ## **Recording**
 

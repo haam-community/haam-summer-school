@@ -62,7 +62,10 @@ For the content of this lecture please refer to <a href="https://tawfikyoussef.g
 
 ## **Recording**
 
-Coming soon. ⏰
+<p>
+<iframe width="960" height="300" src="https://www.youtube.com/embed/eBuc8jaCzpI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 
 <!-- tabs:end -->
 

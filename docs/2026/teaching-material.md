@@ -184,7 +184,9 @@ Coming soon. ⏰
 <!-- tabs:start -->
 ## **Lecture Slides**
 
-Click <a href="https://www.dropbox.com/scl/fo/r8er4sihjdf9yml8q2z66/ANaBmwh8VQeGczSoD108HW4?rlkey=1b9we9mnwgtrxu7aevthtqzbp&e=1&dl=0" download="HAAM_SummerSchool2026_kinship_practical.html">here</a> for the jupyter notebooks.
+Click <a href="https://www.dropbox.com/scl/fo/r8er4sihjdf9yml8q2z66/ANaBmwh8VQeGczSoD108HW4?rlkey=1b9we9mnwgtrxu7aevthtqzbp&e=1&dl=0">here</a> for the jupyter notebooks of hapROH.
+
+Click <a href="https://www.dropbox.com/scl/fo/x13ic2c5miangjd8r1zbe/AFcWxfL6TESThf_12TpjL4E?rlkey=cx40wvvqxdzbkaixfpqmqbvb4&e=1&dl=0Users1" >here</a> for the jupyter notebooks of ancIBD.
 
 ## **Recording**
 

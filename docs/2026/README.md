@@ -126,7 +126,7 @@ If you get a message about permissions for 'colour management', please use the p
     <td>13:15–14:45</td>
     <td class="practical">Intro to BASH<br><br>Thiseas Lamnidis</td>
     <td class="theory">Imputation<br><br>Bárbara Sousa da Mota</td>
-    <td class="practical">ancIBD<br><br>Harald Ringbauer</td>
+    <td class="practical">hapROH<br><br>Harald Ringbauer</td>
     <td class="practical">Intro to Unsupervised Analysis<br><br>Jazmín Madrigal</td>
     <td class="theory">qpWave / qpAdm / qpGraph<br><br>Ainash Childebayava</td>
   </tr>

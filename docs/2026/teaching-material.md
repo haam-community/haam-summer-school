@@ -194,7 +194,9 @@ Coming soon. ⏰
 <!-- tabs:start -->
 ## **Lecture Slides**
 
-Coming soon. ⏰
+<p>
+  <iframe src="https://drive.google.com/file/d/1BL65PrT5eIV9x9ZYOWVUT_zE2j0_k0aD/preview" frameborder="0" width="960" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</p>
 
 ## **Recording**
 

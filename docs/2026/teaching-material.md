@@ -84,7 +84,7 @@ For the content of this lecture please refer to <a href="https://tawfikyoussef.g
 ## **Recording**
 
 <p>
-<iframe width="960" height="300" src="https://www.youtube.com/embed/8cUcTOX4oag" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="960" height="300" src="https://www.youtube.com/embed/AHCAcUZfraE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <!-- tabs:end -->

@@ -83,7 +83,9 @@ For the content of this lecture please refer to <a href="https://tawfikyoussef.g
 
 ## **Recording**
 
-Coming soon. ⏰
+<p>
+<iframe width="960" height="300" src="https://www.youtube.com/embed/8cUcTOX4oag" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 <!-- tabs:end -->
 
@@ -100,7 +102,9 @@ Coming soon. ⏰
 
 ## **Recording**
 
-Coming soon. ⏰
+<p>
+<iframe width="960" height="300" src="https://www.youtube.com/embed/P-M9jA_FSvA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 <!-- tabs:end -->
 
@@ -113,7 +117,9 @@ For the content of this lecture please refer to <a href="https://github.com/bsmo
 
 ## **Recording**
 
-Coming soon. ⏰
+<p>
+<iframe width="960" height="300" src="https://www.youtube.com/embed/LIOmq7RRl8U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 <!-- tabs:end -->
 
@@ -122,7 +128,9 @@ Coming soon. ⏰
 <!-- tabs:start -->
 ## **Lecture Slides**
 
-Coming soon. ⏰
+<p>
+  <iframe src="https://drive.google.com/file/d/1Q3y5xPi6Y_6jSoT-jiqcWNIFLkIXIsQY/preview" frameborder="0" width="960" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</p>
 
 ## **Recording**
 

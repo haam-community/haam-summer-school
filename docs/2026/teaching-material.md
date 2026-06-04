@@ -155,7 +155,10 @@ For the content of this lecture please refer to <a href="https://github.com/bsmo
 
 ## **Recording**
 
-Coming soon. ⏰
+<p>
+<iframe width="960" height="569" src="https://www.youtube.com/embed/dWJm2g82eD0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 
 <!-- tabs:end -->
 

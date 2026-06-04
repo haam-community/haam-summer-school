@@ -285,5 +285,6 @@ _Mateja Hajdinjak, Stéphane Peyrégne & Torsten Günther_
 </style>
 --> 
 
-
-While you wait for the new edition, if you wish to see the videos of the lectures from last year, please see the [2025 edition](/2025/) of the summer school. 
+## Additional support
+In addition to the support outlined in [Acknowledgements](/acknowledgments), this year's rendition of the HAAM Summer School was additionally supported by:
+<p style="text-align: center;"><a href="http://www.biologists.com/" target="_blank"><img src="assets/images/logos/CoB_logo_AW_RGB_bleed.jpg" height=200px padding=5px margin=10px></a></p>

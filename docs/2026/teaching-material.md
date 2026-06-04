@@ -16,7 +16,7 @@ The colour of each session header denotes the type of session:
 ## **Lecture Slides**
 
 <p>
-  <iframe src="https://drive.google.com/file/d/1wqFPxHzFpWNS6g1krTUGCYiXVNq93lDESnWynA4DXw4/preview" frameborder="0" width="960" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <iframe src="https://drive.google.com/file/d/15Aj7J-xthQ7eEzw0qDgdpY-CZM0K3fJa/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
 
 <!-- tabs:end -->
@@ -27,13 +27,13 @@ The colour of each session header denotes the type of session:
 ## **Lecture Slides**
 
 <p>
-  <iframe src="https://drive.google.com/file/d/1kjxcVV97ncZxCjgzmUgL1bYIHnGfGDOm/preview" frameborder="0" width="960" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <iframe src="https://drive.google.com/file/d/1kjxcVV97ncZxCjgzmUgL1bYIHnGfGDOm/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
 
 ## **Recording**
 
 <p>
-<iframe width="960" height="300" src="https://www.youtube.com/embed/hu8l5Hv8qQU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="960" height="569" src="https://www.youtube.com/embed/hu8l5Hv8qQU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <!-- tabs:end -->
@@ -48,7 +48,7 @@ For the content of this lecture please refer to the <a href="https://www.spaam-c
 ## **Recording**
 
 <p>
-<iframe width="960" height="300" src="https://www.youtube.com/embed/NlrRBgLLG_o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="960" height="569" src="https://www.youtube.com/embed/NlrRBgLLG_o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <!-- tabs:end -->
@@ -63,7 +63,7 @@ For the content of this lecture please refer to <a href="https://tawfikyoussef.g
 ## **Recording**
 
 <p>
-<iframe width="960" height="300" src="https://www.youtube.com/embed/eBuc8jaCzpI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="960" height="569" src="https://www.youtube.com/embed/eBuc8jaCzpI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 
@@ -78,13 +78,13 @@ For the content of this lecture please refer to <a href="https://tawfikyoussef.g
 ## **Lecture Slides**
 
 <p>
-  <iframe src="https://drive.google.com/file/d/1ZLNBTNwdC5_fbATlsD-QTbXG0na82qKX/preview" frameborder="0" width="960" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <iframe src="https://drive.google.com/file/d/1ZLNBTNwdC5_fbATlsD-QTbXG0na82qKX/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
 
 ## **Recording**
 
 <p>
-<iframe width="960" height="300" src="https://www.youtube.com/embed/AHCAcUZfraE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="960" height="569" src="https://www.youtube.com/embed/AHCAcUZfraE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <!-- tabs:end -->
@@ -96,14 +96,14 @@ For the content of this lecture please refer to <a href="https://tawfikyoussef.g
 ## **Lecture Slides**
 
 <p>
-  <iframe src="https://drive.google.com/file/d/1Pkkq38lj0mW-7Y0rHrQUslxIpe8Vu0E3/preview" frameborder="0" width="960" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <iframe src="https://drive.google.com/file/d/1Pkkq38lj0mW-7Y0rHrQUslxIpe8Vu0E3/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
 
 
 ## **Recording**
 
 <p>
-<iframe width="960" height="300" src="https://www.youtube.com/embed/P-M9jA_FSvA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="960" height="569" src="https://www.youtube.com/embed/P-M9jA_FSvA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <!-- tabs:end -->
@@ -118,7 +118,7 @@ For the content of this lecture please refer to <a href="https://github.com/bsmo
 ## **Recording**
 
 <p>
-<iframe width="960" height="300" src="https://www.youtube.com/embed/LIOmq7RRl8U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="960" height="569" src="https://www.youtube.com/embed/LIOmq7RRl8U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <!-- tabs:end -->
@@ -129,7 +129,7 @@ For the content of this lecture please refer to <a href="https://github.com/bsmo
 ## **Lecture Slides**
 
 <p>
-  <iframe src="https://drive.google.com/file/d/1Q3y5xPi6Y_6jSoT-jiqcWNIFLkIXIsQY/preview" frameborder="0" width="960" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <iframe src="https://drive.google.com/file/d/1Q3y5xPi6Y_6jSoT-jiqcWNIFLkIXIsQY/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
 
 ## **Recording**
@@ -147,7 +147,7 @@ Coming soon. ⏰
 ## **Lecture Slides**
 
 <p>
-  <iframe src="https://drive.google.com/file/d/1OGGFjdA18o6L4GLOM-h5BOy_i4O5_78w/preview" frameborder="0" width="960" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <iframe src="https://drive.google.com/file/d/1OGGFjdA18o6L4GLOM-h5BOy_i4O5_78w/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
 
 
@@ -163,7 +163,7 @@ Coming soon. ⏰
 ## **Lecture Slides**
 
 <p>
-  <iframe src="https://drive.google.com/file/d/11ueagYRy62eEtxwMJ6yPZbMqFJHcYq4E/preview" frameborder="0" width="960" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <iframe src="https://drive.google.com/file/d/11ueagYRy62eEtxwMJ6yPZbMqFJHcYq4E/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
 
 Click <a href="html_lectures/HAAM_SummerSchool2026_kinship_practical.html" download="HAAM_SummerSchool2026_kinship_practical.html">here</a> for the html version.
@@ -174,20 +174,8 @@ Coming soon. ⏰
 
 <!-- tabs:end -->
 
-<span class="theory">ancIBD (Harald Ringbauer)</span>
 
-<!-- tabs:start -->
-## **Lecture Slides**
-
-Coming soon. ⏰
-
-## **Recording**
-
-Coming soon. ⏰
-
-<!-- tabs:end -->
-
-<span class="practical">ancIBD (Harald Ringbauer)</span>
+<span class="practical">hapROH+ancIBD (Harald Ringbauer)</span>
 
 <!-- tabs:start -->
 ## **Lecture Slides**
@@ -208,7 +196,7 @@ Coming soon. ⏰
 ## **Lecture Slides**
 
 <p>
-  <iframe src="https://drive.google.com/file/d/1BL65PrT5eIV9x9ZYOWVUT_zE2j0_k0aD/preview" frameborder="0" width="960" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <iframe src="https://drive.google.com/file/d/1BL65PrT5eIV9x9ZYOWVUT_zE2j0_k0aD/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
 
 ## **Recording**
@@ -232,31 +220,19 @@ Coming soon. ⏰
 
 <!-- tabs:end -->
 
-<span class="theory">Intro to Unsupervised Analysis (Jazmín Madrigal)</span>
-
-<!-- tabs:start -->
-## **Lecture Slides**
-
-Coming soon. ⏰
-
-## **Recording**
-
-Coming soon. ⏰
-
-<!-- tabs:end -->
-
 <span class="practical">Intro to Unsupervised Analysis (Jazmín Madrigal)</span>
 
 <!-- tabs:start -->
 ## **Lecture Slides**
 
-Coming soon. ⏰
+Click <a href="html_lectures/Clustering_HAAM.html" download="HAAM_SummerSchool2026_unsupervised_analysis.html">here</a> for the html guide.
 
 ## **Recording**
 
 Coming soon. ⏰
 
 <!-- tabs:end -->
+
 
 <span class="round-table">Archaeological Interpretation (Maxime Brami)</span>
 

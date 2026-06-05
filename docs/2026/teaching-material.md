@@ -191,7 +191,10 @@ Click <a href="https://www.dropbox.com/scl/fo/x13ic2c5miangjd8r1zbe/AFcWxfL6TEST
 
 ## **Recording**
 
-Coming soon. ⏰
+<p>
+<iframe width="960" height="569" src="https://www.youtube.com/embed/BCEROHDKi-E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 
 <!-- tabs:end -->
 

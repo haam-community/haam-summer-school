@@ -274,9 +274,7 @@ Coming soon. ⏰
 <!-- tabs:start -->
 ## **Lecture Slides**
 
-<p>
-  <iframe src="https://drive.google.com/file/d/1umg6s8cX_KtUHwAsQH4JTlkMnB4xnA4m/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</p>
+Click <a href="/2026/html_lectures/fstats.html" download="HAAM_SummerSchool2026_F-stats.html">here</a> for the html guide.
 
 
 ## **Recording**

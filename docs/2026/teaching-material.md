@@ -171,7 +171,7 @@ For the content of this lecture please refer to <a href="https://github.com/bsmo
   <iframe src="https://drive.google.com/file/d/11ueagYRy62eEtxwMJ6yPZbMqFJHcYq4E/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
 
-Click <a href="html_lectures/HAAM_SummerSchool2026_kinship_practical.html" download="HAAM_SummerSchool2026_kinship_practical.html">here</a> for the html version.
+Click <a href="/2026/html_lectures/HAAM_SummerSchool2026_kinship_practical.html" download="HAAM_SummerSchool2026_kinship_practical.html">here</a> for the html version.
 
 ## **Recording**
 
@@ -230,7 +230,7 @@ Coming soon. ⏰
 <!-- tabs:start -->
 ## **Lecture Slides**
 
-Click <a href="html_lectures/Clustering_HAAM.html" download="HAAM_SummerSchool2026_unsupervised_analysis.html">here</a> for the html guide.
+Click <a href="/2026/html_lectures/Clustering_HAAM.html" download="HAAM_SummerSchool2026_unsupervised_analysis.html">here</a> for the html guide.
 
 ## **Recording**
 

@@ -171,7 +171,7 @@ For the content of this lecture please refer to <a href="https://github.com/bsmo
   <iframe src="https://drive.google.com/file/d/11ueagYRy62eEtxwMJ6yPZbMqFJHcYq4E/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
 
-Click <a href="/2026/html_lectures/HAAM_SummerSchool2026_kinship_practical.html" download="HAAM_SummerSchool2026_kinship_practical.html">here</a> for the html version.
+Click <a href="https://haam-community.github.io/haam-summer-school/2026/html_lectures/HAAM_SummerSchool2026_kinship_practical.html" target="_blank" rel="noopener">here</a> for the html guide.
 
 ## **Recording**
 
@@ -191,7 +191,10 @@ Click <a href="https://www.dropbox.com/scl/fo/x13ic2c5miangjd8r1zbe/AFcWxfL6TEST
 
 ## **Recording**
 
-Coming soon. ⏰
+<p>
+<iframe width="960" height="569" src="https://www.youtube.com/embed/BCEROHDKi-E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 
 <!-- tabs:end -->
 
@@ -230,7 +233,7 @@ Coming soon. ⏰
 <!-- tabs:start -->
 ## **Lecture Slides**
 
-Click <a href="/2026/html_lectures/Clustering_HAAM.html" download="HAAM_SummerSchool2026_unsupervised_analysis.html">here</a> for the html guide.
+Click <a href="https://haam-community.github.io/haam-summer-school/2026/html_lectures/Clustering_HAAM.html" target="_blank" rel="noopener">here</a> for the html guide.
 
 ## **Recording**
 
@@ -274,8 +277,9 @@ Coming soon. ⏰
 <!-- tabs:start -->
 ## **Lecture Slides**
 
-Click <a href="/2026/html_lectures/fstats.html" download="HAAM_SummerSchool2026_F-stats.html">here</a> for the html guide.
-
+<p>
+  <iframe src="https://drive.google.com/file/d/13F1z-s2rnHhQ9TnGbl3QacDMfVPepBHc/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</p>
 
 ## **Recording**
 

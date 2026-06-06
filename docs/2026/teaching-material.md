@@ -247,7 +247,10 @@ Coming soon. ⏰
 <!-- tabs:start -->
 ## **Lecture Slides**
 
-Coming soon. ⏰
+<p>
+  <iframe src="https://drive.google.com/file/d/1fepwiErfs4nSRZVYk3EDOBeVLsEUfXo3/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</p>
+
 
 ## **Recording**
 
@@ -280,19 +283,6 @@ Coming soon. ⏰
 <p>
   <iframe src="https://drive.google.com/file/d/13F1z-s2rnHhQ9TnGbl3QacDMfVPepBHc/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
-
-## **Recording**
-
-Coming soon. ⏰
-
-<!-- tabs:end -->
-
-<span class="theory">qpWave/qpAdm/qpGraph (Ainash Childebayava)</span>
-
-<!-- tabs:start -->
-## **Lecture Slides**
-
-Coming soon. ⏰
 
 ## **Recording**
 

@@ -8,13 +8,13 @@ They will be present throughout the sessions and will be happy to address all of
 <div class="avatar">
 
   <div class ="member">
-   <div class="square"><a href="" target="_blank"><img src="assets/images/organisers/Anna-Lena_photo.jpg" alt="Avatar" /></a></div>
+   <div class="square"><a href="https://cagt.cnrs.fr/titze-anna-lena/" target="_blank"><img src="assets/images/organisers/Anna-Lena_photo.jpg" alt="Avatar" /></a></div>
   <p>Anna-Lena Titze</p>
   </div>
 
 
   <div class="member">
-    <div class="square"><a href="" target="_blank"><img src="assets/images/organisers/Aurore_Galtier.png" alt="Avatar" /></a></div>
+    <div class="square"><a href="https://www.eva.mpg.de/de/genetics/advanced-dna-sequencing-techniques/group-staff/" target="_blank"><img src="assets/images/organisers/Aurore_Galtier.png" alt="Avatar" /></a></div>
   <p>Aurore Galtier</p>
   </div>
 
@@ -26,7 +26,7 @@ They will be present throughout the sessions and will be happy to address all of
 
 
   <div class="member">
-    <div class="square"><a href="" target="_blank"><img src="assets/images/instructors/Youssef_Tawfik_2026.png" alt="Avatar" /></a></div>
+    <div class="square"><a href="https://www.researchgate.net/profile/Youssef-Tawfik" target="_blank"><img src="assets/images/instructors/Youssef_Tawfik_2026.png" alt="Avatar" /></a></div>
   <p>Youssef Tawfik</p>
   </div>
 
@@ -39,7 +39,7 @@ They will be present throughout the sessions and will be happy to address all of
 <div class="avatar">
 
   <div class ="member">
-   <div class="square"><a href="" target="_blank"><img src="assets/images/organisers/tina_saupe.jpeg" alt="Avatar" /></a></div>
+   <div class="square"><a href="https://tinasaupe.github.io/tinasaupe.academicpage.github.io//" target="_blank"><img src="assets/images/organisers/tina_saupe.jpeg" alt="Avatar" /></a></div>
   <p>Tina Saupe</p>
   </div>
 
@@ -59,7 +59,6 @@ They will be present throughout the sessions and will be happy to address all of
   </div>
 
 </div>
-
 <div class="avatar">
 
   <div class ="member">
@@ -76,7 +75,6 @@ They will be present throughout the sessions and will be happy to address all of
    <div class="square"><a href="" target="_blank"><img src="assets/images/TAs/Shailesh_Desai.jpg" alt="Avatar" /></a></div>
   <p>Shailesh Desai</p>
   </div>
-
 
 </div>
 
@@ -175,7 +173,7 @@ _The summer school would not be possible without them, thank you!_
   </div>
 
   <div class ="member">
-    <div class="square"><a href="" target="_blank"><img src="assets/images/instructors/Stephane_Peyregne.jpg" alt="Avatar" /></a></div>
+    <div class="square"><a href="https://www.researchgate.net/scientific-contributions/Stephane-Peyregne-2133687299" target="_blank"><img src="assets/images/instructors/Stephane_Peyregne.jpg" alt="Avatar" /></a></div>
     <p>Stéphane Peyrégne</p>
   </div>
 

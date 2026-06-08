@@ -5,32 +5,32 @@ Meet the organisers/TAs of the 2024 HAAM Summer-School! They will be present thr
 <div class="avatar">
 
   <div class="member">
-  <div class="square"><a href="" target="_blank"><img src="assets/images/organisers/Epifania_Arango_Isaza.jpg" alt="Avatar" /></a></div>
+  <div class="square"><a href="" target="_blank"><img src="assets/images/people/A/ArangoIsaza_Epifania.jpg" alt="Avatar" /></a></div>
   <p>Epifanía Arango Isaza</p>
   </div>
 
   <div class="member">
-  <div class="square"><a href="https://www.eva.mpg.de/de/archaeogenetics/staff/laura-lacher/" target="_blank"><img src="assets/images/organisers/Laura_Lacher.jpg" alt="Avatar" /></a></div>
+  <div class="square"><a href="https://www.eva.mpg.de/de/archaeogenetics/staff/laura-lacher/" target="_blank"><img src="assets/images/people/L/Lacher_Laura.jpg" alt="Avatar" /></a></div>
   <p>Laura Lacher</p>
   </div>
   
   <div class="member">
-  <div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/558828" target="_blank"><img src="assets/images/organisers/Miren_Iraeta_Orbegozo.jpg" alt="Avatar" /></a></div>
+  <div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/558828" target="_blank"><img src="assets/images/people/O/Orbegozo_MirenIraeta.jpg" alt="Avatar" /></a></div>
   <p>Miren Iraeta Orbegozo</p>
   </div>
 
   <div class="member">
-  <div class="square"><a href="https://www.crick.ac.uk/research/find-a-researcher/marina-soares-da-silva" target="_blank"><img src="assets/images/organisers/Marina_Silva.jpg" alt="Avatar" /></a></div>
+  <div class="square"><a href="https://www.crick.ac.uk/research/find-a-researcher/marina-soares-da-silva" target="_blank"><img src="assets/images/people/S/Silva_Marina.jpg" alt="Avatar" /></a></div>
   <p>Marina Silva</p>
   </div>
 
   <div class ="member">
-  <div class="square"><a href="https://www.eva.mpg.de/archaeogenetics/staff/thiseas-christos-lamnidis/" target="_blank"><img src="assets/images/organisers/Thiseas_Christos_Lamnidis.jpg" alt="Avatar" /></a></div>
+  <div class="square"><a href="https://www.eva.mpg.de/archaeogenetics/staff/thiseas-christos-lamnidis/" target="_blank"><img src="assets/images/people/L/Lamnidis_ThiseasChristos.jpg" alt="Avatar" /></a></div>
   <p>Thiseas Christos Lamnidis</p>
   </div>
 
   <div class ="member">
-  <div class="square"><a href="https://www.eva.mpg.de/tropical-archaeogenomics/group-staff/" target="_blank"><img src="assets/images/organisers/Beatriz_Amorim.jpg" alt="Avatar" /></a></div>
+  <div class="square"><a href="https://www.eva.mpg.de/tropical-archaeogenomics/group-staff/" target="_blank"><img src="assets/images/people/A/Amorim_Beatriz.jpg" alt="Avatar" /></a></div>
   <p>Beatriz Amorim</p>
   </div>
 
@@ -46,32 +46,32 @@ Meet your instructors! This page introduces you to the people guiding you throug
 <div class="avatar">
 
   <div class ="member">
-    <div class="square"><a href="https://www.crick.ac.uk/research/find-a-researcher/kyriaki-anastasiadou" target="_blank"><img src="assets/images/instructors/kakia.jpg" alt="Avatar" /></a></div>
+    <div class="square"><a href="https://www.crick.ac.uk/research/find-a-researcher/kyriaki-anastasiadou" target="_blank"><img src="assets/images/people/A/Anastasiadou_Kyriaki.jpg" alt="Avatar" /></a></div>
     <p>Kyriaki 'Kakia' Anastasiadou</p>
   </div>
 
   <div class ="member">
-    <div class="square"><a href="https://www.jafy.eu/" target="_blank"><img src="assets/images/instructors/james.png" alt="Avatar" /></a></div>
+    <div class="square"><a href="https://www.jafy.eu/" target="_blank"><img src="assets/images/people/F/FellowsYates_James.jpg" alt="Avatar" /></a></div>
     <p>James Fellows Yates</p>
   </div>
 
   <div class ="member">
-    <div class="square"><a href="https://www.eva.mpg.de/de/archaeogenetics/staff/selina-carlhoff/" target="_blank"><img src="assets/images/instructors/selina.jpg" alt="Avatar" /></a></div>
+    <div class="square"><a href="https://www.eva.mpg.de/de/archaeogenetics/staff/selina-carlhoff/" target="_blank"><img src="assets/images/people/C/Carlhoff_Selina.jpg" alt="Avatar" /></a></div>
     <p>Selina Carlhoff</p>
   </div>
 
   <div class ="member">
-    <div class="square"><a href="https://search.asu.edu/profile/535281" target="_blank"><img src="assets/images/instructors/ktsosie.png" alt="Avatar" /></a></div>
+    <div class="square"><a href="https://search.asu.edu/profile/535281" target="_blank"><img src="assets/images/people/T/Tsotsie_Krystal.jpg" alt="Avatar" /></a></div>
     <p>Krystal Tsotsie</p>
   </div>
 
   <div class ="member">
-    <div class="square"><a href="https://www.researchgate.net/profile/Sevval-Aktuerk" target="_blank"><img src="assets/images/instructors/sevval.jpg" alt="Avatar" /></a></div>
+    <div class="square"><a href="https://www.researchgate.net/profile/Sevval-Aktuerk" target="_blank"><img src="assets/images/people/A/Akturk_Sevval.jpg" alt="Avatar" /></a></div>
     <p>Şevval Aktürk</p>
   </div>
 
   <div class ="member">
-    <div class="square"><a href="https://www.sib.swiss/directory/person/barbara-damota" target="_blank"><img src="assets/images/instructors/barbara.jpg" alt="Avatar" /></a></div>
+    <div class="square"><a href="https://www.sib.swiss/directory/person/barbara-damota" target="_blank"><img src="assets/images/people/S/SousaDaMota_Barbara.jpg" alt="Avatar" /></a></div>
     <p>Bárbara Sousa da Mota</p>
   </div>
 
@@ -80,27 +80,27 @@ Meet your instructors! This page introduces you to the people guiding you throug
 <div class="avatar">
 
   <div class ="member">
-    <div class="square"><a href="https://www.eva.mpg.de/archaeogenetics/staff/harald-ringbauer/" target="_blank"><img src="assets/images/instructors/harald.jpg" alt="Avatar" /></a></div>
+    <div class="square"><a href="https://www.eva.mpg.de/archaeogenetics/staff/harald-ringbauer/" target="_blank"><img src="assets/images/people/R/Ringbauer_Harald.jpg" alt="Avatar" /></a></div>
     <p>Harald Ringbauer</p>
   </div>
 
   <div class ="member">
-    <div class="square"><a href="https://www.eva.mpg.de/archaeogenetics/staff/stephan-schiffels/" target="_blank"><img src="assets/images/instructors/stephan.jpg" alt="Avatar" /></a></div>
+    <div class="square"><a href="https://www.eva.mpg.de/archaeogenetics/staff/stephan-schiffels/" target="_blank"><img src="assets/images/people/S/Schiffels_Stephan.jpg" alt="Avatar" /></a></div>
     <p>Stephan Schiffels</p>
   </div>
 
   <div class ="member">
-    <div class="square"><a href="https://nevrome.de" target="_blank"><img src="assets/images/instructors/clemens.JPG" alt="Avatar" /></a></div>
+    <div class="square"><a href="https://nevrome.de" target="_blank"><img src="assets/images/people/S/Schmid_Clemens.jpg" alt="Avatar" /></a></div>
     <p>Clemens Schmid</p>
   </div>
 
   <div class ="member">
-    <div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/502736" target="_blank"><img src="assets/images/instructors/jazmin.jpg" alt="Avatar" /></a></div>
+    <div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/502736" target="_blank"><img src="assets/images/people/R/RamosMadrigal_Jazmin.jpg" alt="Avatar" /></a></div>
     <p>Jazmín Ramos Madrigal</p>
   </div>
 
   <div class ="member">
-    <div class="square"><a href="https://github.com/uqrmaie1" target="_blank"><img src="assets/images/instructors/robert.jpg" alt="Avatar" /></a></div>
+    <div class="square"><a href="https://github.com/uqrmaie1" target="_blank"><img src="assets/images/people/M/Maier_Robert.jpg" alt="Avatar" /></a></div>
     <p>Robert Maier</p>
   </div>
 

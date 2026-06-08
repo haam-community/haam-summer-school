@@ -43,16 +43,16 @@ Meet the organisers/TAs of the 2025 HAAM Summer-School! They will be present thr
   <p>Beatriz Amorim</p>
   </div>
 
+  <div class ="member">
+   <div class="square"><a href="" target="_blank"><img src="assets/images/people/L/Leibson_Chen.jpg" alt="Avatar" /></a></div>
+  <p>Chen Leibson</p>
+  </div>
+
 </div>
 
 <br>
 
 <div class="avatar">
-
-  <div class ="member">
-   <div class="square"><a href="" target="_blank"><img src="assets/images/people/L/Leibson_Chen.jpg" alt="Avatar" /></a></div>
-  <p>Chen Leibson</p>
-  </div>
 
   <div class ="member">
    <div class="square"><a href="" target="_blank"><img src="assets/images/people/B/Bella_Elisa.jpg" alt="Avatar" /></a></div>
@@ -63,13 +63,6 @@ Meet the organisers/TAs of the 2025 HAAM Summer-School! They will be present thr
    <div class="square"><a href="" target="_blank"><img src="assets/images/people/Z/Zhu_Jennifer.jpg" alt="Avatar" /></a></div>
   <p>Jennifer Zhu</p>
   </div>
-
-
-</div>
-
-<br>
-
-<div class="avatar">
 
   <div class ="member">
    <div class="square"><a href="https://www.eva.mpg.de/archaeogenetics/staff/thiseas-christos-lamnidis/" target="_blank"><img src="assets/images/people/L/Lamnidis_ThiseasChristos.jpg" alt="Avatar" /></a></div>
@@ -106,14 +99,15 @@ Meet your instructors! This page introduces you to the people guiding you throug
     <p>Éadaoin Harney</p>
   </div>
 
-</div>
-
-<div class="avatar">
-
   <div class ="member">
     <div class="square"><a href="https://www.researchgate.net/profile/Eirini-Skourtanioti" target="_blank"><img src="assets/images/people/S/Skourtanioti_Eirini.jpg" alt="Avatar" /></a></div>
     <p>Eirini Skourtanioti</p>
   </div>
+
+</div>
+<br>
+
+<div class="avatar">
 
   <div class ="member">
     <div class="square"><a href="https://www.tcd.ie/Genetics/molpopgen/emily.php" target="_blank"><img src="assets/images/people/B/Breslin_Emily.jpg" alt="Avatar" /></a></div>
@@ -125,13 +119,7 @@ Meet your instructors! This page introduces you to the people guiding you throug
     <p>Harald Ringbauer</p>
   </div>
 
-</div>
-
-<br>
-
-<div class="avatar">
-
-   <div class ="member">
+  <div class ="member">
     <div class="square"><a href="https://www.jafy.eu" target="_blank"><img src="assets/images/people/F/FellowsYates_James.jpg" alt="Avatar" /></a></div>
     <p>James Fellows Yates</p>
   </div>
@@ -140,17 +128,15 @@ Meet your instructors! This page introduces you to the people guiding you throug
     <div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/502736" target="_blank"><img src="assets/images/people/R/RamosMadrigal_Jazmin.jpg" alt="Avatar" /></a></div>
     <p>Jazmín Ramos Madrigal</p>
   </div>
-
-  <div class ="member">
-    <div class="square"><a href="https://www.arch.cam.ac.uk/directory/jer39" target="_blank"><img src="assets/images/people/R/Robb_John.jpg" alt="Avatar" /></a></div>
-    <p>John Robb</p>
-  </div>
-
 </div>
 
 <br>
 
 <div class="avatar">
+  <div class ="member">
+    <div class="square"><a href="https://www.arch.cam.ac.uk/directory/jer39" target="_blank"><img src="assets/images/people/R/Robb_John.jpg" alt="Avatar" /></a></div>
+    <p>John Robb</p>
+  </div>
 
   <div class ="member">
     <div class="square"><a href="https://leospeidel.github.io" target="_blank"><img src="assets/images/people/S/Speidel_Leo.jpg" alt="Avatar" /></a></div>
@@ -180,7 +166,6 @@ Meet your instructors! This page introduces you to the people guiding you throug
 
 </div>
 
-<br>
 <br>
 
 **Bárbara Sousa da Mota**: Originally from Portugal, Bárbara studied physics for her bachelor’s and master’s degrees in Porto and Lisbon, respectively. After modelling wildfire propagation for her master’s thesis, she moved to the University of Lausanne to pursue a PhD in the field of quantitative biology under the supervision of Anna-Sapfo Malaspinas and Olivier Delaneau. There, she assessed how imputation tools and resources can reliably be applied in the field of ancient human DNA, and analysed ancient genomes to unravel some key aspects of the history of the Rapanui, the indigenous people of Easter Island. Bárbara has recently started working as a postdoctoral researcher in David Reich’s research group at Harvard University.  She will teach a theoretical session on imputation of aDNA.

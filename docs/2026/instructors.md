@@ -59,6 +59,7 @@ They will be present throughout the sessions and will be happy to address all of
   </div>
 
 </div>
+<br>
 <div class="avatar">
 
   <div class ="member">
@@ -77,7 +78,6 @@ They will be present throughout the sessions and will be happy to address all of
   </div>
 
 </div>
-
 <br>
 
 # Instructors
@@ -111,7 +111,7 @@ _The summer school would not be possible without them, thank you!_
   </div>
 
 </div>
-
+<br>
 <div class="avatar">
 
   <div class ="member">
@@ -135,7 +135,7 @@ _The summer school would not be possible without them, thank you!_
   </div>
 
 </div>
-
+<br>
 <div class="avatar">
 
   <div class ="member">
@@ -159,7 +159,7 @@ _The summer school would not be possible without them, thank you!_
   </div>
 
 </div>
-
+<br>
 <div class="avatar">
 
   <div class ="member">
@@ -183,7 +183,7 @@ _The summer school would not be possible without them, thank you!_
   </div>
 
 </div>
-
+<br>
 <div class="avatar">
 
   <div class ="member">
@@ -197,7 +197,6 @@ _The summer school would not be possible without them, thank you!_
   </div>
 
 </div>
-
 <br>
 
 **Ainash Childebayava** is an Assistant Professor in the Anthropology Department at the University of Texas at Austin. My research interests include Genetics, Epigenetics, ancient DNA, and Natural Selection. Current Projects in the Lab are focused on the ancient history of the Eurasian Steppe, high-altitude adaptation in the Andes, and general studies and methods development to better understand population genetics and determine signatures of selection in the human genome. I earned my PhD from the University of Michigan, Ann Arbor in Anthropology and Toxicology, and did a postdoc in the department of Archaeogenetics at the Max Planck Institutes for the Science of Human History (MPI-SHH) and the Evolutionary Anthropology (MPI-EVA).  My research interests include Genetics, Epigenetics, ancient DNA, and Natural Selection. Current Projects in the Lab are focused on the ancient history of the Eurasian Steppe, high-altitude adaptation in the Andes, the effects of the environment on the epigenome.

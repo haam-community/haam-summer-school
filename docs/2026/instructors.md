@@ -38,11 +38,45 @@ They will be present throughout the sessions and will be happy to address all of
 
 <div class="avatar">
 
-
   <div class ="member">
    <div class="square"><a href="" target="_blank"><img src="assets/images/organisers/tina_saupe.jpeg" alt="Avatar" /></a></div>
   <p>Tina Saupe</p>
   </div>
+
+  <div class ="member">
+   <div class="square"><a href="" target="_blank"><img src="assets/images/TAs/Odongoo_Ra.JPG" alt="Avatar" /></a></div>
+  <p>Odongoo Ra</p>
+  </div>
+
+<div class ="member">
+   <div class="square"><a href="" target="_blank"><img src="assets/images/TAs/Martina_Gulì.jpg" alt="Avatar" /></a></div>
+  <p>Martina Gulì</p>
+  </div>
+
+<div class ="member">
+   <div class="square"><a href="" target="_blank"><img src="assets/images/TAs/Indré_Krastinaitè.jpg" alt="Avatar" /></a></div>
+  <p>Indré Krastinaitè</p>
+  </div>
+
+</div>
+
+<div class="avatar">
+
+  <div class ="member">
+   <div class="square"><a href="" target="_blank"><img src="assets/images/TAs/Chen_Leibson.JPG" alt="Avatar" /></a></div>
+  <p>Chen Leibson</p>
+  </div>
+
+  <div class ="member">
+   <div class="square"><a href="" target="_blank"><img src="assets/images/TAs/photo_Jennifer.jpg" alt="Avatar" /></a></div>
+  <p>Jennifer Zhu</p>
+  </div>
+
+  <div class ="member">
+   <div class="square"><a href="" target="_blank"><img src="assets/images/TAs/Shailesh_Desai.jpg" alt="Avatar" /></a></div>
+  <p>Shailesh Desai</p>
+  </div>
+
 
 </div>
 
@@ -112,7 +146,7 @@ _The summer school would not be possible without them, thank you!_
   </div>
 
   <div class ="member">
-    <div class="square"><a href="Sandra_Oliveira.jpg" target="_blank"><img src="assets/images/instructors/speidel_leo.jpg" alt="Avatar" /></a></div>
+    <div class="square"><a href="Sandra_Oliveira.jpg" target="_blank"><img src="assets/images/instructors/Sandra_Oliveira.jpg" alt="Avatar" /></a></div>
     <p>Sandra Oliveira</p>
   </div>
 
@@ -190,9 +224,9 @@ _The summer school would not be possible without them, thank you!_
 
 **Sarah Abel** is Assistant Professor in Philosophy of Science at the National Autonomous University of Mexico (UNAM). Her research examines contemporary racisms and antiracisms at the interface between scientific knowledge production and social uses of genomic and digital technologies. She has been a member of two interdisciplinary European research networks about genomics, human histories, and social uses of DNA, and she is the author of Permanent Markers: Race, Ancestry, and the Body After the Genome (University of North Carolina Press, 2021).
 
-**Selina Carlhoff** is a postdoc at MPI-EVA studying regional connectivity and community structure using archaeogenetics. Her work spans Holocene Southeast Asia to post-Bronze Age Europe, combining lab work, bioinformatics, and archaeological insight.
-
 **Selina Carlhoff** (@selinacarlhoff.bsky.social) is a postdoc at the Department of Archaeogenetics of the Max Planck Institute for Evolutionary Anthropology. Her research focuses on the effects of large-scale demographic events on individual communities and the reconstruction of social organisation and practices. She has worked on interdisciplinary projects studying the early human settlement of the Indo-Pacific and more recent pre-historic cultural transitions in the region, as well as the large trade networks of Iron Age Central Europe and pre-colonial Central America.
+
+**Şevval Aktürk** is currently a PhD candidate in the Bioinformatics Department at Hacettepe University, Türkiye. She completed her master’s in Molecular Biology and Genetics at Middle East Technical University, where she simulated ancient genomes to assess the reliability of genetic relatedness estimation tools. Her doctoral research focuses on analyzing time-series ancient human and microbial DNA data to understand the factors shaping the oral microbiome composition of Anatolian individuals. She also investigates the population dynamics of Late Chalcolithic/Early Bronze Age and Medieval Anatolia.
 
 **Stephan Schiffels** is a group leader for population genetics at the Department for Archaeogenetics of the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany. His research group at the MPI investigates human history by means of Genetics, and develops computational methods to model and analyse ancient and modern genomic data.
 

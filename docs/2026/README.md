@@ -6,6 +6,8 @@ Applications for the 2026 HAAM Summer school are now [open](https://forms.gle/ck
 -->
 Applications for the 2026 HAAM Summer school are now closed! 
 
+We had more than 130 applications. Thank you for your interest :D
+
 ## What
 
 The **HAAM Summer School** is a 5 day workshop, with a mix of theoretical and practical sessions. Our Summer School covers different aspects of human ancient DNA (aDNA) research, including both technical and ethical challenges, and considerations when working with human skeletal remains and human genetic data.
@@ -22,7 +24,13 @@ The course was planned by active researchers of the HAAM-community (including MP
 
 The course is aimed at Masters or early-stage PhD students and early-stage researchers.
 
-<!-- You can meet the instructors [here](/2024/instructors.md). -->
+Check where our students will be coming from:
+
+<p  align="middle">
+<img src="assets/images/haam-summer-school-2026/maps/2026_participant_map.png" alt="HAAM Summer School 2026 Map" >
+</p>
+
+You can meet the instructors [here](/2026/instructors.md).
 
 ## When
 
@@ -30,20 +38,26 @@ The summer school will be held between 1st-5th June 2026, at the following times
 
 | **Time-Zone**    | **Schedule** 
 | ----------- | ---------------- |
-| Central Daylight Time (GMT-6) | 02:00-10:00 |
-| Eastern Daylight Time (GMT-4) | 03:00-11:00 |
-| Brasilia Standard Time (GMT-3) | 04:00-12:00 |
-| Central European Time (GMT+2 / CET) | 09:00-17:00 |
-| South-African Standard Time (GMT+2) | 09:00-17:00 |
-| Istanbul Standard Time (GMT+3) | 10:00-18:00 |
-| Japan Standard Time (GMT+9) | 16:00-00:00 |
+| Central Daylight Time (GMT-6) | 02:00-11:00 |
+| Eastern Daylight Time (GMT-4) | 03:00-12:00 |
+| Brasilia Standard Time (GMT-3) | 04:00-13:00 |
+| Central European Time (GMT+2 / CET) | 09:00-18:00 |
+| South-African Standard Time (GMT+2) | 09:00-18:00 |
+| Istanbul Standard Time (GMT+3) | 10:00-19:00 |
+| Japan Standard Time (GMT+9) | 16:00-01:00 |
 
 \* Please check [here](https://www.worldtimebuddy.com/) any time-zone we did not cover.
 
 
 ## Where
 
-We are running this virtual edition of the HAAM Summer School on **WorkAdventure**.
+We are running this virtual edition of the HAAM Summer School on [WorkAdventure](https://workadventu.re/). The selected students will receive an email with an invite link. Please login with the email you received your invitation on.
+
+If you're not familiar with this platform check the document below with a map of our HAAM Summer School world and instructions of How-To navigate.
+
+<p>
+  <iframe src="https://drive.google.com/file/d/1mkd1869V3-TpYCYKfdtlrc6gsfFlfh2F/preview" frameborder="0" width="960" height="369" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</p>
 
 <!--, on the [HAAM workspace](https://app.gather.town/events/eozSbSqyTOeSmmVNyvBX).
 
@@ -94,7 +108,7 @@ If you get a message about permissions for 'colour management', please use the p
     <td class="practical">NF-Core/Eager<br><br>Selina Carlhoff<br>Judith Ballesteros</td>
     <td class="practical">Pairwise Mismatch Rates PMR<br><br>Şevval Aktürk</td>
     <td class="theory">Intro to Unsupervised Analysis<br><br>Jazmín Madrigal</td>
-    <td class="practical">F-stats<br><br>Leonardo Valini</td>
+    <td class="practical">F-stats<br><br>Leonardo Vallini</td>
   </tr>
 
   <!-- Lunch -->
@@ -112,7 +126,7 @@ If you get a message about permissions for 'colour management', please use the p
     <td>13:15–14:45</td>
     <td class="practical">Intro to BASH<br><br>Thiseas Lamnidis</td>
     <td class="theory">Imputation<br><br>Bárbara Sousa da Mota</td>
-    <td class="theory">ancIBD<br><br>Harald Ringbauer</td>
+    <td class="practical">hapROH<br><br>Harald Ringbauer</td>
     <td class="practical">Intro to Unsupervised Analysis<br><br>Jazmín Madrigal</td>
     <td class="theory">qpWave / qpAdm / qpGraph<br><br>Ainash Childebayava</td>
   </tr>
@@ -135,7 +149,7 @@ If you get a message about permissions for 'colour management', please use the p
     <td class="practical">RFMix + IBD<br><br>Sandra Oliveira</td>
     <td class="round-table">Archaeological Interpretation<br><br>Maxime Brami</td>
     <td class="round-table">Limitations in aDNA Analysis<br><br>
-      Mateja Hadjiniak<br>Stéphane Peyrégne<br>Torsten Günther
+      Mateja Hajdinjak<br>Stéphane Peyrégne<br>Torsten Günther
     </td>
   </tr>
 </table>
@@ -232,7 +246,7 @@ table:last-of-type th {
 ### DAY 3 (Wednesday, June 3rd, 2026)
 - **Lecture** Introduction to Genetic Relatedness (including IBD): _Şevval Aktürk_
 - **Practical** Pairwise Mismatch Rates (PMR): _Şevval Aktürk_
-- **Lecture** / **Practical** ancIBD: _Harald Ringbauer_
+- **Practical** ancIBD: _Harald Ringbauer_
 - **Practical** RFMix + IBD: _Sandra Oliveira_
 
 ### DAY 4 (Thursday, June 4th, 2026)
@@ -245,7 +259,7 @@ table:last-of-type th {
 - **Practical** F-statistics: _Leonardo Vallini_
 - **Lecture** / **Practical** qpWave / qpAdm / qpGraph: _Ainash Childebayava_
 - **Round table** Limitations in aDNA Analysis:
-_Mateja Hadjiniak, Stéphane Peyrégne & Torsten Günther_
+_Mateja Hajdinjak, Stéphane Peyrégne & Torsten Günther_
 
 \* At the Round tables you will be able to discuss any issues that arose during the days related to each day's topic. You can also ask questions and get answers regarding your own work.
 
@@ -271,4 +285,6 @@ _Mateja Hadjiniak, Stéphane Peyrégne & Torsten Günther_
 </style>
 --> 
 
-While you wait for the new edition, if you wish to see the videos of the lectures from last year, please see the [2025 edition](/2025/) of the summer school. 
+## Additional support
+In addition to the support outlined in [Acknowledgements](/acknowledgments), this year's rendition of the HAAM Summer School was additionally supported by:
+<p style="text-align: center;"><a href="http://www.biologists.com/" target="_blank"><img src="assets/images/logos/CoB_logo_AW_RGB_bleed.jpg" height=200px padding=5px margin=10px></a></p>

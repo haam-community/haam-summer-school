@@ -7,7 +7,7 @@ We would like to thank
 ## **Academic Support**
 
 <p>
-	The active researchers from the HAAM community, including MPI-EVA (DE), University of Mainz (Germany) and University of Tolousse (France), for volunteering to organize this course. We would also like to extend our appreciation to the invited instructors who generously dedicated their time to teach at the summer school.
+	The active researchers from the HAAM community, including MPI-EVA (Germany), University of Mainz (Germany), and University of Tolousse (France), for volunteering to organize this course. We would also like to extend our appreciation to the invited instructors who generously dedicated their time to teach at the summer school.
 </p>
 
 ## **Financial Support**
@@ -15,9 +15,10 @@ We would like to thank
 <p>
 	<a  href="https://www.eva.mpg.de/"><img src="assets/images/logos/MPI_Logo_DE_CMYK_green.png" height=75px padding=5px margin=10px></a>
 	<a  href="https://www.isbarch.org/"><img src="assets/images/logos/isba.svg" height=75px padding=5px margin=10px></a>
+	<a  href="https://palaeogenetics-mainz.de/"><img src="assets/images/logos/palaeo-group-logo.png" height=75px padding=5px margin=10px></a>
 	<br>
 	<br>
-	The summer school is supported by the Max Planck Institute for Evolutionary Anthropology and the International Society of Biomolecular Archaeology.
+	The summer school is supported by the Max Planck Institute for Evolutionary Anthropology, the International Society of Biomolecular Archaeology, and Johannes Gutenberg University of Mainz (Palaeogenetics group).
 </p> 
 
 ## **Infrastructural Support**

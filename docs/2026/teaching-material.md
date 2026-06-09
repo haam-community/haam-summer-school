@@ -175,7 +175,10 @@ Click <a href="https://haam-community.github.io/haam-summer-school/2026/html_lec
 
 ## **Recording**
 
-Coming soon. ⏰
+<p>
+<iframe width="960" height="569" src="https://www.youtube.com/embed/mHcmX-XbNpc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 
 <!-- tabs:end -->
 
@@ -192,7 +195,7 @@ Click <a href="https://www.dropbox.com/scl/fo/x13ic2c5miangjd8r1zbe/AFcWxfL6TEST
 ## **Recording**
 
 <p>
-<iframe width="960" height="569" src="https://www.youtube.com/embed/BCEROHDKi-E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="960" height="569" src="https://www.youtube.com/embed/HORtStFLQEs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 
@@ -295,7 +298,13 @@ Coming soon. ⏰
 <!-- tabs:start -->
 ## **Lecture Slides**
 
-Coming soon. ⏰
+<p>
+  <a href="https://drive.google.com/uc?export=download&id=13ghOEAPgakQyXy5_jRfAT_xSt2dUsjPg"
+     target="_blank"
+     rel="noopener">
+    Download the R script
+  </a>
+</p>
 
 ## **Recording**
 

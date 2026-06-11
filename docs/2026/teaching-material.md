@@ -257,7 +257,10 @@ Coming soon. ⏰
 
 ## **Recording**
 
-Coming soon. ⏰
+<p>
+<iframe width="960" height="569" src="https://www.youtube.com/embed/mgN12QQGwkM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 
 <!-- tabs:end -->
 

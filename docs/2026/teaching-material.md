@@ -240,7 +240,10 @@ Click <a href="https://haam-community.github.io/haam-summer-school/2026/html_lec
 
 ## **Recording**
 
-Coming soon. ⏰
+<p>
+<iframe width="960" height="569" src="https://www.youtube.com/embed/s7kokcvn0kw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 
 <!-- tabs:end -->
 

@@ -223,7 +223,10 @@ Coming soon. ⏰
 <!-- tabs:start -->
 ## **Lecture Slides**
 
-Coming soon. ⏰
+<p>
+  <iframe src="https://drive.google.com/file/d/10-XjU2wYPX2t-XkFwuTpQYDZubzQGH2B/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</p>
+
 
 ## **Recording**
 

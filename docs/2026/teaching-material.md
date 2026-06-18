@@ -330,9 +330,19 @@ Coming soon. ⏰
 <span class="round-table">Limitations in aDNA analysis (Mateja Hajdinjak/ Stéphane Peyrégne/ Torsten Günther)</span>
 
 <!-- tabs:start -->
-## **Lecture Slides**
+## **Mateja Slides**
 
 Coming soon. ⏰
+
+## **Stephane Slides**
+
+Coming soon. ⏰
+
+## **Torsten Slides**
+
+<p>
+  <iframe src="https://drive.google.com/file/d/1F_-HbHi63gai1tfrqFy2lp56hwN-SHb1/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</p>
 
 ## **Recording**
 

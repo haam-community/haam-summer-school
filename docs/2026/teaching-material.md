@@ -308,12 +308,18 @@ Coming soon. ⏰
 ## **Lecture Slides**
 
 <p>
+  <iframe src="https://drive.google.com/file/d/1Geoi5ZcJ5MqNN0MPJfijtGf1WhEbdd7v/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</p>
+
+
+<p>
   <a href="https://drive.google.com/uc?export=download&id=13ghOEAPgakQyXy5_jRfAT_xSt2dUsjPg"
      target="_blank"
      rel="noopener">
-    Download the R script
+    Click here to download the R script
   </a>
 </p>
+
 
 ## **Recording**
 
@@ -324,9 +330,19 @@ Coming soon. ⏰
 <span class="round-table">Limitations in aDNA analysis (Mateja Hajdinjak/ Stéphane Peyrégne/ Torsten Günther)</span>
 
 <!-- tabs:start -->
-## **Lecture Slides**
+## **Mateja Slides**
 
 Coming soon. ⏰
+
+## **Stephane Slides**
+
+Coming soon. ⏰
+
+## **Torsten Slides**
+
+<p>
+  <iframe src="https://drive.google.com/file/d/1F_-HbHi63gai1tfrqFy2lp56hwN-SHb1/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</p>
 
 ## **Recording**
 

@@ -311,15 +311,15 @@ Coming soon. ⏰
   <iframe src="https://drive.google.com/file/d/1Geoi5ZcJ5MqNN0MPJfijtGf1WhEbdd7v/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
 
-## **Practical code**
 
 <p>
   <a href="https://drive.google.com/uc?export=download&id=13ghOEAPgakQyXy5_jRfAT_xSt2dUsjPg"
      target="_blank"
      rel="noopener">
-    Download the R script
+    Click here to download the R script
   </a>
 </p>
+
 
 ## **Recording**
 

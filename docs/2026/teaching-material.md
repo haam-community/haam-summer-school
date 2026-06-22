@@ -283,7 +283,10 @@ Click <a href="https://haam-community.github.io/haam-summer-school/2026/html_lec
 
 ## **Recording**
 
-Coming soon. ⏰
+<p>
+<iframe width="960" height="569" src="https://www.youtube.com/embed/WXne5kVk9lY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 
 <!-- tabs:end -->
 
@@ -298,7 +301,11 @@ Coming soon. ⏰
 
 ## **Recording**
 
-Coming soon. ⏰
+<p>
+<iframe width="960" height="569" src="https://www.youtube.com/embed/pB7rvm7JYrA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+**<p>N.B. Due to a technical issue, the slides aren't visible in the last ~15 minutes of the recording, so we please ask you to check the practical's slides in parallel.</p>**
 
 <!-- tabs:end -->
 
